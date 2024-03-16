@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<style>
+		@font-face {
+		    font-family: Billabong;
+		    src: url(./assets/Billabong.ttf);
+		}
+		body{
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+			display: flex;
+			flex-direction: column;
+		    width: 100%;
+		    height: auto;
+		    justify-content: center;
+		    align-items: center;
+		    text-decoration: none;
+		}
+
+		.container{
+			width: 80%;
+			margin: auto 10%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			margin: 20px auto;
+		}
+
+		.form-box{
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+		}
+
+
+		.form-container{
+			width: 350px;
+			border: 1px solid #dbdbdb;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			padding: 10px;
+
+		}
+
+		.text-logo{
+			font-family: Billabong;
+			font-size: 60px;
+			font-weight: 500;
+			line-height: 40px;
+		}
+
+		.input-box{
+			width: 100%;
+			margin: 5px auto;
+			display: flex;
+			align-items: stretch;
+			justify-content: center;
+		}
+
+		input{
+			background: #fafafa;
+			border: 1px solid #dbdbdb;
+			outline: none;
+			width: 80%;
+			overflow: hidden;
+			padding: 9px 2px 7px 8px;
+			text-overflow: ellipsis;
+			color: black;
+			font-size: 14px;
+			border-radius: 2px;
+		}
+
+		input::placeholder{
+			color: #606770;
+			font-size: 12px;
+		}
+
+		.btn-box{
+			width: 80%;
+			display: flex;
+			align-items: stretch;
+			justify-content: center;
+		}
+
+		.login-btn{
+			background: #0095f6;
+			border: none;
+			border-radius: 8px;
+			width: 100%;
+			padding: 7px 16px;
+			font-size: 14px;
+			color: white;
+			margin: 10px auto;
+		}
+
+		.divider-box{
+			width: 70%;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			text-transform: uppercase;
+			font-size: .8123rem;
+			font-weight: 600;
+			color: #737373;
+			padding: 10px auto;
+			margin: 10px auto;
+		}
+
+		.divider-line{
+			height: 1px;
+			width: 100%;
+			background: #dbdbdb;
+			margin: 5px 8px;
+
+		}
+
+		.fb-btn{
+			background: transparent;
+			color: #385185;
+			display: flex;
+			align-items: center;
+			border: none;
+			font-size: 14px;
+			font-weight: 600;
+			cursor: pointer;
+
+		}
+
+		.login-oath{
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.fb-btn > img{
+			width: 18px;
+			margin: auto 5px;
+		}
+
+		.forgot-password{
+			font-size: 13px;
+			color: #00376b;
+			line-height: 60px;
+			font-weight: 400;
+			text-align: center;
+			word-break: break-word;
+			text-decoration: none;
+
+		}
+
+		.sign-up{
+			width: 350px;
+			border: 1px solid #dbdbdb;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			padding: 10px;
+			color: black;
+			margin-top: 20px;
+			font-size: 14;
+			font-weight: 400;
+		}
+
+		.sign-up-link{
+			font-weight: 600;
+			text-decoration: none;
+			color: #0095f6;
+			font-family: sans-serif;
+		}
+
+		.get-app{
+			width: 350px;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			padding: 10px;
+			line-height: 60px;
+		}
+
+		.action-text{
+			line-height: 20px;
+		}
+
+		.stores{
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
+		.store-link{
+			text-decoration: none;
+			margin: auto 10px;
+		}
+
+		.store-link > img{
+			height: 40px;
+			overflow-clip-margin: content-box;
+			overflow: clip;
+			border: 0;
+
+		}
+
+		@media screen and (max-width: 920px){
+			.img-container{
+				display: none;
+			}
+		}
+
+	</style>
+</head>
+<body>
+<div class="container">
+    <div class="img-container">
+    	<img src="./assets/insta.png">
+    </div>
+   <div class="form-box">
+    <form class="form-container">
+    	<h1 class="text-logo">Instagram</h1>
+    	
+    	<div class="input-box">
+    		<input type="text" placeholder="Phone number, username, or email" name="">
+    	</div>
+
+    	<div class="input-box">
+    		<input type="password" placeholder="Password" name="">
+    	</div>
+    	<div class="btn-box">
+         <button class="login-btn">Login</button>
+        </div>
+
+        <div class="divider-box">
+        	<div class="divider-line"></div>
+        	<p>or</p>
+        	<div class="divider-line"></div>
+        </div>
+
+        <div class="login-oath">
+        	<button class="fb-btn">
+        		<img src="./assets/fb-icon.png">
+        		<span>Log in with Facebook</span>
+        	</button>
+        	<a href="#" class="forgot-password">Forgot Password?</a>
+        </div>
+    </form>	
+
+        <div class="sign-up">
+        	<p>Don't have an account? <a class="sign-up-link" href="#">Sign up</a></p>
+        </div>
+
+
+        <div class="get-app">
+        	<p class="action-text">Get the app</p>
+        	<div class="stores">
+        		<a class="store-link">
+        			<img src="./assets/play-icon.png">
+        		</a>
+        		<a class="store-link">
+        			<img src="./assets/ms-icon.png">
+        		</a>
+        	</div>
+        </div>
+</div>
+
+</div>
+
+
+</body>
+</html>
