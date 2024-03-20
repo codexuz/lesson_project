@@ -68,7 +68,6 @@ body{
 .buttons{
 	display: flex;
 	align-items: center;
-	justify-content: center;
 }
 
 .btn{
@@ -141,16 +140,16 @@ h2.hero-text{
 }
 
 .my-1{
-   margin: 10px auto;
+   margin: 10px 0;
 }
 
 
 .my-2{
-   margin: 20px auto;
+   margin: 20px 0;
 }
 
 .my-3{
-   margin: 30px auto;
+   margin: 30px 0;
 }
 
 .round-parent{
@@ -248,4 +247,75 @@ h2.hero-text{
 
 .text-gray{
 	color: #707070;
+}
+
+.step-2{
+	width: 80%;
+	margin: 20px 10%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.col{
+	width: 35%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.home-text{
+	color: white;
+	font-size: 18px;
+	line-height: 45px;
+	font-weight: thin;
+}
+
+.text-box{
+	color: white;
+	line-height: 40px;
+	padding: 30px auto;
+}
+
+.content{
+	font-size: 45px;
+	font-weight: 600;
+	line-height: 70px;
+}
+
+.text-blue{
+	color: #3C82F4;
+}
+
+.list{
+	color: white;
+	margin: 20px 0;
+}
+
+li::marker{
+  background: #2D2D2D;
+  width: 10px;
+  height: 10px;
+  border: none;
+  border-radius: 100%;
+}
+
+.mr-1{
+	margin-right: 10px;
+}
+
+.ml-1{
+	margin-left: 10px;
+}
+
+.line-h-3{
+	line-height: 30px;
+}
+
+.my-4{
+	margin: 40px 0;
+}
+
+.text-center{
+	text-align: center;
 }
