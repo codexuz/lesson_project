@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    user-select: none;
+}
+
+.main-window{
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.sidebar{
+    width: 400px;
+    height: inherit;
+    border: 1px solid #f6f6f6;
+    padding: 10px;
+}
+
+.main{
+    width: calc(100% - 250px);
+    background-image: url(./assets/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: inherit;
+}
+
+.top-bar{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 10px auto;
+}
+
+.w-10{
+    width: 2rem;
+}
+
+.h-10{
+    height: 2rem;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.mx-1{
+    margin-left: .1rem;
+    margin-right: .1rem;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.searchbar{
+    width: 90%;
+    padding: 10px 15px;
+    border: 1px solid dodgerblue;
+    border-radius: 30px;
+}
+
+input {
+    border: none;
+    background: transparent;
+    outline: none;
+    padding: auto 20px;
+    margin: auto 5px;
+    font-size: 11px;
+    font-size: 17px;
+}
+
+input::placeholder{
+    color: #8f8d8d;
+}
+
+.stories {
+    width: 100%;
+    white-space: nowrap;
+    overflow: auto; /* Hide the scrollbar */
+}
+
+.story-wrapper {
+    overflow-x: auto; /* Enable horizontal scrolling */
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer and Edge */
+}
+
+.story-wrapper::-webkit-scrollbar {
+    display: none; /* Hide scrollbar in Chrome, Safari, and Opera */
+}
+
+.story-item {
+    display: inline-block; /* Ensure items are displayed in a row */
+    margin-right: 2px; /* Adjust spacing between items */
+}
+
+.story-img {
+    width: 40px; /* Adjust image width */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.search-icon{
+    width: 20px;
+}
