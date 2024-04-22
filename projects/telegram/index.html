@@ -10,11 +10,50 @@
     <section class="main-window">
         <aside class="sidebar">
 
-           <div class="top-bar">
+           <div class="top-bar relative">
             <div class="toggle-btn cursor-pointer mx-1">
-                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
-                  </svg>                  
+                <button class="toggler">
+                    <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+                      </svg> 
+                </button>
+                  
+                 
+                  <div class="toggle-menu">
+                    <ul class="toggle-menu-items">
+                        <li class="toggle-menu-item">
+                            <span class="menu-icon">
+                                <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0 1 11.186 0Z" />
+                                  </svg>
+                                  
+                            </span>
+                            <p class="toggle-menu-link">Saved Messages</p>
+                        </li>
+                        <li class="toggle-menu-item">
+                            <span class="menu-icon">
+                                <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z" />
+                                  </svg>
+                                  
+                                  
+                            </span>
+                            <p class="toggle-menu-link">Archived Chats</p>
+                        </li>
+                        <li class="toggle-menu-item">
+                            <span class="menu-icon">
+                                <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z" />
+                                  </svg>
+                                  
+                                  
+                                  
+                            </span>
+                            <p class="toggle-menu-link">Contacts</p>
+                        </li>
+                    </ul>
+                  </div>
+                  
             </div>
 
                 <div class="searchbar flex items-center mx-1">
@@ -22,7 +61,7 @@
                         <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
                       </svg>
                       
-                   <input type="search" placeholder="Search"/>
+                   <input type="text" placeholder="Search"/>
                 </div>
 
            </div>
@@ -53,12 +92,96 @@
                     <img src="https://img.freepik.com/premium-vector/man-character_665280-46970.jpg" class="story-img">
                 </div>
            </div>
-
+           <main class="users-box">
+            <div class="tabs">
+               <div class="tab-item tab-active relative">
+                  <h2>All</h2>
+                  <div class="absolute badge-primary">13</div>
+                  <i class="trans-line"></i>
+               </div>
+               <div class="tab-item">
+                  <h2>Personal</h2>
+                  <i class="trans-line hidden"></i>
+               </div>
+               <div class="tab-item relative">
+                  <h2>Group</h2>
+                  <div class="absolute badge-light">3</div>
+                  <i class="trans-line hidden"></i>
+               </div>
+               <div class="tab-item relative">
+                  <h2>Channel</h2>
+                  <div class="absolute badge-primary">63</div>
+                  <i class="trans-line hidden"></i>
+               </div>
+            </div>
+            <i class="horizontal-line"></i>
+           <section id="users" style="width: 100%;"></section>
+           </main>
         </aside>
 
         <main class="main">
 
         </main>
     </section>
+
+    <script>
+        var users = [
+            {
+                ism: "Javlon Kubayev",
+                xabar: "Salom! Ahvollaring yaxshimi? Ko'rinmaysan?",
+                sana: "Apr 19",
+                avatar: "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+            },
+            {
+                ism: "Jonibek Dev",
+                xabar: "Biz ham yuribmiz o'qib-izlanib",
+                sana: "Apr 2",
+                avatar: "https://static.vecteezy.com/system/resources/thumbnails/010/967/316/small_2x/avatar-bearded-man-free-vector.jpg"
+            },
+            {
+                ism: "Hakim jo'ra",
+                xabar: "Instagramga tez kir senga zo'r video jo'natdim",
+                sana: "Feb 20",
+                avatar: "https://img.freepik.com/premium-vector/man-wearing-spect-working-laptop_579367-106.jpg"
+            },
+            {
+                ism: "Exam Online Edumo",
+                xabar: "Request letter topshiriq.pdf",
+                sana: "Mar 27",
+                avatar: "https://developer.apple.com/forums/public/assets/avatars/1095.png"
+            }
+        ]
+
+        users.forEach((user) => {
+            let template = document.getElementById('users')
+            template.innerHTML +=`
+            
+
+              <div class="user-card">
+                <div class="card-header">
+                    <img class="avatar" src=${user.avatar} alt="Avatar">
+                    <div class="title-box">
+                        <h2 class="card-title">${user.ism}</h2>
+                        <p class="card-subtitle">${user.xabar.slice(0, 30)+"..."}</p>
+                    </div>
+                </div>
+                <div class="card-content">
+                    <div>
+                        <p class="card-date">${user.sana}</p>
+                        <p class="pinned">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 36 36">
+                                <path fill="currentColor" d="M33 16.59a1 1 0 0 1-.71-.29L19.7 3.71a1 1 0 0 1 1.41-1.41l12.6 12.59a1 1 0 0 1-.71 1.7" class="clr-i-outline clr-i-outline-path-1" />
+                                <path fill="currentColor" d="m28.52 15.56l-1.41-1.41l-7.2 7.2a1 1 0 0 0-.25 1a9 9 0 0 1-1.53 8.09L5.58 17.87a9 9 0 0 1 8.09-1.53a1 1 0 0 0 1-.25l7.2-7.2l-1.43-1.41l-6.79 6.79a10.94 10.94 0 0 0-10.24 2.84a1 1 0 0 0 0 1.42l6.33 6.33l-7.45 7.43A1 1 0 1 0 3.7 33.7l7.44-7.44l6.33 6.33a1 1 0 0 0 .71.29a1 1 0 0 0 .71-.3a11 11 0 0 0 2.84-10.24Z" class="clr-i-outline clr-i-outline-path-2" />
+                                <path fill="none" d="M0 0h36v36H0z" />
+                            </svg>
+                        </p>
+                    </div>
+                </div>
+              </div>
+
+           </main>
+           ` 
+        })
+    </script>
 </body>
 </html>
