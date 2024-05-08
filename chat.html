@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <style>
+        header{
+            width: 100%;
+            padding: 10px 20px;
+            background-color: #4903c2;
+            color: white;
+            position: sticky;
+            top: 0;
+        }
+
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        
+
+        .user-box{
+            width: 60px;
+            height: 60px;
+            border: none;
+            border-radius: 50%;
+            position: relative;
+        }
+
+        .user-avatar{
+            border: none;
+            border-radius: 50%;
+        }
+
+        .indicator{
+            width: 15px;
+            height: 15px;
+            border: none;
+            border-radius: 50%;
+            background-color: #07bc86;
+            position: absolute;
+            top: 20px;
+            right: -10px;
+        }
+
+        .main{
+            padding-bottom: 150px;
+            overflow: auto;
+        }
+
+        .footer{
+            width: 100%;
+            height: auto;
+            padding: 10px 20px;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: fixed;
+            bottom: 10px;
+            padding-top:30px ;
+            background-color: white;
+        }
+
+        .user-message{
+            border: none;
+            outline: none;
+            width: 80%;
+            padding: 6px 20px;
+            color: #565656;
+            background-color: transparent;
+            font-size: 20px;
+        }
+
+        .user-message:focus{
+            border-bottom: 1px solid #0672de;
+        }
+
+        .footer > button {
+          border: none;
+          outline: none;
+          background-color: transparent;
+          margin: auto 10px;
+        }
+
+        .cursor-pointer{
+            cursor: pointer;
+        }
+
+        .chat{
+            width: auto;
+            padding: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            margin: 10px 2px;
+            row-gap: 10px;
+        }
+
+        .chat-user{
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+        }
+
+        .chat-user-avatar{
+            width: 40px;
+            height: 40px;
+            border: none;
+            border-radius: 50%;
+        }
+
+        .chat-message{
+            padding: 13px 20px;
+            background-color: #dedddd;
+            margin: auto 5px;
+            border-top-right-radius: 20px;
+            border-bottom-right-radius: 20px;
+            border-top-left-radius: 10px;
+            color: #323232;
+            text-align: left;
+
+        }
+
+
+        .user{
+            justify-content: flex-end;
+        }
+
+        @media screen and (max-width: 882px){
+            .footer{
+                width: 100%;
+                margin: auto 0;
+            }
+        }
+
+        
+    </style>
+</head>
+<body>
+    <header>
+        <div class="user-box">
+            <img src="https://www.shutterstock.com/image-vector/chatbot-robo-advisor-adviser-chat-600nw-1127293046.jpg" alt="" class="user-avatar" width="60" height="60">
+            <div class="indicator"></div>
+        </div>
+    </header>
+
+    <main class="main">
+       
+    </main>
+
+    <footer class="footer">
+     <input type="text" placeholder="Xabar kiritish" class="user-message">
+     <button class="send-btn">
+        <svg class="cursor-pointer" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 32 32">
+            <path fill="dodgerblue" d="m27.45 15.11l-22-11a1 1 0 0 0-1.08.12a1 1 0 0 0-.33 1L6.69 15H18v2H6.69L4 26.74A1 1 0 0 0 5 28a1 1 0 0 0 .45-.11l22-11a1 1 0 0 0 0-1.78" />
+        </svg>
+     </button>
+    </footer>
