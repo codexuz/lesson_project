@@ -1,1 +1,3 @@
 const ApiKey = 'trnsl.1.1.20240328T172133Z.800fbf38653eb71f.274911e5561765645d307633ea22ebddc2a2156e'
+
+const gptApiKey = "sk-proj-G6lWv8gAxQ3ZN0UqT4rrT3BlbkFJkx990Q2tEj9owqpeEadx"
