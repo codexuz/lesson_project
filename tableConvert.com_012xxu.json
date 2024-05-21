@@ -1,0 +1,3277 @@
+﻿[
+    {
+        "word": "console",
+        "pronunciation": "kənˈsəʊl",
+        "example": "He tried to console her after the loss."
+    },
+    {
+        "word": "abolish",
+        "pronunciation": "əˈbɒlɪʃ",
+        "example": "The government decided to abolish the old law."
+    },
+    {
+        "word": "abstract",
+        "pronunciation": "abstrakt",
+        "example": "The painting was an abstract representation of emotion."
+    },
+    {
+        "word": "abundant",
+        "pronunciation": "əˈbʌnd(ə)nt",
+        "example": "The forest was abundant with wildlife."
+    },
+    {
+        "word": "academic",
+        "pronunciation": "/akəˈdɛmɪk",
+        "example": "She pursued an academic career in physics."
+    },
+    {
+        "word": "accelerate",
+        "pronunciation": "əkˈsɛləreɪt",
+        "example": "The car began to accelerate down the highway."
+    },
+    {
+        "word": "acknowledge",
+        "pronunciation": "/əkˈnɒlɪdʒ",
+        "example": "He acknowledged his mistake and apologized."
+    },
+    {
+        "word": "adapt",
+        "pronunciation": "/əˈdapt",
+        "example": "Animals adapt to their environments to survive."
+    },
+    {
+        "word": "adjacent",
+        "pronunciation": "/əˈdʒeɪs(ə)nt",
+        "example": "Their houses were adjacent to each other."
+    },
+    {
+        "word": "adjust",
+        "pronunciation": "/əˈdʒʌst",
+        "example": "She needed to adjust the settings on her computer."
+    },
+    {
+        "word": "administer",
+        "pronunciation": "ədˈmɪnɪstə",
+        "example": "The nurse will administer the medication."
+    },
+    {
+        "word": "admit",
+        "pronunciation": "ədˈmɪt",
+        "example": "He had to admit that he was wrong."
+    },
+    {
+        "word": "adopt",
+        "pronunciation": "əˈdɒpt",
+        "example": "They decided to adopt a child from overseas."
+    },
+    {
+        "word": "advocate",
+        "pronunciation": "ˈadvəkət",
+        "example": "She is a strong advocate for animal rights."
+    },
+    {
+        "word": "aggravate",
+        "pronunciation": "ˈaɡrəveɪt",
+        "example": "His constant complaints only served to aggravate the situation."
+    },
+    {
+        "word": "agonise",
+        "pronunciation": "ˈaɡənʌɪz",
+        "example": "She agonized over the decision for days."
+    },
+    {
+        "word": "agony",
+        "pronunciation": "ˈaɡəni",
+        "example": "The pain was so intense, he was in agony."
+    },
+    {
+        "word": "aggression",
+        "pronunciation": "əˈɡrɛʃ(ə)n",
+        "example": "His aggression often got him into trouble."
+    },
+    {
+        "word": "agriculture",
+        "pronunciation": "ˈaɡrɪkʌltʃə",
+        "example": "She studied agriculture in college."
+    },
+    {
+        "word": "airline",
+        "pronunciation": "ˈɛːlʌɪn",
+        "example": "She booked a ticket with the national airline."
+    },
+    {
+        "word": "allege",
+        "pronunciation": "əˈlɛdʒ",
+        "example": "He alleged that he had been mistreated."
+    },
+    {
+        "word": "alleviate",
+        "pronunciation": "əˈliːvɪeɪt",
+        "example": "The medication helped to alleviate her pain."
+    },
+    {
+        "word": "alternate",
+        "pronunciation": "ˈɔːltəneɪt",
+        "example": "They took turns driving, alternating every hour."
+    },
+    {
+        "word": "alternative",
+        "pronunciation": "ɔːlˈtəːnətɪv",
+        "example": "She explored alternative methods of healing."
+    },
+    {
+        "word": "ambiguous",
+        "pronunciation": "amˈbɪɡjʊəs",
+        "example": "The instructions were ambiguous and hard to follow."
+    },
+    {
+        "word": "amend",
+        "pronunciation": "əˈmɛnd",
+        "example": "He promised to amend the mistakes in the report."
+    },
+    {
+        "word": "ample",
+        "pronunciation": "amp(ə)l",
+        "example": "There was ample evidence to support her claim."
+    },
+    {
+        "word": "ancestor",
+        "pronunciation": "ˈansɛstə",
+        "example": "She traced her ancestors back to Scotland."
+    },
+    {
+        "word": "anchor",
+        "pronunciation": "ˈaŋkə",
+        "example": "The ship dropped anchor in the harbor."
+    },
+    {
+        "word": "antidote",
+        "pronunciation": "ˈantɪdəʊt",
+        "example": "The antidote saved her from the snake's venom."
+    },
+    {
+        "word": "apathy",
+        "pronunciation": "ˈapəθi",
+        "example": "His apathy towards politics was evident."
+    },
+    {
+        "word": "appreciate",
+        "pronunciation": "əˈpriːʃɪeɪt",
+        "example": "She appreciated the effort he put into the gift."
+    },
+    {
+        "word": "approach",
+        "pronunciation": "əˈprəʊtʃ",
+        "example": "They took a cautious approach to the problem."
+    },
+    {
+        "word": "approximate",
+        "pronunciation": "əˈprɒksɪmət",
+        "example": "The approximate cost of the project was calculated."
+    },
+    {
+        "word": "acquaintance",
+        "pronunciation": "əˈkweɪnt(ə)ns",
+        "example": "She ran into an old acquaintance at the store."
+    },
+    {
+        "word": "area",
+        "pronunciation": "ˈɛːrɪə",
+        "example": "The park covers a large area of land."
+    },
+    {
+        "word": "ascend",
+        "pronunciation": "əˈsɛnd",
+        "example": "The climbers began to ascend the mountain."
+    },
+    {
+        "word": "ascribe",
+        "pronunciation": "əˈskrʌɪb",
+        "example": "They ascribed the success to teamwork."
+    },
+    {
+        "word": "assert",
+        "pronunciation": "əˈsəːt",
+        "example": "She assertively stated her opinion."
+    },
+    {
+        "word": "assess",
+        "pronunciation": "əˈsɛs",
+        "example": "The teacher needs to assess the students' progress."
+    },
+    {
+        "word": "assign",
+        "pronunciation": "əˈsʌɪn",
+        "example": "He assigned different tasks to each team member."
+    },
+    {
+        "word": "attach",
+        "pronunciation": "əˈtatʃ",
+        "example": "Please attach the document to your email."
+    },
+    {
+        "word": "attribute",
+        "pronunciation": "əˈtrɪbjuːt",
+        "example": "She attributes her success to hard work and determination."
+    },
+    {
+        "word": "auction",
+        "pronunciation": "ˈɔːkʃ(ə)n",
+        "example": "They auctioned off valuable artwork."
+    },
+    {
+        "word": "audition",
+        "pronunciation": "ɔːˈdɪʃ(ə)n",
+        "example": "She had to audition for the lead role in the play."
+    },
+    {
+        "word": "authority",
+        "pronunciation": "ɔːˈθɒrɪti",
+        "example": "The government has authority over its citizens."
+    },
+    {
+        "word": "average",
+        "pronunciation": "ˈav(ə)rɪdʒ",
+        "example": "The average temperature in July is 25 degrees Celsius."
+    },
+    {
+        "word": "avoid",
+        "pronunciation": "əˈvɔɪd",
+        "example": "She tried to avoid making the same mistake twice."
+    },
+    {
+        "word": "baffle",
+        "pronunciation": "ˈbaf(ə)l",
+        "example": "The magician's trick baffled the audience."
+    },
+    {
+        "word": "batch",
+        "pronunciation": "batʃ",
+        "example": "He baked a batch of cookies for the party."
+    },
+    {
+        "word": "behaviour",
+        "pronunciation": "bɪˈheɪvjə",
+        "example": "His behavior at the party was unacceptable."
+    },
+    {
+        "word": "benefit",
+        "pronunciation": "ˈbɛnɪfɪt",
+        "example": "Regular exercise has many health benefits."
+    },
+    {
+        "word": "benign",
+        "pronunciation": "bɪˈnʌɪn",
+        "example": "The tumor turned out to be benign."
+    },
+    {
+        "word": "bestseller",
+        "pronunciation": "bɛstˈsɛlə",
+        "example": "Her novel became a bestseller within weeks of its release."
+    },
+    {
+        "word": "better",
+        "pronunciation": "ˈbɛtə",
+        "example": "She wanted to do better in her next exam."
+    },
+    {
+        "word": "biased",
+        "pronunciation": "ˈbʌɪəst",
+        "example": "The judge was accused of being biased."
+    },
+    {
+        "word": "blemish",
+        "pronunciation": "ˈblɛmɪʃ",
+        "example": "She covered the blemish on her face with makeup."
+    },
+    {
+        "word": "block",
+        "pronunciation": "blɒk",
+        "example": "There's a block of flats on the corner."
+    },
+    {
+        "word": "blow",
+        "pronunciation": "bləʊ",
+        "example": "The strong wind blew the hat off his head."
+    },
+    {
+        "word": "blunt",
+        "pronunciation": "blʌnt",
+        "example": "The knife had a blunt edge."
+    },
+    {
+        "word": "boast",
+        "pronunciation": "bəʊst",
+        "example": "He liked to boast about his achievements."
+    },
+    {
+        "word": "bond",
+        "pronunciation": "bɒnd",
+        "example": "Their friendship was built on a strong bond."
+    },
+    {
+        "word": "bounce",
+        "pronunciation": "baʊns",
+        "example": "The ball bounced off the wall."
+    },
+    {
+        "word": "breakthrough",
+        "pronunciation": "ˈbreɪkθruː",
+        "example": "The scientist made a breakthrough in cancer research."
+    },
+    {
+        "word": "brittle",
+        "pronunciation": "brɪt(ə)l",
+        "example": "The old wood had become brittle and cracked easily."
+    },
+    {
+        "word": "broadband",
+        "pronunciation": "ˈbrɔːdband",
+        "example": "They upgraded to a faster broadband connection."
+    },
+    {
+        "word": "broadcast",
+        "pronunciation": "ˈbrɔːdkɑːst",
+        "example": "The news was broadcast on all major networks."
+    },
+    {
+        "word": "built up",
+        "pronunciation": "bɪltˈʌp",
+        "example": "The city had built up around the old castle."
+    },
+    {
+        "word": "bulk",
+        "pronunciation": "bʌlk",
+        "example": "They bought rice in bulk to save money."
+    },
+    {
+        "word": "bully",
+        "pronunciation": "ˈbʊli",
+        "example": "He was bullied at school for being different."
+    },
+    {
+        "word": "bureaucracy",
+        "pronunciation": "/ˌbjʊ(ə)ˈrɒkrəsi",
+        "example": "The bureaucracy slowed down the process of getting approval."
+    },
+    {
+        "word": "bypass",
+        "pronunciation": "ˈbʌɪpɑːs",
+        "example": "They built a bypass to ease traffic congestion."
+    },
+    {
+        "word": "caption",
+        "pronunciation": "ˈkapʃ(ə)n",
+        "example": "She wrote a witty caption for the photo."
+    },
+    {
+        "word": "cargo",
+        "pronunciation": "ˈkɑːɡəʊ",
+        "example": "The ship was loaded with cargo bound for foreign ports."
+    },
+    {
+        "word": "carriage",
+        "pronunciation": "ˈkarɪdʒ",
+        "example": "They took a horse-drawn carriage through the park."
+    },
+    {
+        "word": "catastrophe",
+        "pronunciation": "kəˈtastrəfi",
+        "example": "The earthquake was a catastrophe for the city."
+    },
+    {
+        "word": "cause",
+        "pronunciation": "kɔːz",
+        "example": "The storm caused widespread damage."
+    },
+    {
+        "word": "chaos",
+        "pronunciation": "ˈkeɪɒs",
+        "example": "The protest descended into chaos."
+    },
+    {
+        "word": "charity",
+        "pronunciation": "ˈtʃarɪti",
+        "example": "They donated to charity every year."
+    },
+    {
+        "word": "charter",
+        "pronunciation": "ˈtʃɑːtə",
+        "example": "They chartered a boat for a day of fishing."
+    },
+    {
+        "word": "cheapen",
+        "pronunciation": "ˈtʃiːp(ə)n",
+        "example": "Lowering the price would cheapen the brand."
+    },
+    {
+        "word": "chip",
+        "pronunciation": "tʃɪp",
+        "example": "He bit into the crisp chip."
+    },
+    {
+        "word": "chuckle",
+        "pronunciation": "tʃʌk(ə)l",
+        "example": "He couldn't help but chuckle at the joke."
+    },
+    {
+        "word": "citizen",
+        "pronunciation": "sɪtɪz(ə)n",
+        "example": "As a citizen, she had certain rights and responsibilities."
+    },
+    {
+        "word": "clamber",
+        "pronunciation": "klambə",
+        "example": "The children clambered over the rocks to reach the top."
+    },
+    {
+        "word": "clarification",
+        "pronunciation": "klarɪfɪˈkeɪʃ(ə)n",
+        "example": "Could you provide some clarification on this point?"
+    },
+    {
+        "word": "class",
+        "pronunciation": "klɑːs",
+        "example": "She teaches a yoga class on Saturdays."
+    },
+    {
+        "word": "clench",
+        "pronunciation": "klɛn(t)ʃ",
+        "example": "He clenched his fists in frustration."
+    },
+    {
+        "word": "click",
+        "pronunciation": "klɪk",
+        "example": "With a click of the mouse, the document was sent."
+    },
+    {
+        "word": "clutch",
+        "pronunciation": "klʌtʃ",
+        "example": "She clutched her bag tightly as she walked through the crowded street."
+    },
+    {
+        "word": "coexist",
+        "pronunciation": "ˌkəʊɪɡˈzɪst",
+        "example": "Different species can coexist peacefully in the same habitat."
+    },
+    {
+        "word": "coherent",
+        "pronunciation": "kə(ʊ)ˈhɪər(ə)nt",
+        "example": "His argument was clear and coherent."
+    },
+    {
+        "word": "coincidence",
+        "pronunciation": "kəʊˈɪnsɪd(ə)ns",
+        "example": "It was a coincidence that we both wore the same shirt."
+    },
+    {
+        "word": "colloquial",
+        "pronunciation": "",
+        "example": "Colloquial language often varies from formal language."
+    },
+    {
+        "word": "collector's item",
+        "pronunciation": "",
+        "example": "That antique clock is a collector's item."
+    },
+    {
+        "word": "columnist",
+        "pronunciation": "kɒləm(n)ɪst",
+        "example": "She's a regular columnist for the local newspaper."
+    },
+    {
+        "word": "comfort",
+        "pronunciation": "ˈkʌmfət",
+        "example": "The soft cushions provided comfort after a long day."
+    },
+    {
+        "word": "command",
+        "pronunciation": "kəˈmɑːnd",
+        "example": "He spoke with authority and command."
+    },
+    {
+        "word": "community",
+        "pronunciation": "kəˈmjuːnɪti",
+        "example": "The local community came together to support the charity."
+    },
+    {
+        "word": "commute",
+        "pronunciation": "kəˈmjuːt",
+        "example": "Many people commute to work by train."
+    },
+    {
+        "word": "compact",
+        "pronunciation": "kəmˈpakt",
+        "example": "She carried a compact mirror in her purse."
+    },
+    {
+        "word": "companion",
+        "pronunciation": "kəmˈpanjən",
+        "example": "Her dog was her loyal companion."
+    },
+    {
+        "word": "compatible",
+        "pronunciation": "kəmˈpatɪb(ə)l",
+        "example": "The software is compatible with most operating systems."
+    },
+    {
+        "word": "compensation",
+        "pronunciation": "kɒmpɛnˈseɪʃ(ə)n",
+        "example": "She received compensation for the damage to her car."
+    },
+    {
+        "word": "complex",
+        "pronunciation": "ˈkɒmplɛks",
+        "example": "The situation is quite complex and requires careful consideration."
+    },
+    {
+        "word": "comprehend",
+        "pronunciation": "kɒmprɪˈhɛnd",
+        "example": "It took him some time to comprehend the magnitude of the problem."
+    },
+    {
+        "word": "comprise",
+        "pronunciation": "kəmˈprʌɪz",
+        "example": "The book comprises three volumes."
+    },
+    {
+        "word": "compromise",
+        "pronunciation": "ˈkɒmprəmʌɪz",
+        "example": "They reached a compromise after hours of negotiation."
+    },
+    {
+        "word": "concentrate",
+        "pronunciation": "kɒns(ə)ntreɪt",
+        "example": "She needs to concentrate on her studies."
+    },
+    {
+        "word": "concentrate",
+        "pronunciation": "kɒns(ə)ntreɪt",
+        "example": "The juice is made from concentrated orange extract."
+    },
+    {
+        "word": "conduct",
+        "pronunciation": "ˈkɒndʌkt",
+        "example": "He conducted himself with great professionalism."
+    },
+    {
+        "word": "confide",
+        "pronunciation": "kənˈfʌɪd",
+        "example": "She confided in her best friend about her fears."
+    },
+    {
+        "word": "confirm",
+        "pronunciation": "kənˈfəːm",
+        "example": "Please confirm your attendance by email."
+    },
+    {
+        "word": "conflict",
+        "pronunciation": "ˈkɒnflɪkt",
+        "example": "There was a conflict between the two parties."
+    },
+    {
+        "word": "confront",
+        "pronunciation": "kənˈfrʌnt",
+        "example": "She had to confront her fears in order to overcome them."
+    },
+    {
+        "word": "conquer",
+        "pronunciation": "ˈkɒŋkə",
+        "example": "The army was determined to conquer the enemy territory."
+    },
+    {
+        "word": "conscientious",
+        "pronunciation": "ˌkɒnʃɪˈɛnʃəs",
+        "example": "He was a conscientious worker, always diligent and thorough."
+    },
+    {
+        "word": "consent",
+        "pronunciation": "kənˈsɛnt",
+        "example": "They cannot proceed without your consent."
+    },
+    {
+        "word": "consequence",
+        "pronunciation": "kɒnsɪkw(ə)ns",
+        "example": "He didn't consider the consequences of his actions."
+    },
+    {
+        "word": "conservative",
+        "pronunciation": "kənˈsəːvətɪv",
+        "example": "She holds conservative views on social issues."
+    },
+    {
+        "word": "consider",
+        "pronunciation": "kənˈsɪdə",
+        "example": "You should consider all the options before making a decision."
+    },
+    {
+        "word": "considerable",
+        "pronunciation": "kənˈsɪd(ə)rəb(ə)l",
+        "example": "He has made considerable progress in his studies."
+    },
+    {
+        "word": "consistent",
+        "pronunciation": "kənˈsɪst(ə)nt",
+        "example": "Her performance has been consistent throughout the season."
+    },
+    {
+        "word": "construct",
+        "pronunciation": "kənˈstrʌkt",
+        "example": "They plan to construct a new bridge over the river."
+    },
+    {
+        "word": "consultant",
+        "pronunciation": "kənˈsʌlt(ə)nt",
+        "example": "The company hired a consultant to improve its marketing strategy."
+    },
+    {
+        "word": "consumer electronics",
+        "pronunciation": "",
+        "example": "Consumer electronics like smartphones and laptops are in high demand."
+    },
+    {
+        "word": "contaminate",
+        "pronunciation": "kənˈtamɪneɪt",
+        "example": "Chemical spills can contaminate the water supply."
+    },
+    {
+        "word": "contemplate",
+        "pronunciation": "ˈkɒntɛmpleɪt",
+        "example": "She sat by the window, contemplating the meaning of life."
+    },
+    {
+        "word": "contentment",
+        "pronunciation": "kənˈtɛntm(ə)nt",
+        "example": "The old man smiled with contentment as he watched his grandchildren play."
+    },
+    {
+        "word": "context",
+        "pronunciation": "ˈkɒntɛkst",
+        "example": "It's important to understand the context of the situation before making judgments."
+    },
+    {
+        "word": "contradict",
+        "pronunciation": "kɒntrəˈdɪkt",
+        "example": "Her statement seems to contradict what she said earlier."
+    },
+    {
+        "word": "contrasting",
+        "pronunciation": "kənˈtrɑːstɪŋ",
+        "example": "The contrasting colors of the flowers made the garden look vibrant."
+    },
+    {
+        "word": "controversy",
+        "pronunciation": "ˈkɒntrəvəːsi",
+        "example": "The decision sparked controversy among the members of the committee."
+    },
+    {
+        "word": "convert",
+        "pronunciation": "kənˈvəːt",
+        "example": "They plan to convert the attic into a guest room."
+    },
+    {
+        "word": "convey",
+        "pronunciation": "kənˈveɪ",
+        "example": "Her paintings convey a sense of peace and tranquility."
+    },
+    {
+        "word": "convict",
+        "pronunciation": "kənˈvɪkt",
+        "example": "He was convicted of robbery and sentenced to five years in prison."
+    },
+    {
+        "word": "corporate",
+        "pronunciation": "ˈkɔːp(ə)rət",
+        "example": "They attended a corporate event organized by their company."
+    },
+    {
+        "word": "correspond",
+        "pronunciation": "kɒrɪˈspɒnd",
+        "example": "His version of events does not correspond with the facts."
+    },
+    {
+        "word": "correspondent",
+        "pronunciation": "kɒrɪˈspɒnd(ə)nt",
+        "example": "The foreign correspondent reported on the conflict in the region."
+    },
+    {
+        "word": "corruption",
+        "pronunciation": "kəˈrʌpʃ(ə)n",
+        "example": "Corruption in politics is a major concern for many citizens."
+    },
+    {
+        "word": "countless",
+        "pronunciation": "kaʊntləs",
+        "example": "There are countless stars in the night sky."
+    },
+    {
+        "word": "crack",
+        "pronunciation": "krak",
+        "example": "The vase fell off the table and cracked into pieces."
+    },
+    {
+        "word": "craft",
+        "pronunciation": "krɑːft",
+        "example": "She enjoys practicing the craft of pottery."
+    },
+    {
+        "word": "cram",
+        "pronunciation": "kram",
+        "example": "He had to cram all night for the exam."
+    },
+    {
+        "word": "crawl",
+        "pronunciation": "krɔːl",
+        "example": "The baby learned to crawl before learning to walk."
+    },
+    {
+        "word": "creep",
+        "pronunciation": "kriːp",
+        "example": "The spider began to creep slowly across the ceiling."
+    },
+    {
+        "word": "critic",
+        "pronunciation": "ˈkrɪtɪk",
+        "example": "As a film critic, she often provides insightful analysis."
+    },
+    {
+        "word": "crop",
+        "pronunciation": "krɒp",
+        "example": "Farmers harvested the crop in the autumn."
+    },
+    {
+        "word": "cross",
+        "pronunciation": "krɒs",
+        "example": "She drew a cross on the paper to mark the spot."
+    },
+    {
+        "word": "crumb",
+        "pronunciation": "krʌm",
+        "example": "He swept up the crumbs from the kitchen counter."
+    },
+    {
+        "word": "crush",
+        "pronunciation": "krʌʃ",
+        "example": "The crowd began to crush together as they tried to leave the stadium."
+    },
+    {
+        "word": "curator",
+        "pronunciation": "kjʊ(ə)ˈreɪtə",
+        "example": "The museum curator carefully preserved ancient artifacts."
+    },
+    {
+        "word": "curriculum",
+        "pronunciation": "kəˈrɪkjʊləm",
+        "example": "The school implemented a new curriculum focused on STEM subjects."
+    },
+    {
+        "word": "curse",
+        "pronunciation": "kəːs",
+        "example": "She muttered a curse under her breath when she stubbed her toe."
+    },
+    {
+        "word": "cynical",
+        "pronunciation": "ˈsɪnɪk(ə)l",
+        "example": "His cynical attitude made it difficult for him to trust others."
+    },
+    {
+        "word": "damages",
+        "pronunciation": "",
+        "example": "The storm caused significant damages to the building."
+    },
+    {
+        "word": "dash",
+        "pronunciation": "daʃ",
+        "example": "He made a dash for the exit before the alarm went off."
+    },
+    {
+        "word": "data",
+        "pronunciation": "ˈdeɪtə",
+        "example": "The scientist collected data from the experiments for analysis."
+    },
+    {
+        "word": "decay",
+        "pronunciation": "dɪˈkeɪ",
+        "example": "The old house showed signs of decay with its crumbling walls."
+    },
+    {
+        "word": "declare",
+        "pronunciation": "dɪˈklɛː",
+        "example": "She had to declare her income for tax purposes."
+    },
+    {
+        "word": "decline",
+        "pronunciation": "dɪˈklʌɪn",
+        "example": "The company's profits began to decline after a series of bad investments."
+    },
+    {
+        "word": "deduce",
+        "pronunciation": "dɪˈdjuːs",
+        "example": "From the evidence presented, we can deduce that he was not at the scene of the crime."
+    },
+    {
+        "word": "deduct",
+        "pronunciation": "dɪˈdʌkt",
+        "example": "Before calculating taxes, you can deduct certain expenses."
+    },
+    {
+        "word": "defective",
+        "pronunciation": "dɪˈfɛktɪv",
+        "example": "The manufacturer recalled the product due to a defective design."
+    },
+    {
+        "word": "deliberate",
+        "pronunciation": "dɪˈlɪb(ə)rət",
+        "example": "The jury took time to deliberate before reaching a verdict."
+    },
+    {
+        "word": "demolish",
+        "pronunciation": "dɪˈmɒlɪʃ",
+        "example": "The old building was demolished to make way for a new shopping mall."
+    },
+    {
+        "word": "denounce",
+        "pronunciation": "dɪˈnaʊns",
+        "example": "The politician denounced the actions of his opponent in a fiery speech."
+    },
+    {
+        "word": "dense",
+        "pronunciation": "dɛns",
+        "example": "The forest was so dense that sunlight barely penetrated through the trees."
+    },
+    {
+        "word": "dependant",
+        "pronunciation": "dɪˈpɛnd(ə)nt",
+        "example": "She claimed her sister as a dependent on her tax return."
+    },
+    {
+        "word": "deposit",
+        "pronunciation": "dɪˈpɒzɪt",
+        "example": "She made a deposit of $500 into her savings account."
+    },
+    {
+        "word": "dept",
+        "pronunciation": "",
+        "example": ""
+    },
+    {
+        "word": "descend",
+        "pronunciation": "dɪˈsɛnd",
+        "example": "The helicopter began to descend slowly towards the landing pad."
+    },
+    {
+        "word": "descendant",
+        "pronunciation": "dɪˈsɛnd(ə)nt",
+        "example": "He is a descendant of the Mayflower passengers."
+    },
+    {
+        "word": "destination",
+        "pronunciation": "dɛstɪˈneɪʃ(ə)n",
+        "example": "Their dream destination was a small village in the Italian countryside."
+    },
+    {
+        "word": "deteriorate",
+        "pronunciation": "dɪˈtɪərɪəreɪt",
+        "example": "The condition of the old house continued to deteriorate over time."
+    },
+    {
+        "word": "determine",
+        "pronunciation": "dɪˈtəːmɪn",
+        "example": "She needed more information to determine the best course of action."
+    },
+    {
+        "word": "deterrent",
+        "pronunciation": "dɪˈtɛr(ə)nt",
+        "example": "The threat of punishment acts as a deterrent to crime."
+    },
+    {
+        "word": "detrimental",
+        "pronunciation": "ˌdɛtrɪˈmɛnt(ə)l",
+        "example": "Lack of exercise can be detrimental to your health."
+    },
+    {
+        "word": "devastate",
+        "pronunciation": "ˈdɛvəsteɪt",
+        "example": "The tsunami devastated the coastal town, leaving behind a trail of destruction."
+    },
+    {
+        "word": "dgought",
+        "pronunciation": "",
+        "example": ""
+    },
+    {
+        "word": "diagnosis",
+        "pronunciation": "ˌdʌɪəɡˈnəʊsɪs",
+        "example": "The doctor's diagnosis confirmed that she had the flu."
+    },
+    {
+        "word": "dictator",
+        "pronunciation": "dɪkˈteɪtə",
+        "example": "The dictator ruled the country with an iron fist."
+    },
+    {
+        "word": "dignity",
+        "pronunciation": "ˈdɪɡnɪti",
+        "example": "She faced her illness with dignity and grace."
+    },
+    {
+        "word": "dilemma",
+        "pronunciation": "dɪˈlɛmə",
+        "example": "He found himself in a dilemma: should he tell the truth and risk hurting her, or keep quiet and protect her feelings?"
+    },
+    {
+        "word": "dilute",
+        "pronunciation": "dʌɪˈl(j)uːt",
+        "example": "You can dilute the juice with water to make it less sweet."
+    },
+    {
+        "word": "dimension",
+        "pronunciation": "dɪˈmɛnʃ(ə)n",
+        "example": "The new apartment had a spacious living room with high dimensions."
+    },
+    {
+        "word": "diminish",
+        "pronunciation": "dɪˈmɪnɪʃ",
+        "example": "The power of the medicine seemed to diminish over time."
+    },
+    {
+        "word": "direct debit",
+        "pronunciation": "",
+        "example": ""
+    },
+    {
+        "word": "disclose",
+        "pronunciation": "dɪsˈkləʊz",
+        "example": "He refused to disclose his sources for the article."
+    },
+    {
+        "word": "discriminate",
+        "pronunciation": "dɪˈskrɪmɪneɪt",
+        "example": "It's illegal to discriminate against someone based on their race or gender."
+    },
+    {
+        "word": "disgust",
+        "pronunciation": "dɪsˈɡʌst",
+        "example": "The rotten smell filled her with disgust."
+    },
+    {
+        "word": "disillusioned",
+        "pronunciation": "dɪsɪˈluːʒ(ə)nd",
+        "example": "After years of working in politics, she became disillusioned with the system."
+    },
+    {
+        "word": "dispute",
+        "pronunciation": "dɪˈspjuːt",
+        "example": "They were involved in a dispute over property boundaries."
+    },
+    {
+        "word": "dissolve",
+        "pronunciation": "dɪˈzɒlv",
+        "example": "The sugar will dissolve in the hot water."
+    },
+    {
+        "word": "distance learning",
+        "pronunciation": "",
+        "example": ""
+    },
+    {
+        "word": "distinguish",
+        "pronunciation": "dɪˈstɪŋɡwɪʃ",
+        "example": "Her talent for singing distinguished her from the other contestants."
+    },
+    {
+        "word": "distort",
+        "pronunciation": "dɪˈstɔːt",
+        "example": "The funhouse mirrors distorted our reflections."
+    },
+    {
+        "word": "district",
+        "pronunciation": "ˈdɪstrɪkt",
+        "example": "She represented her district in the city council."
+    },
+    {
+        "word": "diverse",
+        "pronunciation": "dʌɪˈvəːs",
+        "example": "The city's population is incredibly diverse, with people from all over the world."
+    },
+    {
+        "word": "dividend",
+        "pronunciation": "ˈdɪvɪdɛnd",
+        "example": "Shareholders receive dividends from the company's profits."
+    },
+    {
+        "word": "divorce",
+        "pronunciation": "dɪˈvɔːs",
+        "example": "After years of unhappiness, they decided to get a divorce."
+    },
+    {
+        "word": "dominate",
+        "pronunciation": "ˈdɒmɪneɪt",
+        "example": "The tall skyscraper dominates the city skyline."
+    },
+    {
+        "word": "down payment",
+        "pronunciation": "",
+        "example": ""
+    },
+    {
+        "word": "download",
+        "pronunciation": "daʊnˈləʊd",
+        "example": "He downloaded the new software onto his computer."
+    },
+    {
+        "word": "drift",
+        "pronunciation": "drɪft",
+        "example": "The boat began to drift aimlessly on the calm sea."
+    },
+    {
+        "word": "dubious",
+        "pronunciation": "ˈdjuːbɪəs",
+        "example": "His excuse for being late seemed dubious to his boss."
+    },
+    {
+        "word": "dwell",
+        "pronunciation": "dwɛl",
+        "example": "They dwell in a cozy cottage in the countryside."
+    },
+    {
+        "word": "dynamic",
+        "pronunciation": "dʌɪˈnamɪk",
+        "example": "The dynamic performance of the band electrified the crowd."
+    },
+    {
+        "word": "eliminate",
+        "pronunciation": "ɪˈlɪmɪneɪt",
+        "example": "To improve efficiency, we need to eliminate unnecessary steps."
+    },
+    {
+        "word": "emigrate",
+        "pronunciation": "ˈɛmɪɡreɪt",
+        "example": "Many people emigrate from their home countries in search of better opportunities."
+    },
+    {
+        "word": "empathise",
+        "pronunciation": "ˈɛmpəθʌɪz",
+        "example": "As a therapist, she empathizes with her patients' struggles."
+    },
+    {
+        "word": "endure",
+        "pronunciation": "ɪnˈdjʊə",
+        "example": "She endured the hardships of war with courage and resilience."
+    },
+    {
+        "word": "enforce",
+        "pronunciation": "ɪnˈfɔːs",
+        "example": "Police enforce the law to maintain order in society."
+    },
+    {
+        "word": "enhance",
+        "pronunciation": "ɪnˈhɑːns",
+        "example": "Adding a new coat of paint can enhance the appearance of a room."
+    },
+    {
+        "word": "entitled",
+        "pronunciation": "ɪnˈtʌɪt(ə)ld",
+        "example": "Every citizen is entitled to certain rights and freedoms."
+    },
+    {
+        "word": "equation",
+        "pronunciation": "ɪˈkweɪʒ(ə)n",
+        "example": "She solved the mathematical equation using algebra."
+    },
+    {
+        "word": "equidistant",
+        "pronunciation": "iːkwɪˈdɪst(ə)nt",
+        "example": "The two towns are equidistant from the city center."
+    },
+    {
+        "word": "equivalent",
+        "pronunciation": "ɪˈkwɪv(ə)l(ə)nt",
+        "example": "In terms of value, a dollar is equivalent to 100 cents."
+    },
+    {
+        "word": "estate",
+        "pronunciation": "ɪˈsteɪt",
+        "example": "She inherited a large estate from her grandparents."
+    },
+    {
+        "word": "estimate",
+        "pronunciation": "ˈɛstɪmeɪt",
+        "example": "The contractor provided an estimate for the cost of renovating the house."
+    },
+    {
+        "word": "evacuate",
+        "pronunciation": "ɪˈvakjʊeɪt",
+        "example": "Residents were ordered to evacuate the area due to the approaching hurricane."
+    },
+    {
+        "word": "evaluate",
+        "pronunciation": "ɪˈvaljʊeɪt",
+        "example": "Teachers evaluate students' performance based on various criteria."
+    },
+    {
+        "word": "evict",
+        "pronunciation": "ɪˈvɪkt",
+        "example": "The landlord decided to evict the tenants for not paying rent."
+    },
+    {
+        "word": "evolve",
+        "pronunciation": "ɪˈvɒlv",
+        "example": "Over time, humans have evolved to adapt to their environment."
+    },
+    {
+        "word": "exacerbate",
+        "pronunciation": "ɪɡˈzasəbeɪt",
+        "example": "The lack of rain exacerbated the drought conditions."
+    },
+    {
+        "word": "exaggerate",
+        "pronunciation": "ɪɡˈzadʒəreɪt",
+        "example": "He tends to exaggerate his accomplishments to impress others."
+    },
+    {
+        "word": "exclude",
+        "pronunciation": "ɪkˈskluːd",
+        "example": "The club has a strict policy to exclude members who violate the rules."
+    },
+    {
+        "word": "exempt",
+        "pronunciation": "ɪɡˈzɛm(p)t",
+        "example": "Children under the age of 12 are exempt from paying admission fees."
+    },
+    {
+        "word": "expand",
+        "pronunciation": "ɪkˈspand",
+        "example": "The company plans to expand its operations into new markets."
+    },
+    {
+        "word": "exploit",
+        "pronunciation": "ɪkˈsplɔɪt",
+        "example": "The company was accused of exploiting its workers by paying low wages."
+    },
+    {
+        "word": "exquisite",
+        "pronunciation": "ˈɛkskwɪzɪt",
+        "example": "The restaurant served an exquisite seven-course meal."
+    },
+    {
+        "word": "extent",
+        "pronunciation": "ɪkˈstɛnt",
+        "example": "The damage from the storm extended over a large extent of the coastline."
+    },
+    {
+        "word": "external",
+        "pronunciation": "ɪkˈstəːn(ə)l",
+        "example": "External factors such as weather can impact crop yields."
+    },
+    {
+        "word": "extrovert",
+        "pronunciation": "ˈɛkstrəvəːt",
+        "example": "She's a natural extrovert who thrives in social situations."
+    },
+    {
+        "word": "fabrik",
+        "pronunciation": "",
+        "example": ""
+    },
+    {
+        "word": "faith",
+        "pronunciation": "feɪθ",
+        "example": "She had faith that everything would work out in the end."
+    },
+    {
+        "word": "famine",
+        "pronunciation": "ˈfamɪn",
+        "example": "The famine caused widespread starvation in the region."
+    },
+    {
+        "word": "fate",
+        "pronunciation": "feɪt",
+        "example": "Some believe that our fate is predetermined by destiny."
+    },
+    {
+        "word": "fed up",
+        "pronunciation": "",
+        "example": "He's fed up with the constant delays and excuses."
+    },
+    {
+        "word": "file",
+        "pronunciation": "fʌɪl",
+        "example": "Please make sure to file the documents in alphabetical order."
+    },
+    {
+        "word": "finance",
+        "pronunciation": "ˈfʌɪnans",
+        "example": "He works in finance, managing investments for his clients."
+    },
+    {
+        "word": "fine art",
+        "pronunciation": "fʌɪn ˈɑːt",
+        "example": "She studied fine art at university and became a renowned painter."
+    },
+    {
+        "word": "finite",
+        "pronunciation": "ˈfʌɪnʌɪt",
+        "example": "The earth's resources are finite, so we must use them wisely."
+    },
+    {
+        "word": "firm",
+        "pronunciation": "fəːm",
+        "example": "She works for a law firm in the city."
+    },
+    {
+        "word": "flake",
+        "pronunciation": "fleɪk",
+        "example": "Snowflakes started to fall gently from the sky."
+    },
+    {
+        "word": "flatter",
+        "pronunciation": "ˈflatə",
+        "example": "She was flattered by the compliments on her new dress."
+    },
+    {
+        "word": "flaw",
+        "pronunciation": "flɔː",
+        "example": "The diamond had a small flaw that made it less valuable."
+    },
+    {
+        "word": "float",
+        "pronunciation": "fləʊt",
+        "example": "The boat began to float down the river."
+    },
+    {
+        "word": "flood",
+        "pronunciation": "flʌd",
+        "example": "Heavy rain caused the river to flood its banks."
+    },
+    {
+        "word": "flow",
+        "pronunciation": "fləʊ",
+        "example": "The water flowed smoothly downstream."
+    },
+    {
+        "word": "fluctuate",
+        "pronunciation": "ˈflʌktʃʊeɪt",
+        "example": "Prices of stocks can fluctuate rapidly in the stock market."
+    },
+    {
+        "word": "footnote",
+        "pronunciation": "",
+        "example": ""
+    },
+    {
+        "word": "force",
+        "pronunciation": "fɔːs",
+        "example": "The strong wind force caused damage to buildings."
+    },
+    {
+        "word": "foresee",
+        "pronunciation": "fɔːˈsiː",
+        "example": "He could foresee the potential problems that might arise."
+    },
+    {
+        "word": "former",
+        "pronunciation": "ˈfɔːmə",
+        "example": "The former president attended the event."
+    },
+    {
+        "word": "fossil fuels",
+        "pronunciation": "ˈfɒs(ə)l",
+        "example": "Burning fossil fuels contributes to air pollution and climate change."
+    },
+    {
+        "word": "foster",
+        "pronunciation": "ˈfɒstə",
+        "example": "They decided to foster a child who needed a loving home."
+    },
+    {
+        "word": "fraction",
+        "pronunciation": "ˈfrakʃ(ə)n",
+        "example": "She only ate a fraction of her dinner before feeling full."
+    },
+    {
+        "word": "fragile",
+        "pronunciation": "ˈfradʒʌɪl",
+        "example": "Handle the glassware carefully, as it's very fragile."
+    },
+    {
+        "word": "freak",
+        "pronunciation": "friːk",
+        "example": "The sudden storm was a freak occurrence for this time of year."
+    },
+    {
+        "word": "friction",
+        "pronunciation": "frɪkʃ(ə)n",
+        "example": "There was friction between the two groups due to conflicting interests."
+    },
+    {
+        "word": "fumble",
+        "pronunciation": "ˈfʌmb(ə)l",
+        "example": "He fumbled with the keys, trying to unlock the door in the dark."
+    },
+    {
+        "word": "gamble",
+        "pronunciation": "ɡamb(ə)l",
+        "example": "He liked to gamble on horse races on the weekends."
+    },
+    {
+        "word": "gather",
+        "pronunciation": "ˈɡaðə",
+        "example": "The family will gather for Thanksgiving dinner."
+    },
+    {
+        "word": "genius",
+        "pronunciation": "ˈdʒiːnɪəs",
+        "example": "Albert Einstein was a genius in the field of theoretical physics."
+    },
+    {
+        "word": "gesture",
+        "pronunciation": "ˈdʒɛstʃə",
+        "example": "She made a gesture of apology by offering him a sincere smile."
+    },
+    {
+        "word": "ghostwriter",
+        "pronunciation": "ɡəʊs(t)ˌrʌɪtə",
+        "example": "Many famous people use ghostwriters to pen their memoirs."
+    },
+    {
+        "word": "giggle",
+        "pronunciation": "ˈɡɪɡ(ə)l",
+        "example": "The children couldn't help but giggle at the silly clown."
+    },
+    {
+        "word": "gist",
+        "pronunciation": "dʒɪst",
+        "example": "She quickly summarized the gist of the conversation."
+    },
+    {
+        "word": "glance",
+        "pronunciation": "ɡlɑːns",
+        "example": "He stole a quick glance at his watch, realizing he was running late."
+    },
+    {
+        "word": "glide",
+        "pronunciation": "ɡlʌɪd",
+        "example": "The swan glided gracefully across the lake."
+    },
+    {
+        "word": "glimpse",
+        "pronunciation": "ɡlɪm(p)s",
+        "example": "She caught a glimpse of the ocean through the trees."
+    },
+    {
+        "word": "gloat",
+        "pronunciation": "ɡləʊt",
+        "example": "He couldn't help but gloat over his victory."
+    },
+    {
+        "word": "global warming",
+        "pronunciation": "",
+        "example": ""
+    },
+    {
+        "word": "glum",
+        "pronunciation": "ɡlʌm",
+        "example": "She felt glum on the rainy, gray day."
+    },
+    {
+        "word": "grab",
+        "pronunciation": "ɡrab",
+        "example": "He reached out to grab the falling book before it hit the ground."
+    },
+    {
+        "word": "graduate",
+        "pronunciation": "ˈɡradʒʊət",
+        "example": "She will graduate from university next spring."
+    },
+    {
+        "word": "grain",
+        "pronunciation": "ɡreɪn",
+        "example": "He harvested the grain from his fields."
+    },
+    {
+        "word": "grasp",
+        "pronunciation": "ɡrɑːsp",
+        "example": "He struggled to grasp the concept of advanced calculus."
+    },
+    {
+        "word": "gravity",
+        "pronunciation": "ˈɡravɪti",
+        "example": "The apple fell from the tree due to the force of gravity."
+    },
+    {
+        "word": "greenery",
+        "pronunciation": "ɡriːn(ə)ri",
+        "example": "The lush greenery of the forest was breathtaking."
+    },
+    {
+        "word": "grimace",
+        "pronunciation": "ˈɡrɪməs",
+        "example": "He made a grimace of pain as he stubbed his toe."
+    },
+    {
+        "word": "grind",
+        "pronunciation": "ɡrʌɪnd",
+        "example": "She had to grind the coffee beans before brewing a fresh pot."
+    },
+    {
+        "word": "grind",
+        "pronunciation": "ɡrʌɪnd",
+        "example": "She had to grind the coffee beans before brewing a fresh pot."
+    },
+    {
+        "word": "guardian",
+        "pronunciation": "ˈɡɑːdɪən",
+        "example": "Her aunt became her legal guardian after her parents passed away."
+    },
+    {
+        "word": "guesswork",
+        "pronunciation": "ˈɡɛswəːk",
+        "example": "He relied on guesswork to solve the puzzle, rather than logic."
+    },
+    {
+        "word": "habitat",
+        "pronunciation": "ˈhabɪtat",
+        "example": "The rainforest is home to a diverse range of habitats."
+    },
+    {
+        "word": "handbook",
+        "pronunciation": "ˈhan(d)bʊk",
+        "example": "The employee handbook provides guidelines for workplace conduct."
+    },
+    {
+        "word": "handle",
+        "pronunciation": "hand(ə)l",
+        "example": "She carefully gripped the handle of the door and pushed it open."
+    },
+    {
+        "word": "haphazard",
+        "pronunciation": "hapˈhazəd",
+        "example": "The haphazard arrangement of furniture made the room feel cluttered."
+    },
+    {
+        "word": "harvest",
+        "pronunciation": "ˈhɑːvɪst",
+        "example": "The farmers spent weeks harvesting the crops from the fields."
+    },
+    {
+        "word": "hazard",
+        "pronunciation": "ˈhazəd",
+        "example": "Foggy conditions on the road created hazardous driving conditions."
+    },
+    {
+        "word": "heap",
+        "pronunciation": "hiːp",
+        "example": "A heap of discarded clothes lay in the corner of the room."
+    },
+    {
+        "word": "heglect",
+        "pronunciation": "",
+        "example": ""
+    },
+    {
+        "word": "heritage",
+        "pronunciation": "ˈhɛrɪtɪdʒ",
+        "example": "Preserving our cultural heritage is important for future generations."
+    },
+    {
+        "word": "high-rise",
+        "pronunciation": "ˈhʌɪrʌɪz",
+        "example": "The city skyline is dominated by towering high-rise buildings."
+    },
+    {
+        "word": "hiker",
+        "pronunciation": "ˈhʌɪkə",
+        "example": "The hiker enjoyed exploring the trails in the national park."
+    },
+    {
+        "word": "hint",
+        "pronunciation": "hɪnt",
+        "example": "She dropped subtle hints about her upcoming birthday."
+    },
+    {
+        "word": "hitchhiker",
+        "pronunciation": "ˈhɪtʃhʌɪkə",
+        "example": "The hitchhiker held out his thumb, hoping for a ride to the next town."
+    },
+    {
+        "word": "hollow",
+        "pronunciation": "ˈhɒləʊ",
+        "example": "The sound of footsteps echoed through the hollow cave."
+    },
+    {
+        "word": "hop",
+        "pronunciation": "hɒp",
+        "example": "The bunny took a hop across the garden."
+    },
+    {
+        "word": "housing",
+        "pronunciation": "ˈhaʊzɪŋ",
+        "example": "Affordable housing is a pressing issue in many urban areas."
+    },
+    {
+        "word": "hunch",
+        "pronunciation": "hʌn(t)ʃ",
+        "example": "She had a hunch that something wasn't quite right."
+    },
+    {
+        "word": "hurricane",
+        "pronunciation": "ˈhʌrɪk(ə)n",
+        "example": "The hurricane caused widespread damage along the coast."
+    },
+    {
+        "word": "ideal",
+        "pronunciation": "ʌɪˈdɪəl",
+        "example": "His idea of an ideal vacation involved lounging on a tropical beach."
+    },
+    {
+        "word": "identify(with)",
+        "pronunciation": "ʌɪˈdɛntɪfʌɪ",
+        "example": "Many people identify strongly with their cultural heritage."
+    },
+    {
+        "word": "ideology",
+        "pronunciation": "ˌʌɪdɪˈɒlədʒi",
+        "example": "The political party's ideology shaped its policy decisions."
+    },
+    {
+        "word": "ignorant",
+        "pronunciation": "ˈɪɡn(ə)r(ə)nt",
+        "example": "She was ignorant of the facts and spoke without understanding."
+    },
+    {
+        "word": "illegible",
+        "pronunciation": "ɪˈlɛdʒɪb(ə)l",
+        "example": "His handwriting was so illegible that no one could read it."
+    },
+    {
+        "word": "imbalance",
+        "pronunciation": "ɪmˈbal(ə)ns",
+        "example": "There was an imbalance between supply and demand."
+    },
+    {
+        "word": "immense",
+        "pronunciation": "ɪˈmɛns",
+        "example": "The shipwreck was an immense tragedy."
+    },
+    {
+        "word": "immgiration",
+        "pronunciation": "",
+        "example": ""
+    },
+    {
+        "word": "immigrant",
+        "pronunciation": "ɪmɪɡr(ə)nt",
+        "example": "The city welcomed a wave of immigrants seeking better opportunities."
+    },
+    {
+        "word": "impatient",
+        "pronunciation": "ɪmˈpeɪʃ(ə)nt",
+        "example": "He grew impatient waiting for the bus to arrive."
+    },
+    {
+        "word": "impose",
+        "pronunciation": "ɪmˈpəʊz",
+        "example": "The government imposed strict regulations on pollution."
+    },
+    {
+        "word": "inadvertent",
+        "pronunciation": "ˌɪnədˈvəːt(ə)nt",
+        "example": "His inadvertent remark offended many people in the room."
+    },
+    {
+        "word": "inattentive",
+        "pronunciation": "ɪnəˈtɛntɪv",
+        "example": "The student's inattentive behavior led to poor academic performance."
+    },
+    {
+        "word": "indaqeuate",
+        "pronunciation": "",
+        "example": ""
+    },
+    {
+        "word": "industrial action",
+        "pronunciation": "",
+        "example": ""
+    },
+    {
+        "word": "inferior",
+        "pronunciation": "ɪnˈfɪərɪə",
+        "example": "The product was of inferior quality compared to its competitors."
+    },
+    {
+        "word": "influence",
+        "pronunciation": "ˈɪnflʊəns",
+        "example": "Her parents had a significant influence on her career choices."
+    },
+    {
+        "word": "infrastructure",
+        "pronunciation": "ˈɪnfrəstrʌktʃə",
+        "example": "Investment in infrastructure is essential for economic development."
+    },
+    {
+        "word": "ingenious",
+        "pronunciation": "ɪnˈdʒiːnɪəs",
+        "example": "The engineer devised an ingenious solution to the problem."
+    },
+    {
+        "word": "inkling",
+        "pronunciation": "ˈɪŋklɪŋ",
+        "example": "She had an inkling that something wasn't right."
+    },
+    {
+        "word": "inner city",
+        "pronunciation": "",
+        "example": "The inner city faces unique challenges."
+    },
+    {
+        "word": "innovation",
+        "pronunciation": "ɪnəˈveɪʃ(ə)n",
+        "example": "The company's innovation in technology revolutionized the industry."
+    },
+    {
+        "word": "innovative",
+        "pronunciation": "ˈɪnəvətɪv",
+        "example": "The innovative design of the new product impressed customers."
+    },
+    {
+        "word": "inoculate",
+        "pronunciation": "ɪˈnɒkjʊleɪt",
+        "example": "It's important to inoculate children against preventable diseases."
+    },
+    {
+        "word": "insertia",
+        "pronunciation": "",
+        "example": ""
+    },
+    {
+        "word": "insist",
+        "pronunciation": "ɪnˈsɪst",
+        "example": "She will insist on paying for the meal."
+    },
+    {
+        "word": "inspiration",
+        "pronunciation": "ɪnspɪˈreɪʃ(ə)n",
+        "example": "The beautiful scenery provided inspiration for the artist's work."
+    },
+    {
+        "word": "installation",
+        "pronunciation": "ɪnstəˈleɪʃ(ə)n",
+        "example": "The installation of the new equipment went smoothly."
+    },
+    {
+        "word": "instinct",
+        "pronunciation": "ˈɪnstɪŋ(k)t",
+        "example": "His instinct told him something was wrong."
+    },
+    {
+        "word": "institution",
+        "pronunciation": "ɪnstɪˈtjuːʃ(ə)n",
+        "example": "The university is a respected institution."
+    },
+    {
+        "word": "instrumental",
+        "pronunciation": "ˌɪnstrʊˈmɛntl",
+        "example": "She was instrumental in organizing the event."
+    },
+    {
+        "word": "insurance",
+        "pronunciation": "ɪnˈʃʊər(ə)ns",
+        "example": "Having insurance protects you against unexpected costs."
+    },
+    {
+        "word": "integral",
+        "pronunciation": "ɪntɪɡr(ə)l",
+        "example": "The project manager played an integral role in the team's success."
+    },
+    {
+        "word": "integrate",
+        "pronunciation": "ˈɪntɪɡreɪt",
+        "example": "It's important to integrate new employees into the company culture."
+    },
+    {
+        "word": "intellectual",
+        "pronunciation": "ˌɪntəˈlɛktʃʊəl",
+        "example": "She was known for her intellectual prowess."
+    },
+    {
+        "word": "intelligent",
+        "pronunciation": "ɪnˈtɛlɪdʒ(ə)nt",
+        "example": "He's one of the most intelligent students in the class."
+    },
+    {
+        "word": "intensity",
+        "pronunciation": "ɪnˈtɛnsɪti",
+        "example": "The intensity of the storm was frightening."
+    },
+    {
+        "word": "intensive",
+        "pronunciation": "ɪnˈtɛnsɪv",
+        "example": "She underwent intensive training to prepare for the marathon."
+    },
+    {
+        "word": "interest",
+        "pronunciation": "ɪnt(ə)rɪst",
+        "example": "He has a keen interest in history."
+    },
+    {
+        "word": "interfere",
+        "pronunciation": "ɪntəˈfɪə",
+        "example": "Please don't interfere while I'm working."
+    },
+    {
+        "word": "intermediate",
+        "pronunciation": "ˌɪntəˈmiːdɪət",
+        "example": "The course is suitable for both beginners and intermediate students."
+    },
+    {
+        "word": "internal",
+        "pronunciation": "ɪnˈtəːn(ə)l",
+        "example": "The company is facing internal challenges."
+    },
+{
+    "word": "intervene",
+    "pronunciation": "ɪntəˈviːn",
+    "example": "The teacher had to intervene when the students started arguing."
+},
+{
+    "word": "intimate",
+    "pronunciation": "ˈɪntɪmət",
+    "example": "She shared an intimate moment with her best friend."
+},
+{
+    "word": "intimidate",
+    "pronunciation": "ɪnˈtɪmɪdeɪt",
+    "example": "The aggressive behavior of the dog seemed to intimidate the small child."
+},
+{
+    "word": "introvert",
+    "pronunciation": "ˈɪntrəvəːt",
+    "example": "As an introvert, she preferred spending time alone rather than at parties."
+},
+{
+    "word": "intuition",
+    "pronunciation": "ɪntjʊˈɪʃ(ə)n",
+    "example": "She relied on her intuition to make important decisions."
+},
+{
+    "word": "invaluable",
+    "pronunciation": "ɪnˈvaljʊ(ə)b(ə)l",
+    "example": "Her advice was invaluable during the difficult times."
+},
+{
+    "word": "investment",
+    "pronunciation": "ɪnˈvɛs(t)m(ə)nt",
+    "example": "He made a smart investment in the stock market and doubled his money."
+},
+{
+    "word": "involve",
+    "pronunciation": "ɪnˈvɒlv",
+    "example": "The project will involve a lot of teamwork and collaboration."
+},
+{
+    "word": "irritation",
+    "pronunciation": "ɪrɪˈteɪʃn",
+    "example": "Her constant tapping on the desk was causing irritation among her classmates."
+},
+{
+    "word": "jargon",
+    "pronunciation": "dʒɑːɡ(ə)n",
+    "example": "The scientists used technical jargon that was difficult for the general public to understand."
+},
+{
+    "word": "jet lag",
+    "pronunciation": "",
+    "example": "After flying across several time zones, she experienced severe jet lag."
+},
+{
+    "word": "jinxed",
+    "pronunciation": "dʒɪŋks",
+    "example": "Every time he wore that shirt, something went wrong. He was convinced it was jinxed."
+},
+{
+    "word": "jog",
+    "pronunciation": "dʒɒɡ",
+    "example": "She likes to jog in the park every morning to stay fit."
+},
+{
+    "word": "joint",
+    "pronunciation": "dʒɔɪnt",
+    "example": "They opened a new coffee shop at the joint where the two streets meet."
+},
+{
+    "word": "justify",
+    "pronunciation": "ˈdʒʌstɪfʌɪ",
+    "example": "She tried to justify her actions, but no one believed her excuses."
+},
+{
+    "word": "knowledgeable",
+    "pronunciation": "nɒlɪdʒəb(ə)l",
+    "example": "He's very knowledgeable about ancient history."
+},
+{
+    "word": "label",
+    "pronunciation": "leɪb(ə)l",
+    "example": "Make sure to read the label before taking any medication."
+},
+{
+    "word": "last",
+    "pronunciation": "lɑːst",
+    "example": "The concert lasted for three hours."
+},
+{
+    "word": "leap",
+    "pronunciation": "liːp",
+    "example": "The athlete made a tremendous leap over the hurdles."
+},
+{
+    "word": "lecture",
+    "pronunciation": "ˈlɛktʃə",
+    "example": "The professor delivered an inspiring lecture on quantum mechanics."
+},
+{
+    "word": "legislation",
+    "pronunciation": "lɛdʒɪsˈleɪʃ(ə)n",
+    "example": "The new legislation aims to reduce carbon emissions."
+},
+{
+    "word": "legroom",
+    "pronunciation": "",
+    "example": "The economy class seats on the plane had limited legroom."
+},
+{
+    "word": "liberate",
+    "pronunciation": "ˈlɪbəreɪt",
+    "example": "The soldiers fought to liberate their country from oppression."
+},
+{
+    "word": "likelihood",
+    "pronunciation": "ˈlʌɪklɪhʊd",
+    "example": "There's a high likelihood of rain tomorrow."
+},
+{
+    "word": "liken",
+    "pronunciation": "lʌɪk(ə)n",
+    "example": "She likened his behavior to that of a spoiled child."
+},
+{
+    "word": "lines",
+    "pronunciation": "lʌɪn",
+    "example": "She had to memorize her lines for the school play."
+},
+{
+    "word": "link",
+    "pronunciation": "lɪŋk",
+    "example": "The hyperlink is a crucial link between web pages."
+},
+{
+    "word": "liquid",
+    "pronunciation": "ˈlɪkwɪd",
+    "example": "Water is a common example of a liquid."
+},
+{
+    "word": "literal",
+    "pronunciation": "lɪt(ə)r(ə)l",
+    "example": "Her response to the joke was a literal interpretation of the words."
+},
+{
+    "word": "load",
+    "pronunciation": "ləʊd",
+    "example": "He had a heavy load of books to carry."
+},
+{
+    "word": "lucky charm",
+    "pronunciation": "",
+    "example": "She kept a lucky charm in her pocket for good luck."
+},
+{
+    "word": "lump",
+    "pronunciation": "lʌmp",
+    "example": "There was a lump of sugar at the bottom of the cup."
+},
+{
+    "word": "lump sum",
+    "pronunciation": "",
+    "example": "He received a lump sum payment for his retirement."
+},
+{
+    "word": "lyrics",
+    "pronunciation": "ˈlɪrɪk",
+    "example": "She wrote the lyrics for her new song."
+},
+{
+    "word": "magnitude",
+    "pronunciation": "ˈmaɡnɪtjuːd",
+    "example": "The earthquake measured 6.5 on the Richter scale, indicating its magnitude."
+},
+{
+    "word": "mainstream",
+    "pronunciation": "ˈmeɪnstriːm",
+    "example": "The band's music became mainstream after their hit single."
+},
+{
+    "word": "maintain",
+    "pronunciation": "meɪnˈteɪn",
+    "example": "It's essential to maintain a healthy lifestyle."
+},
+{
+    "word": "major",
+    "pronunciation": "ˈmeɪdʒə",
+    "example": "He declared a major in economics."
+},
+{
+    "word": "manifest",
+    "pronunciation": "ˈmanɪfɛst",
+    "example": "Her actions manifested her commitment to the cause."
+},
+{
+    "word": "manners",
+    "pronunciation": "ˈmanə",
+    "example": "Good manners are important in social situations."
+},
+{
+    "word": "manoeuvre",
+    "pronunciation": "məˈnuːvə",
+    "example": "The pilot performed a daring manoeuvre to avoid a collision."
+},
+{
+    "word": "manual",
+    "pronunciation": "manjʊ(ə)l",
+    "example": "She read the manual before assembling the furniture."
+},
+{
+    "word": "march",
+    "pronunciation": "mɑːtʃ",
+    "example": "The soldiers marched in formation."
+},
+{
+    "word": "mass",
+    "pronunciation": "mas",
+    "example": "The universe consists of vast masses of matter."
+},
+{
+    "word": "master",
+    "pronunciation": "ˈmɑːstə",
+    "example": "He aimed to master the art of cooking."
+},
+{
+    "word": "masterpiece",
+    "pronunciation": "ˈmɑːstəpiːs",
+    "example": "The painting is considered a masterpiece of Renaissance art."
+},
+{
+    "word": "mature",
+    "pronunciation": "məˈtʃʊə",
+    "example": "His behavior showed that he was mature beyond his years."
+},
+{
+    "word": "meagre",
+    "pronunciation": "ˈmiːɡə",
+    "example": "The portion size was meagre, leaving him hungry."
+},
+{
+    "word": "meander",
+    "pronunciation": "mɪˈandə",
+    "example": "The river meandered through the countryside."
+},
+{
+    "word": "merge",
+    "pronunciation": "məːdʒ",
+    "example": "The two companies decided to merge to increase their market share."
+},
+{
+    "word": "migrate",
+    "pronunciation": "mʌɪˈɡreɪt",
+    "example": "Birds migrate south for the winter."
+},
+{
+    "word": "mineral",
+    "pronunciation": "mɪn(ə)r(ə)l",
+    "example": "Calcium is an essential mineral for strong bones."
+},
+{
+    "word": "minister",
+    "pronunciation": "",
+    "example": "The prime minister addressed the nation."
+},
+{
+    "word": "minor",
+    "pronunciation": "",
+    "example": "The accident caused only minor injuries."
+},
+{
+    "word": "minute",
+    "pronunciation": "ˈmɪnɪt",
+    "example": "Wait a minute, I'll be right back."
+},
+{
+    "word": "mishap",
+    "pronunciation": "ˈmɪshap",
+    "example": "The trip went smoothly until a mishap occurred with the luggage."
+},
+{
+    "word": "moan",
+    "pronunciation": "məʊn",
+    "example": "She let out a moan of pain as she stubbed her toe."
+},
+{
+    "word": "mock",
+    "pronunciation": "mɒk",
+    "example": "They would often mock him for his strange accent."
+},
+{
+    "word": "mock exam",
+    "pronunciation": "mɒk ɪɡˈzæm",
+    "example": "The mock exam was designed to prepare students for the final test."
+},
+{
+    "word": "modify",
+    "pronunciation": "ˈmɒdɪfaɪ",
+    "example": "He had to modify his original plans due to unexpected circumstances."
+},
+{
+    "word": "monarch",
+    "pronunciation": "ˈmɒnək",
+    "example": "The monarch ruled the kingdom with absolute authority."
+},
+{
+    "word": "mortgage",
+    "pronunciation": "ˈmɔːɡɪdʒ",
+    "example": "They took out a mortgage to buy their first house."
+},
+{
+    "word": "mould",
+    "pronunciation": "məʊld",
+    "example": "The cheese had started to grow mould."
+},
+{
+    "word": "multiple",
+    "pronunciation": "ˈmʌltɪpl",
+    "example": "She had to solve multiple equations for her math homework."
+},
+{
+    "word": "mumble",
+    "pronunciation": "ˈmʌmbəl",
+    "example": "He tends to mumble when he's nervous."
+},
+{
+    "word": "murmur",
+    "pronunciation": "ˈmɜːmə",
+    "example": "The distant murmur of voices could be heard through the walls."
+},
+{
+    "word": "mutate",
+    "pronunciation": "ˈmjuːteɪt",
+    "example": "The virus had mutated into a more dangerous strain."
+},
+{
+    "word": "mutual",
+    "pronunciation": "ˈmjuːtʃuəl",
+    "example": "They had a mutual respect for each other's opinions."
+},
+{
+    "word": "naive",
+    "pronunciation": "naɪˈiːv",
+    "example": "She was naive to think that everything would work out perfectly."
+},
+{
+    "word": "nation",
+    "pronunciation": "ˈneɪʃən",
+    "example": "The nation celebrated its independence day with great enthusiasm."
+},
+{
+    "word": "natural disaster",
+    "pronunciation": "ˈnætʃərəl dɪˈzæstər",
+    "example": "The earthquake was a devastating natural disaster."
+},
+{
+    "word": "negotiate",
+    "pronunciation": "nɪˈɡəʊʃieɪt",
+    "example": "They were able to negotiate a fair price for the car."
+},
+{
+    "word": "network",
+    "pronunciation": "ˈnetwɜːk",
+    "example": "She built a strong professional network over the years."
+},
+{
+    "word": "notion",
+    "pronunciation": "ˈnəʊʃən",
+    "example": "The idea seemed absurd, but it was based on a solid notion."
+},
+{
+    "word": "novel",
+    "pronunciation": "ˈnɒvəl",
+    "example": "He had just finished reading a fascinating novel."
+},
+{
+    "word": "novelist",
+    "pronunciation": "ˈnɒvəlɪst",
+    "example": "She dreamed of becoming a successful novelist one day."
+},
+{
+    "word": "nuclear",
+    "pronunciation": "ˈnjuːklɪə",
+    "example": "The nuclear power plant was shut down due to safety concerns."
+},
+{
+    "word": "numb",
+    "pronunciation": "nʌm",
+    "example": "His fingers grew numb from the cold."
+},
+{
+    "word": "nursing home",
+    "pronunciation": "ˈnɜːsɪŋ həʊm",
+    "example": "She decided to move her elderly mother into a nursing home."
+},
+{
+    "word": "occupy",
+    "pronunciation": "ˈɒkjʊpaɪ",
+    "example": "The protestors planned to occupy the government building."
+},
+{
+    "word": "odds",
+    "pronunciation": "ɒdz",
+    "example": "He overcame the odds to become a successful entrepreneur."
+},
+{
+    "word": "offline",
+    "pronunciation": "ˈɒfˌlaɪn",
+    "example": "You can still play the game offline if you don't have an internet connection."
+},
+{
+    "word": "online",
+    "pronunciation": "ˈɒnlaɪn",
+    "example": "You can find all the information you need online."
+},
+{
+    "word": "opaque",
+    "pronunciation": "əʊˈpeɪk",
+    "example": "The window was covered with an opaque curtain."
+},
+{
+    "word": "optimistic",
+    "pronunciation": "ˌɒptɪˈmɪstɪk",
+    "example": "Despite the setbacks, she remained optimistic about the future."
+},
+{
+    "word": "optimum",
+    "pronunciation": "ˈɒptɪməm",
+    "example": "The optimum temperature for the experiment was 25 degrees Celsius."
+},
+{
+    "word": "outclass",
+    "pronunciation": "ˌaʊtˈklɑːs",
+    "example": "Their team completely outclassed the competition."
+},
+{
+    "word": "overdraft",
+    "pronunciation": "ˈəʊvədrɑːft",
+    "example": "He exceeded his overdraft limit and incurred additional fees."
+},
+{
+    "word": "pamphlet",
+    "pronunciation": "ˈpæmflɪt",
+    "example": "She picked up a pamphlet about local attractions at the tourist information center."
+},
+{
+    "word": "paperback",
+    "pronunciation": "ˈpeɪpərbæk",
+    "example": "She preferred buying paperbacks because they were more affordable than hardcovers."
+},
+{
+    "word": "paradox",
+    "pronunciation": "ˈpærədɒks",
+    "example": "The concept of time travel creates a paradox - if you change the past, you might erase your own existence."
+},
+{
+    "word": "paralysis",
+    "pronunciation": "pəˈrælɪsɪs",
+    "example": "The accident left him with partial paralysis in his legs."
+},
+{
+    "word": "partner",
+    "pronunciation": "ˈpɑːtnər",
+    "example": "She's been my business partner for over a decade."
+},
+{
+    "word": "passerby",
+    "pronunciation": "ˈpɑːsəbaɪ",
+    "example": "A passerby stopped to help the injured cyclist."
+},
+{
+    "word": "pat",
+    "pronunciation": "pæt",
+    "example": "She gave her dog a pat on the head."
+},
+{
+    "word": "pedestrian",
+    "pronunciation": "pəˈdɛstrɪən",
+    "example": "Pedestrians have the right of way at crosswalks."
+},
+{
+    "word": "peep",
+    "pronunciation": "piːp",
+    "example": "She took a quick peep through the keyhole."
+},
+{
+    "word": "peer",
+    "pronunciation": "pɪər",
+    "example": "He looked around to see if any of his peers were paying attention."
+},
+{
+    "word": "peer",
+    "pronunciation": "pɪər",
+    "example": "The ship docked at the pier."
+},
+{
+    "word": "pension",
+    "pronunciation": "ˈpɛnʃən",
+    "example": "He receives a monthly pension after retiring from his job."
+},
+{
+    "word": "period",
+    "pronunciation": "ˈpɪərɪəd",
+    "example": "The Renaissance is known as a period of cultural rebirth."
+},
+{
+    "word": "persist",
+    "pronunciation": "pəˈsɪst",
+    "example": "Despite facing numerous obstacles, she persisted in her efforts to succeed."
+},
+{
+    "word": "pessimistic",
+    "pronunciation": "ˌpɛsɪˈmɪstɪk",
+    "example": "He had a pessimistic view of the economy's future prospects."
+},
+{
+    "word": "petition",
+    "pronunciation": "pəˈtɪʃən",
+    "example": "They started a petition to ban single-use plastics in their community."
+},
+{
+    "word": "pick",
+    "pronunciation": "pɪk",
+    "example": "She couldn't decide which apple to pick from the tree."
+},
+{
+    "word": "pier",
+    "pronunciation": "pɪər",
+    "example": "The pier stretched out into the ocean, offering a panoramic view of the coastline."
+},
+{
+    "word": "pile",
+    "pronunciation": "paɪl",
+    "example": "There was a pile of books on the table waiting to be sorted."
+},
+{
+    "word": "pilot",
+    "pronunciation": "ˈpaɪlət",
+    "example": "The pilot announced that they would be experiencing turbulence."
+},
+{
+    "word": "placard",
+    "pronunciation": "ˈplækɑːd",
+    "example": "Protestors carried placards with slogans demanding climate action."
+},
+{
+    "word": "plagiarise",
+    "pronunciation": "ˈpleɪdʒəraɪz",
+    "example": "He was expelled from school for attempting to plagiarize his term paper."
+},
+{
+    "word": "plaster",
+    "pronunciation": "ˈplɑːstər",
+    "example": "She applied a plaster to cover the small cut on her finger."
+},
+{
+    "word": "plausible",
+    "pronunciation": "ˈplɔːzəbl",
+    "example": "His explanation sounded plausible, but I remained skeptical."
+},
+{
+    "word": "point",
+    "pronunciation": "pɔɪnt",
+    "example": "He made a valid point during the discussion."
+},
+{
+    "word": "polish",
+    "pronunciation": "ˈpɒlɪʃ",
+    "example": "She polished the silverware until it gleamed."
+},
+{
+    "word": "ponder",
+    "pronunciation": "ˈpɒndər",
+    "example": "He sat in silence, pondering the meaning of life."
+},
+{
+    "word": "populated",
+    "pronunciation": "ˈpɒpjʊleɪtɪd",
+    "example": "The city is densely populated, with millions of residents."
+},
+{
+    "word": "pot luck",
+    "pronunciation": "ˈpɒt ˌlʌk",
+    "example": "We're having a pot luck dinner, so bring a dish to share."
+},
+{
+    "word": "potential",
+    "pronunciation": "pəˈtɛnʃəl",
+    "example": "She has the potential to become a great leader."
+},
+{
+    "word": "predecessor",
+    "pronunciation": "ˈpriːdɪˌsɛsə",
+    "example": "The new CEO's strategy differed from that of her predecessor."
+},
+{
+    "word": "prejudice",
+    "pronunciation": "ˈprɛdʒʊdɪs",
+    "example": "She faced discrimination due to racial prejudice."
+},
+{
+    "word": "prejudiced",
+    "pronunciation": "ˈprɛdʒʊdɪst",
+    "example": "His prejudiced views made it difficult to have a rational discussion."
+},
+{
+    "word": "prerecorded",
+    "pronunciation": "ˌpriːrɪˈkɔːdɪd",
+    "example": "The radio show was prerecorded, so the host couldn't take live calls."
+},
+{
+    "word": "prescribe",
+    "pronunciation": "prɪˈskraɪb",
+    "example": "The doctor prescribed antibiotics to treat the infection."
+},
+{
+    "word": "presume",
+    "pronunciation": "prɪˈzjuːm",
+    "example": "I presume you've already made arrangements for transportation."
+},
+{
+    "word": "prevent",
+    "pronunciation": "prɪˈvɛnt",
+    "example": "Regular exercise can help prevent heart disease."
+},
+{
+    "word": "preventative medicine",
+    "pronunciation": "prɪˈvɛntətɪv ˈmɛdɪsɪn",
+    "example": "Vaccinations are a form of preventative medicine."
+},
+{
+    "word": "priceless",
+    "pronunciation": "ˈpraɪslɪs",
+    "example": "The antique vase was priceless, with no monetary value placed on it."
+},
+{
+    "word": "prime",
+    "pronunciation": "praɪm",
+    "example": "She was in the prime of her life, full of energy and ambition."
+},
+{
+    "word": "primitive",
+    "pronunciation": "ˈprɪmɪtɪv",
+    "example": "Their technology was primitive compared to what we have today."
+},
+{
+    "word": "prison reform",
+    "pronunciation": "ˈprɪzən rɪˈfɔːm",
+    "example": "There's a growing movement advocating for prison reform."
+},
+{
+    "word": "privileged",
+    "pronunciation": "ˈprɪvɪlɪdʒd",
+    "example": "He grew up in a privileged household, never having to worry about money."
+},
+{
+    "word": "prognosis",
+    "pronunciation": "prɒɡˈnəʊsɪs",
+    "example": "The doctor delivered a positive prognosis for her recovery."
+},
+{
+    "word": "programmer",
+    "pronunciation": "ˈprəʊɡræmə(r)",
+    "example": "She works as a programmer for a software company."
+},
+{
+    "word": "progress",
+    "pronunciation": "ˈprəʊɡrɛs",
+    "example": "We're making good progress on the project."
+},
+{
+    "word": "prohibit",
+    "pronunciation": "prəˈhɪbɪt",
+    "example": "Smoking is strictly prohibited in this area."
+},
+{
+    "word": "proportion",
+    "pronunciation": "prəˈpɔːʃən",
+    "example": "The proportion of students who passed the exam was higher than expected."
+},
+{
+    "word": "prosecute",
+    "pronunciation": "ˈprɒsɪkjuːt",
+    "example": "The district attorney decided to prosecute the suspect for theft."
+},
+{
+    "word": "punch",
+    "pronunciation": "pʌnʧ",
+    "example": "He threw a punch at the bully in self-defense."
+},
+{
+    "word": "quantify",
+    "pronunciation": "ˈkwɒntɪfaɪ",
+    "example": "It's difficult to quantify the exact impact of climate change."
+},
+{
+    "word": "quay",
+    "pronunciation": "kiː",
+    "example": "The boats were docked at the quay, awaiting departure."
+},
+{
+    "word": "query",
+    "pronunciation": "ˈkwɪəri",
+    "example": "She sent a query to the customer service department regarding her order."
+},
+{
+    "word": "quibble",
+    "pronunciation": "ˈkwɪbəl",
+    "example": "He always finds something to quibble about, no matter how minor."
+},
+{
+    "word": "radical",
+    "pronunciation": "ˈrædɪkl",
+    "example": "The group called for radical changes to the political system."
+},
+{
+    "word": "random",
+    "pronunciation": "ˈrændəm",
+    "example": "She picked a random number between one and ten."
+},
+{
+    "word": "rant",
+    "pronunciation": "rænt",
+    "example": "He went on a rant about the inefficiency of the government."
+},
+{
+    "word": "rate",
+    "pronunciation": "reɪt",
+    "example": "The unemployment rate has been steadily decreasing."
+},
+{
+    "word": "ratio",
+    "pronunciation": "ˈreɪʃɪəʊ",
+    "example": "The ratio of men to women in the company is 3:2."
+},
+{
+    "word": "rave",
+    "pronunciation": "reɪv",
+    "example": "She gave the new restaurant a rave review."
+},
+{
+    "word": "recital",
+    "pronunciation": "rɪˈsaɪtl",
+    "example": "She performed at the piano recital in front of a large audience."
+},
+{
+    "word": "reckon",
+    "pronunciation": "ˈrɛkən",
+    "example": "I reckon it'll take us about an hour to get there."
+},
+{
+    "word": "redeeming feature",
+    "pronunciation": "rɪˈdiːmɪŋ ˈfiːtʃə(r)",
+    "example": "One redeeming feature of the movie was its breathtaking cinematography."
+},
+{
+    "word": "refine",
+    "pronunciation": "rɪˈfaɪn",
+    "example": "They used advanced technology to refine the process and improve efficiency."
+},
+{
+    "word": "reflect",
+    "pronunciation": "rɪˈflɛkt",
+    "example": "His actions reflect his values and beliefs."
+},
+{
+    "word": "reform",
+    "pronunciation": "rɪˈfɔːm",
+    "example": "The government promised to implement social reform to address inequality."
+},
+{
+    "word": "refugee",
+    "pronunciation": "ˌrɛfjʊˈdʒiː",
+    "example": "The country opened its borders to refugees fleeing war-torn regions."
+},
+{
+    "word": "refurbish",
+    "pronunciation": "rɪˈfɜːbɪʃ",
+    "example": "They decided to refurbish the old house rather than tearing it down."
+},
+{
+    "word": "reign",
+    "pronunciation": "reɪn",
+    "example": "The king's reign lasted for over fifty years."
+},
+{
+    "word": "reinforce",
+    "pronunciation": "ˌriːɪnˈfɔːrs",
+    "example": "Additional troops were sent to reinforce the front lines."
+},
+{
+    "word": "rejoice",
+    "pronunciation": "rɪˈdʒɔɪs",
+    "example": "The villagers rejoiced at the news of the ceasefire."
+},
+{
+    "word": "related",
+    "pronunciation": "rɪˈleɪtɪd",
+    "example": "The two incidents were not related and occurred independently."
+},
+{
+    "word": "relative",
+    "pronunciation": "ˈrɛlətɪv",
+    "example": "She visited her relatives during the holidays."
+},
+{
+    "word": "relevant",
+    "pronunciation": "ˈrɛlɪvənt",
+    "example": "Her presentation covered topics that were relevant to the audience."
+},
+{
+    "word": "reluctant",
+    "pronunciation": "rɪˈlʌktənt",
+    "example": "He was reluctant to accept the job offer due to the long commute."
+},
+{
+    "word": "remain",
+    "pronunciation": "rɪˈmeɪn",
+    "example": "Despite the challenges, he remained optimistic about the future."
+},
+{
+    "word": "renovate",
+    "pronunciation": "ˈrɛnəveɪt",
+    "example": "They decided to renovate the kitchen to give it a more modern look."
+},
+{
+    "word": "resemblance",
+    "pronunciation": "rɪˈzɛmbləns",
+    "example": "There's a striking resemblance between the twins."
+},
+{
+    "word": "resent",
+    "pronunciation": "rɪˈzɛnt",
+    "example": "She resented her brother for always getting special treatment."
+},
+{
+    "word": "resist",
+    "pronunciation": "rɪˈzɪst",
+    "example": "It's hard to resist the temptation of freshly baked cookies."
+},
+{
+    "word": "resolute",
+    "pronunciation": "ˈrɛzəluːt",
+    "example": "She remained resolute in her decision despite opposition."
+},
+{
+    "word": "resource",
+    "pronunciation": "rɪˈsɔːs",
+    "example": "The library is a valuable resource for students."
+},
+{
+    "word": "restrict",
+    "pronunciation": "rɪˈstrɪkt",
+    "example": "The new regulations restrict access to certain areas of the park."
+},
+{
+    "word": "retrospective",
+    "pronunciation": "ˌrɛtrəˈspɛktɪv",
+    "example": "The museum is hosting a retrospective of the artist's work."
+},
+{
+    "word": "return fare",
+    "pronunciation": "rɪˈtɜːn fɛə(r)",
+    "example": "The return fare for the train trip was surprisingly affordable."
+},
+{
+    "word": "revice",
+    "pronunciation": "rɪˈvaɪs",
+    "example": "She needed to revice her essay before submitting it."
+},
+{
+    "word": "reviewer",
+    "pronunciation": "rɪˈvjuːə(r)",
+    "example": "As a reviewer, she had to read and critique multiple books each month."
+},
+{
+    "word": "revolution",
+    "pronunciation": "ˌrɛvəˈluːʃən",
+    "example": "The Industrial Revolution transformed society in the 19th century."
+},
+{
+    "word": "roam",
+    "pronunciation": "rəʊm",
+    "example": "She loved to roam through the countryside, exploring new trails."
+},
+{
+    "word": "roll",
+    "pronunciation": "rəʊl",
+    "example": "She placed the bread roll on the plate."
+},
+{
+    "word": "rotate",
+    "pronunciation": "ˈrəʊteɪt",
+    "example": "The Earth rotates on its axis once every 24 hours."
+},
+{
+    "word": "rotten",
+    "pronunciation": "ˈrɒt(ə)n",
+    "example": "The fruit was rotten and had to be thrown away."
+},
+{
+    "word": "round trip",
+    "pronunciation": "raʊnd trɪp",
+    "example": "We booked a round trip ticket for our vacation."
+},
+{
+    "word": "route",
+    "pronunciation": "ruːt",
+    "example": "The fastest route to the airport is via the highway."
+},
+{
+    "word": "rusty",
+    "pronunciation": "ˈrʌsti",
+    "example": "The old bicycle was rusty from being left out in the rain."
+},
+{
+    "word": "satisfactory",
+    "pronunciation": "ˌsætɪsˈfæktəri",
+    "example": "His performance was satisfactory, but there's room for improvement."
+},
+{
+    "word": "scarce",
+    "pronunciation": "skɛəs",
+    "example": "Fresh water is becoming scarce in many parts of the world."
+},
+{
+    "word": "sceptical",
+    "pronunciation": "ˈskɛptɪk(ə)l",
+    "example": "She was sceptical of the new product's claims."
+},
+{
+    "word": "score",
+    "pronunciation": "skɔː",
+    "example": "The team managed to score a last-minute goal and win the game."
+},
+{
+    "word": "scratch",
+    "pronunciation": "skrætʃ",
+    "example": "She scratched her arm on a thorn bush while hiking."
+},
+{
+    "word": "scribble",
+    "pronunciation": "ˈskrɪb(ə)l",
+    "example": "He scribbled a quick note before leaving for work."
+},
+{
+    "word": "scrub",
+    "pronunciation": "skrʌb",
+    "example": "She used a scrub brush to clean the bathroom tiles."
+},
+{
+    "word": "scyscraper",
+    "pronunciation": "ˈskeɪˌskreɪpə(r)",
+    "example": "The city skyline was dominated by towering skyscrapers."
+},
+{
+    "word": "self-study",
+    "pronunciation": "sɛlf ˈstʌdi",
+    "example": "He preferred self-study over attending traditional classes."
+},
+{
+    "word": "seminar",
+    "pronunciation": "ˈsɛmɪnɑː(r)",
+    "example": "She attended a seminar on financial planning."
+},
+{
+    "word": "shambles",
+    "pronunciation": "ˈʃæmbəlz",
+    "example": "After the party, the living room was in shambles."
+},
+{
+    "word": "share",
+    "pronunciation": "ʃeə(r)",
+    "example": "She decided to share her dessert with her friend."
+},
+{
+    "word": "shift",
+    "pronunciation": "ʃɪft",
+    "example": "There was a shift in the company's strategy towards online sales."
+},
+{
+    "word": "shoddy",
+    "pronunciation": "ˈʃɒdi",
+    "example": "The construction work was of shoddy quality and had to be redone."
+},
+{
+    "word": "shrink",
+    "pronunciation": "ʃrɪŋk",
+    "example": "The sweater shrank in the wash and no longer fit."
+},
+{
+    "word": "sibling",
+    "pronunciation": "ˈsɪblɪŋ",
+    "example": "She has two younger siblings, a brother and a sister."
+},
+{
+    "word": "sickleave",
+    "pronunciation": "sɪk liːv",
+    "example": "She had to take sick leave due to a severe cold."
+},
+{
+    "word": "side effect",
+    "pronunciation": "saɪd ɪˈfɛkt",
+    "example": "One common side effect of the medication is drowsiness."
+},
+{
+    "word": "sign",
+    "pronunciation": "saɪn",
+    "example": "He put up a 'No Parking' sign in front of his driveway."
+},
+{
+    "word": "sink",
+    "pronunciation": "sɪŋk",
+    "example": "She washed the dishes in the kitchen sink."
+},
+{
+    "word": "sketch",
+    "pronunciation": "skɛtʃ",
+    "example": "He made a quick sketch of the landscape before painting."
+},
+{
+    "word": "skid",
+    "pronunciation": "skɪd",
+    "example": "The car skidded on the icy road and hit the guardrail."
+},
+{
+    "word": "skyline",
+    "pronunciation": "ˈskaɪlaɪn",
+    "example": "The city skyline was illuminated by the setting sun."
+},
+{
+    "word": "slang",
+    "pronunciation": "slæŋ",
+    "example": "Teenagers often use slang terms that adults may not understand."
+},
+{
+    "word": "slide",
+    "pronunciation": "slaɪd",
+    "example": "The children enjoyed sliding down the playground slide."
+},
+{
+    "word": "slip",
+    "pronunciation": "slɪp",
+    "example": "She slipped on a banana peel and fell on the sidewalk."
+},
+{
+    "word": "smash",
+    "pronunciation": "smæʃ",
+    "example": "The vase fell off the table and smashed into pieces."
+},
+{
+    "word": "smirk",
+    "pronunciation": "smɜːk",
+    "example": "He couldn't help but smirk when his rival's plan backfired."
+},
+{
+    "word": "snap",
+    "pronunciation": "snæp",
+    "example": "The twig snapped under her foot as she walked through the forest."
+},
+{
+    "word": "society",
+    "pronunciation": "səˈsaɪəti",
+    "example": "The organization works to promote equality in society."
+},
+{
+    "word": "solid",
+    "pronunciation": "ˈsɒlɪd",
+    "example": "The table was made of solid oak and was very sturdy."
+},
+{
+    "word": "sound",
+    "pronunciation": "saʊnd",
+    "example": "The sound of waves crashing on the shore was soothing."
+},
+{
+    "word": "special needs",
+    "pronunciation": "ˈspɛʃəl niːdz",
+    "example": "The school provides support for students with special needs."
+},
+{
+    "word": "speck",
+    "pronunciation": "spɛk",
+    "example": "There wasn't a speck of dust on the freshly cleaned shelves."
+},
+{
+    "word": "speculate",
+    "pronunciation": "ˈspɛkjʊleɪt",
+    "example": "Investors often speculate on the future performance of stocks."
+},
+{
+    "word": "spine",
+    "pronunciation": "spaɪn",
+    "example": "The book's spine was worn from years of use."
+},
+{
+    "word": "spoil",
+    "pronunciation": "spɔɪl",
+    "example": "Leaving food out in the sun can cause it to spoil quickly."
+},
+{
+    "word": "spontaneous",
+    "pronunciation": "spɒnˈteɪniəs",
+    "example": "Their spontaneous decision to go on a road trip led to many adventures."
+},
+{
+    "word": "spouse",
+    "pronunciation": "spaʊs",
+    "example": "She introduced her spouse to her colleagues at the office party."
+},
+{
+    "word": "sqeeze",
+    "pronunciation": "skwiːz",
+    "example": "She had to squeeze through the narrow gap between the buildings."
+},
+{
+    "word": "squash",
+    "pronunciation": "skwɒʃ",
+    "example": "He made a delicious soup using fresh squash from the garden."
+},
+{
+    "word": "stack",
+    "pronunciation": "stæk",
+    "example": "She stacked the books neatly on the shelf."
+},
+{
+    "word": "stale",
+    "pronunciation": "steɪl",
+    "example": "The bread had gone stale, so she threw it out."
+},
+{
+    "word": "startle",
+    "pronunciation": "ˈstɑːtl",
+    "example": "The loud noise from the fireworks startled the sleeping cat."
+},
+{
+    "word": "state",
+    "pronunciation": "steɪt",
+    "example": "He explained the current state of affairs to the committee."
+},
+{
+    "word": "statistics",
+    "pronunciation": "stəˈtɪstɪks",
+    "example": "The statistics showed a decline in unemployment rates."
+},
+{
+    "word": "status quo",
+    "pronunciation": "ˈsteɪtəs kwəʊ",
+    "example": "Some people are content with maintaining the status quo."
+},
+{
+    "word": "steady",
+    "pronunciation": "ˈstɛdi",
+    "example": "She took a deep breath to steady her nerves before the presentation."
+},
+{
+    "word": "steady(v)",
+    "pronunciation": "ˈstɛdi",
+    "example": "She steadied the ladder while he climbed up to fix the roof."
+},
+{
+    "word": "steer",
+    "pronunciation": "stɪə(r)",
+    "example": "He had to steer the boat carefully through the narrow channel."
+},
+{
+    "word": "step",
+    "pronunciation": "stɛp",
+    "example": "She took a cautious step forward into the dark room."
+},
+{
+    "word": "stepmother",
+    "pronunciation": "ˈstɛpˌmʌðə(r)",
+    "example": "Her stepmother treated her like her own daughter."
+},
+{
+    "word": "steward",
+    "pronunciation": "ˈstjuːəd",
+    "example": "The flight steward served drinks to the passengers."
+},
+{
+    "word": "stiff",
+    "pronunciation": "stɪf",
+    "example": "After the workout, her muscles felt stiff and sore."
+},
+{
+    "word": "stray",
+    "pronunciation": "streɪ",
+    "example": "A stray cat wandered into the garden looking for food."
+},
+{
+    "word": "streamline",
+    "pronunciation": "ˈstriːmlaɪn",
+    "example": "The company streamlined its operations to improve efficiency."
+},
+{
+    "word": "strengthen",
+    "pronunciation": "ˈstrɛŋθən",
+    "example": "Regular exercise can help strengthen your muscles."
+},
+{
+    "word": "stride",
+    "pronunciation": "straɪd",
+    "example": "He walked with long strides, covering the distance quickly."
+},
+{
+    "word": "stroke",
+    "pronunciation": "stroʊk",
+    "example": "She suffered a stroke and was hospitalized for treatment."
+},
+{
+    "word": "structure",
+    "pronunciation": "ˈstrʌk.tʃər",
+    "example": "The building's structure was damaged in the earthquake."
+},
+{
+    "word": "stuff",
+    "pronunciation": "stʌf",
+    "example": "She stuffed her bag full of snacks for the road trip."
+},
+{
+    "word": "stumble",
+    "pronunciation": "ˈstʌm.bəl",
+    "example": "He stumbled over a rock in the dark and fell to the ground."
+},
+{
+    "word": "stutter",
+    "pronunciation": "ˈstʌt.ər",
+    "example": "He began to stutter nervously when asked to speak in public."
+},
+{
+    "word": "subject",
+    "pronunciation": "ˈsʌb.dʒɪkt",
+    "example": "Mathematics was her favorite subject in school."
+},
+{
+    "word": "subjective",
+    "pronunciation": "səbˈdʒɛktɪv",
+    "example": "Beauty is a subjective concept that varies from person to person."
+},
+{
+    "word": "submit",
+    "pronunciation": "səbˈmɪt",
+    "example": "Please submit your application before the deadline."
+},
+{
+    "word": "substance",
+    "pronunciation": "ˈsʌbstəns",
+    "example": "The substance found in the soil was identified as arsenic."
+},
+{
+    "word": "substitute",
+    "pronunciation": "ˈsʌbstɪˌtjuːt",
+    "example": "She used applesauce as a substitute for eggs in the recipe."
+},
+{
+    "word": "subtitles",
+    "pronunciation": "ˈsʌbˌtaɪtəlz",
+    "example": "The movie had subtitles in multiple languages."
+},
+{
+    "word": "suburban",
+    "pronunciation": "səˈbɜːrbən",
+    "example": "They moved to a suburban neighborhood to be closer to nature."
+},
+{
+    "word": "successor",
+    "pronunciation": "səkˈsɛsər",
+    "example": "The new CEO was chosen as the successor to the retiring executive."
+},
+{
+    "word": "sufficient",
+    "pronunciation": "səˈfɪʃənt",
+    "example": "She had saved a sufficient amount of money for her trip."
+},
+{
+    "word": "sum",
+    "pronunciation": "sʌm",
+    "example": "The sum of the numbers is calculated by adding them together."
+},
+{
+    "word": "summon",
+    "pronunciation": "ˈsʌmən",
+    "example": "The wizard can summon magical creatures to aid him in battle."
+},
+{
+    "word": "superior",
+    "pronunciation": "suːˈpɪriər",
+    "example": "Their product is of superior quality compared to others on the market."
+},
+{
+    "word": "superstition",
+    "pronunciation": "ˌsuː.pərˈstɪʃ.ən",
+    "example": "Breaking a mirror is considered bad luck according to superstition."
+},
+{
+    "word": "superstitious",
+    "pronunciation": "ˌsuː.pərˈstɪʃ.əs",
+    "example": "She's very superstitious and refuses to walk under ladders."
+},
+{
+    "word": "supplement",
+    "pronunciation": "ˈsʌplɪmənt",
+    "example": "She takes a daily vitamin supplement to ensure she gets enough nutrients."
+},
+{
+    "word": "suppose",
+    "pronunciation": "səˈpoʊz",
+    "example": "Let's suppose for a moment that you're right."
+},
+{
+    "word": "surpass",
+    "pronunciation": "sərˈpæs",
+    "example": "Her skills in mathematics surpass those of her peers."
+},
+{
+    "word": "surroundings",
+    "pronunciation": "səˈraʊndɪŋz",
+    "example": "The beauty of her surroundings took her breath away."
+},
+{
+    "word": "sustain",
+    "pronunciation": "səˈsteɪn",
+    "example": "His injuries were severe, but he managed to sustain himself until help arrived."
+},
+{
+    "word": "switch",
+    "pronunciation": "swɪtʃ",
+    "example": "She flipped the switch, but the light didn't come on."
+},
+{
+    "word": "sympathise",
+    "pronunciation": "ˈsɪmpəˌθaɪz",
+    "example": "I sympathize with your situation, but there's not much I can do to help."
+},
+{
+    "word": "syringe",
+    "pronunciation": "sɪˈrɪndʒ",
+    "example": "The nurse used a syringe to administer the medication."
+},
+{
+    "word": "sythetic",
+    "pronunciation": "sɪnˈθɛtɪk",
+    "example": "The fabric was made from a synthetic material."
+},
+{
+    "word": "tabloid",
+    "pronunciation": "ˈtæblɔɪd",
+    "example": "Tabloid newspapers often sensationalize stories for dramatic effect."
+},
+{
+    "word": "tactic",
+    "pronunciation": "ˈtæktɪk",
+    "example": "Their tactic of surprise attack caught the enemy off guard."
+},
+{
+    "word": "tear",
+    "pronunciation": "tɪər",
+    "example": "A single tear rolled down her cheek as she listened to the sad news."
+},
+{
+    "word": "technique",
+    "pronunciation": "tɛkˈnik",
+    "example": "Her painting technique involves using bold strokes and vibrant colors."
+},
+{
+    "word": "terror",
+    "pronunciation": "ˈtɛrər",
+    "example": "The people fled in terror as the earthquake shook the city."
+},
+{
+    "word": "texture",
+    "pronunciation": "ˈtɛkstʃər",
+    "example": "The texture of the fabric was rough and scratchy."
+},
+{
+    "word": "tip",
+    "pronunciation": "tɪp",
+    "example": "Leaving a tip is customary in restaurants in many countries."
+},
+{
+    "word": "trailer",
+    "pronunciation": "ˈtreɪlər",
+    "example": "They watched the trailer for the new movie and were excited to see it."
+},
+{
+    "word": "transform",
+    "pronunciation": "trænsˈfɔrm",
+    "example": "The caterpillar will eventually transform into a butterfly."
+},
+{
+    "word": "transparent",
+    "pronunciation": "trænsˈpɛrənt",
+    "example": "The window was made of transparent glass, allowing sunlight to enter."
+},
+{
+    "word": "transpire",
+    "pronunciation": "trænˈspaɪər",
+    "example": "It remains to be seen what will transpire at the meeting tomorrow."
+},
+{
+    "word": "trip",
+    "pronunciation": "trɪp",
+    "example": "They went on a trip to Europe to celebrate their anniversary."
+},
+{
+    "word": "tuition",
+    "pronunciation": "tuˈɪʃən",
+    "example": "The tuition fees for the university have increased this year."
+},
+{
+    "word": "tutorial",
+    "pronunciation": "tuˈtɔːriəl",
+    "example": "She watched a tutorial on YouTube to learn how to play the guitar."
+},
+{
+    "word": "ultimate",
+    "pronunciation": "ˈʌltɪmət",
+    "example": "Winning the championship was the ultimate goal for the team."
+},
+{
+    "word": "uncertainty",
+    "pronunciation": "ʌnˈsɜːrtənti",
+    "example": "The uncertainty surrounding the economy has led to cautious spending."
+},
+{
+    "word": "undermine",
+    "pronunciation": "ˌʌndərˈmaɪn",
+    "example": "His constant criticism began to undermine her confidence."
+},
+{
+    "word": "uneven",
+    "pronunciation": "ʌnˈiːvən",
+    "example": "The road was bumpy and uneven, making it difficult to drive."
+},
+{
+    "word": "uniform",
+    "pronunciation": "ˈjuːnɪfɔːrm",
+    "example": "All students are required to wear the school uniform."
+},
+{
+    "word": "unrest",
+    "pronunciation": "ʌnˈrɛst",
+    "example": "Political unrest in the region has led to widespread protests."
+},
+{
+    "word": "upload",
+    "pronunciation": "ʌpˈləʊd",
+    "example": "She uploaded the photos from her phone to the computer."
+},
+{
+    "word": "urban",
+    "pronunciation": "ˈɜːrbən",
+    "example": "The urban population is rapidly increasing."
+},
+{
+    "word": "utter",
+    "pronunciation": "ˈʌtər",
+    "example": "The silence in the room was utter, broken only by occasional whispers."
+},
+{
+    "word": "vaccine",
+    "pronunciation": "ˈvæksiːn",
+    "example": "The vaccine was developed to protect against the flu virus."
+},
+{
+    "word": "vague",
+    "pronunciation": "veɪɡ",
+    "example": "His explanation was vague and didn't clarify much."
+},
+{
+    "word": "vast",
+    "pronunciation": "væst",
+    "example": "The desert stretched out before them, a vast expanse of sand."
+},
+{
+    "word": "velocity",
+    "pronunciation": "vəˈlɒsɪti",
+    "example": "The car's velocity increased as it rolled down the hill."
+},
+{
+    "word": "victimise",
+    "pronunciation": "ˈvɪktɪmaɪz",
+    "example": "It's never okay to bully or victimize someone for any reason."
+},
+{
+    "word": "volume",
+    "pronunciation": "ˈvɒljuːm",
+    "example": "She turned up the volume on the stereo to enjoy the music."
+},
+{
+    "word": "vulnerable",
+    "pronunciation": "ˈvʌlnərəbl",
+    "example": "Children are particularly vulnerable to diseases without vaccinations."
+},
+{
+    "word": "wander",
+    "pronunciation": "ˈwɒndər",
+    "example": "They decided to wander through the forest, enjoying the sights and sounds."
+},
+{
+    "word": "ward",
+    "pronunciation": "wɔːrd",
+    "example": "The nurse checked on the patients in the pediatric ward."
+},
+{
+    "word": "wave",
+    "pronunciation": "weɪv",
+    "example": "The children waved excitedly as the parade passed by."
+},
+{
+    "word": "widespread",
+    "pronunciation": "ˈwaɪdspred",
+    "example": "There was widespread support for the new environmental regulations."
+},
+{
+    "word": "withdraw",
+    "pronunciation": "wɪðˈdrɔː",
+    "example": "He decided to withdraw his application for the job."
+},
+{
+    "word": "wobble",
+    "pronunciation": "ˈwɒbəl",
+    "example": "The table began to wobble as they placed the heavy vase on top."
+},
+{
+    "word": "work of art",
+    "pronunciation": "wɜːrk əv ɑːt",
+    "example": "The painting was a stunning work of art, admired by all who saw it."
+},
+{
+    "word": "worsen",
+    "pronunciation": "ˈwɜːsn̩",
+    "example": "His condition began to worsen despite the doctor's efforts."
+},
+{
+    "word": "worthless",
+    "pronunciation": "ˈwɜːθləs",
+    "example": "The old coins were deemed worthless by collectors."
+},
+{
+    "word": "wreck",
+    "pronunciation": "rɛk",
+    "example": "The storm left a trail of destruction, turning buildings into wrecks."
+}
+]
