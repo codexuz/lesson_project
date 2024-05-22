@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            
+        }
+
+        body{
+            background: linear-gradient(-90deg, #400252, #5e05d3);
+        }
+
+        .box{
+            background: transparent;
+            width: 80%;
+            margin: 40px 10%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            column-gap: 8px;
+            
+        }
+
+        input {
+            width: 60%;
+            padding: 15px 20px;
+            background: linear-gradient(-90deg, #400252, #5e05d3);
+            border: 2px solid #bf86fb ;
+            border-radius: 20px;
+            outline: none;
+            color: white;
+            text-shadow: 1px 1px 5px white, 2px 1px 15px rgb(60, 0, 255);
+            font-size: 20px;
+
+        }
+
+        button{
+            padding: 18px 26px;
+            border: 1px solid #5e05d3;
+            background: linear-gradient(-90deg, #400252, #5e05d3);
+            border-radius: 20px;
+            color: white;
+            font-size: 19px;
+            cursor: pointer;
+        }
+
+        #data{
+            width: 56%;
+            margin: 20px 22%;
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            color: #f0f0f0;
+            background: transparent;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+   
+    <div class="box">
+    <input type="text" id="prompt">
+    <button onclick="postData()">Yubor</button>
+   </div>
+    
+   <div id="data"></div>
+
+   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+
+
+        async function postData() {
+            var promptedText = document.querySelector('#prompt').value
+             console.log(promptedText)
+
+            if(!promptedText){
+                Swal.fire({
+                title: 'Error!',
+                text: 'Biror narsa yozing!',
+                icon: 'error',
+                confirmButtonText: 'Ok'
+                })
+                
+                return
+            }
+            
+            const res = await fetch('http://localhost:3000/', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({promptedText})
+            })
+
+            const data = await res.json()
+            console.log(data)
+            var responseText = data.choices[0].text;
+            var i = 0;
+            var speed = 50;
+            if(responseText){
+                typingEffet(); 
+            }
+
+            function typingEffet(){
+            if(i < responseText.length){
+                document.querySelector('#data').innerHTML += responseText.charAt(i);
+                i++
+                setTimeout(typingEffet, speed)
+            }
+            
+        }
+         
+        }
+
+
+ 
+  
+        
+    </script>
+</body>
+</html>
