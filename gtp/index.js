@@ -4,19 +4,20 @@ import cors  from 'cors'
 import OpenAI   from 'openai'
 
 
-const ApiKey = "sk-proj-G6lWv8gAxQ3ZN0UqT4rrT3BlbkFJkx990Q2tEj9owqpeEadx"
+const ApiKey = ""
 
 const openai = new OpenAI({
   apiKey: ApiKey
 })
 
+
 const allowedOrigins = [
   'capacitor://localhost',
   'ionic://localhost',
-  'http://localhost',
+  'http://localhost:3000',
   'http://localhost:8080',
   'http://localhost:5173',
-  'http://localhost:8100',
+  'http://127.0.0.1:5500',
   'https://examonline-rouge.vercel.app',
   'https://examonline-edumo.uz/'
 ];
@@ -32,16 +33,18 @@ const corsOptions = {
   },
 };
 
-
 app.use(express.json());
 app.use(cors(corsOptions));
 app.use(express.urlencoded({extended: true}));
 
 
-app.get('/', async (req, res)=>{
+app.post('/', async (req, res)=>{
+  const { promptedText } = req.body
+  console.log(promptedText)
   const completion = await openai.completions.create({
     model: 'gpt-3.5-turbo-instruct',
-    prompt: 'Write a tagline for an ice cream shop.'
+    prompt: promptedText,
+    max_tokens: 800
 });
   res.status(200).json(completion)
 })
