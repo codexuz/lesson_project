@@ -1,0 +1,3435 @@
+
+[
+    {
+      "id": 1,
+      "title": "Unit 1",
+      "desc": "Education",
+      "words": [
+          {
+      "word": "assess",
+      "translation": "baholamoq",
+      "pronunciation": "/əˈsɛs/",
+      "example": "The teacher will assess the students' progress at the end of the term."
+    },
+    {
+      "word": "baffle",
+      "translation": "xalaqit bermoq, xafa qilmoq",
+      "pronunciation": "/ˈbæfəl/",
+      "example": "The complex puzzle continued to baffle the children."
+    },
+    {
+      "word": "biased",
+      "translation": "adolatsiz",
+      "pronunciation": "/ˈbaɪəst/",
+      "example": "The judge was accused of being biased in the case."
+    },
+    {
+      "word": "concentrate",
+      "translation": "diqqatni jamlamoq",
+      "pronunciation": "/ˈkɒnsəntreɪt/",
+      "example": "Please turn off the TV; I need to concentrate on my homework."
+    },
+    {
+      "word": "consider",
+      "translation": "e'tiborga olmoq, tushunmoq",
+      "pronunciation": "/kənˈsɪdər/",
+      "example": "We must consider all the options before making a decision."
+    },
+    {
+      "word": "contemplate",
+      "translation": "mulohaza qilmoq, fikr yuritmoq",
+      "pronunciation": "/ˈkɒntəmˌpleɪt/",
+      "example": "He sat quietly, contemplating the meaning of life."
+    },
+    {
+      "word": "cynical",
+      "translation": "surbet, hayosiz",
+      "pronunciation": "/ˈsɪnɪkl/",
+      "example": "Her cynical view of politics made it hard for her to trust any candidate."
+    },
+    {
+      "word": "deduce",
+      "translation": "xulosa chiqarmoq",
+      "pronunciation": "/dɪˈdjuːs/",
+      "example": "From the evidence, the detective was able to deduce what had happened."
+    },
+    {
+      "word": "deliberate",
+      "translation": "oldindan o'ylab qo'yilgan",
+      "pronunciation": "/dɪˈlɪbərət/",
+      "example": "It was a deliberate act of sabotage."
+    },
+    {
+      "word": "dilemma",
+      "translation": "ikkilanish",
+      "pronunciation": "/dɪˈlɛmə/",
+      "example": "She faced a dilemma about whether to go to college or start working."
+    },
+    {
+      "word": "discriminate",
+      "translation": "kamsitmoq",
+      "pronunciation": "/dɪˈskrɪmɪˌneɪt/",
+      "example": "It's illegal to discriminate against someone based on their race."
+    },
+    {
+      "word": "dubious",
+      "translation": "shubhali, shubha uyg'otadigan",
+      "pronunciation": "/ˈdjuːbiəs/",
+      "example": "He made a dubious claim about his past achievements."
+    },
+    {
+      "word": "estimate",
+      "translation": "baholamoq",
+      "pronunciation": "/ˈɛstɪˌmeɪt/",
+      "example": "We need to estimate the costs before starting the project."
+    },
+    {
+      "word": "faith",
+      "translation": "ishonch, e'tiqod",
+      "pronunciation": "/feɪθ/",
+      "example": "She has a strong faith in her religious beliefs."
+    },
+    {
+      "word": "gather",
+      "translation": "xulosa qilmoq",
+      "pronunciation": "/ˈɡæðər/",
+      "example": "From what I gather, the event was a huge success."
+    },
+    {
+      "word": "genius",
+      "translation": "daho, iste'dod",
+      "pronunciation": "/ˈdʒiːniəs/",
+      "example": "Einstein was a genius in the field of physics."
+    },
+    {
+      "word": "grasp",
+      "translation": "tushunib olmoq",
+      "pronunciation": "/ɡræsp/",
+      "example": "He quickly grasped the basic concepts of quantum mechanics."
+    },
+    {
+      "word": "guesswork",
+      "translation": "tahmin, faraz",
+      "pronunciation": "/ˈɡɛswɜːrk/",
+      "example": "The results were not based on guesswork but on scientific research."
+    },
+    {
+      "word": "hunch",
+      "translation": "bukmoq, egmoq",
+      "pronunciation": "/hʌntʃ/",
+      "example": "I have a hunch that the weather will improve by tomorrow."
+    },
+    {
+      "word": "ideology",
+      "translation": "g'oya",
+      "pronunciation": "/ˌaɪdiˈɒlədʒi/",
+      "example": "Their political ideology is based on equality and social justice."
+    },
+    {
+      "word": "ingenious",
+      "translation": "farosatli, faxmli",
+      "pronunciation": "/ɪnˈdʒiːniəs/",
+      "example": "He came up with an ingenious solution to the problem."
+    },
+    {
+      "word": "inspiration",
+      "translation": "ilhomlanish, ruhlanish",
+      "pronunciation": "/ˌɪnspəˈreɪʃən/",
+      "example": "Her visit to the art gallery was a source of inspiration."
+    },
+    {
+      "word": "intuition",
+      "translation": "intuitsiya, ichki his",
+      "pronunciation": "/ˌɪntjuˈɪʃən/",
+      "example": "She relied on her intuition to make the decision."
+    },
+    {
+      "word": "justify",
+      "translation": "oqlamoq",
+      "pronunciation": "/ˈdʒʌstɪfaɪ/",
+      "example": "He tried to justify his actions by explaining the circumstances."
+    },
+    {
+      "word": "naïve",
+      "translation": "go'l, sodda, laqma",
+      "pronunciation": "/naɪˈiːv/",
+      "example": "She was naive to believe that everything she read online was true."
+    },
+    {
+      "word": "notion",
+      "translation": "fikr, niyat, maqsad",
+      "pronunciation": "/ˈnəʊʃən/",
+      "example": "He had a vague notion about starting his own business."
+    },
+    {
+      "word": "optimistic",
+      "translation": "optimistik",
+      "pronunciation": "/ˌɒptɪˈmɪstɪk/",
+      "example": "She is optimistic about her chances of winning the competition."
+    },
+    {
+      "word": "paradox",
+      "translation": "paradoks",
+      "pronunciation": "/ˈpærədɒks/",
+      "example": "It's a paradox that in such a rich country there can be so much poverty."
+    },
+    {
+      "word": "pessimistic",
+      "translation": "umidsizlangan",
+      "pronunciation": "/ˌpɛsɪˈmɪstɪk/",
+      "example": "He is pessimistic about the future of the economy."
+    },
+    {
+      "word": "plausible",
+      "translation": "haqiqatnamo, haqiqatga o'xshagan",
+      "pronunciation": "/ˈplɔːzəbəl/",
+      "example": "Her story sounded plausible at first."
+    },
+    {
+      "word": "ponder",
+      "translation": "puxta o'ylangan",
+      "pronunciation": "/ˈpɒndər/",
+      "example": "He pondered over the question before answering."
+    },
+    {
+      "word": "prejudiced",
+      "translation": "o'ylaydigan",
+      "pronunciation": "/ˈprɛdʒədɪst/",
+      "example": "She is prejudiced against people of a different ethnicity."
+    },
+    {
+      "word": "presume",
+      "translation": "mo'ljallamoq, niyat qilmoq",
+      "pronunciation": "/prɪˈzjuːm/",
+      "example": "I presume you have already discussed this with him."
+    },
+    {
+      "word": "query",
+      "translation": "shubha, shubhalanmoq",
+      "pronunciation": "/ˈkwɪəri/",
+      "example": "She had a query about the company's return policy."
+    },
+    {
+      "word": "reckon",
+      "translation": "...deb hisoblamoq, deb o'ylamoq",
+      "pronunciation": "/ˈrɛkən/",
+      "example": "I reckon it will take us about an hour to get there."
+    },
+    {
+      "word": "reflect",
+      "translation": "aks ettirmoq",
+      "pronunciation": "/rɪˈflɛkt/",
+      "example": "The mirror reflected the light into the room."
+    },
+    {
+      "word": "sceptical",
+      "translation": "shubha, ishonchsiz",
+      "pronunciation": "/ˈskɛptɪkəl/",
+      "example": "She is sceptical about the effectiveness of the new drug."
+    },
+    {
+      "word": "speculate",
+      "translation": "fikr yurgizmoq",
+      "pronunciation": "/ˈspɛkjʊleɪt/",
+      "example": "They speculate that the company will announce a merger soon."
+    },
+    {
+      "word": "suppose",
+      "translation": "taxmin qilmoq",
+      "pronunciation": "/səˈpəʊz/",
+      "example": "I suppose we could try a different approach."
+    },
+    {
+      "word": "academic",
+      "translation": "akademik",
+      "pronunciation": "/ˌækəˈdɛmɪk/",
+      "example": "She pursued an academic career in the field of biology."
+    },
+    {
+      "word": "conscientious",
+      "translation": "vijdonli",
+      "pronunciation": "/ˌkɒnʃɪˈɛnʃəs/",
+      "example": "She is a conscientious worker who always gives her best."
+    },
+    {
+      "word": "cram",
+      "translation": "tez ko'p narsa o'rganishga harakat qilmoq",
+      "pronunciation": "/kræm/",
+      "example": "He had to cram all night for the final exam."
+    },
+    {
+      "word": "curriculum",
+      "translation": "o'quv kursi/rejasi",
+      "pronunciation": "/kəˈrɪkjʊləm/",
+      "example": "The school offers a broad curriculum that includes arts and sciences."
+    },
+    {
+      "word": "distance learning",
+      "translation": "masofadan o'rganish",
+      "pronunciation": "/ˈdɪstəns ˈlɜːrnɪŋ/",
+      "example": "Distance learning has become increasingly popular with the advent of the internet."
+    },
+    {
+      "word": "graduate",
+      "translation": "oliy o'quv yurtini tugatmoq",
+      "pronunciation": "/ˈɡrædʒuɪt/",
+      "example": "She will graduate from college next year."
+    },
+    {
+      "word": "ignorant",
+      "translation": "savodsiz",
+      "pronunciation": "/ˈɪɡnərənt/",
+      "example": "Many people are ignorant about the effects of climate change."
+    },
+    {
+      "word": "inattentive",
+      "translation": "e'tiborsiz",
+      "pronunciation": "/ˌɪnəˈtɛntɪv/",
+      "example": "The inattentive student missed important points during the lecture."
+    },
+    {
+      "word": "intellectual",
+      "translation": "aqliy",
+      "pronunciation": "/ˌɪntəˈlɛktʃuəl/",
+      "example": "She enjoys engaging in intellectual discussions."
+    },
+    {
+      "word": "intelligent",
+      "translation": "aqlli",
+      "pronunciation": "/ɪnˈtɛlɪdʒənt/",
+      "example": "He is one of the most intelligent students in the class."
+    },
+    {
+      "word": "intensive",
+      "translation": "tez, jadal",
+      "pronunciation": "/ɪnˈtɛnsɪv/",
+      "example": "The course offers intensive training in computer skills."
+    },
+    {
+      "word": "knowledgeable",
+      "translation": "chuqur bilimli",
+      "pronunciation": "/ˈnɒlɪdʒəbl/",
+      "example": "The guide was very knowledgeable about the history of the area."
+    },
+    {
+      "word": "lecture",
+      "translation": "ma'ruza",
+      "pronunciation": "/ˈlɛktʃər/",
+      "example": "The professor gave an interesting lecture on modern art."
+    },
+    {
+      "word": "mock exam",
+      "translation": "na'munaviy imtihon",
+      "pronunciation": "/mɒk ɪɡˈzæm/",
+      "example": "The students took a mock exam to prepare for the real test."
+    },
+    {
+      "word": "plagiarise",
+      "translation": "adabiy o'girlik",
+      "pronunciation": "/ˈpleɪdʒəraɪz/",
+      "example": "It's important to cite sources correctly to avoid plagiarising."
+    },
+    {
+      "word": "self-study",
+      "translation": "mustaqil o'rganish",
+      "pronunciation": "/sɛlf ˈstʌdi/",
+      "example": "Self-study requires a lot of discipline and motivation."
+    },
+    {
+      "word": "seminar",
+      "translation": "seminar",
+      "pronunciation": "/ˈsɛmɪnɑːr/",
+      "example": "The seminar on environmental conservation was very informative."
+    },
+    {
+      "word": "special needs",
+      "translation": "maxsus ehtiyoj",
+      "pronunciation": "/ˈspɛʃəl niːdz/",
+      "example": "The school provides excellent support for students with special needs."
+    },
+    {
+      "word": "tuition",
+      "translation": "o'qitish",
+      "pronunciation": "/tjuːˈɪʃən/",
+      "example": "The tuition fees for the university are quite high."
+    },
+    {
+      "word": "tutorial",
+      "translation": "konsultatsiya, o'quv qo'llanmasi",
+      "pronunciation": "/tjuːˈtɔːriəl/",
+      "example": "He attended a tutorial to get help with his math homework."
+    }
+        
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Unit 2",
+      "desc": "Education",
+      "words": [
+          {
+      "word": "adapt",
+      "translation": "qabul qilmoq",
+      "pronunciation": "/əˈdæpt/",
+      "example": "He had to adapt to the new environment quickly."
+    },
+    {
+      "word": "adjust",
+      "translation": "tartibga keltirmoq",
+      "pronunciation": "/əˈdʒʌst/",
+      "example": "You can adjust the height of the chair by using the lever."
+    },
+    {
+      "word": "alternate",
+      "translation": "galma gal qilmoq",
+      "pronunciation": "/ˈɔːltərneɪt/",
+      "example": "She alternates between working in the office and working from home."
+    },
+    {
+      "word": "alternative",
+      "translation": "ikki yo'ldan birini tanlashni taqozo etadigan",
+      "pronunciation": "/ɔːlˈtɜːrnətɪv/",
+      "example": "We need to find an alternative solution to the problem."
+    },
+    {
+      "word": "amend",
+      "translation": "yaxshilamoq, tuzatmoq",
+      "pronunciation": "/əˈmɛnd/",
+      "example": "The document was amended to include new information."
+    },
+    {
+      "word": "conservative",
+      "translation": "eskilikni yoqlovchi",
+      "pronunciation": "/kənˈsɜːrvətɪv/",
+      "example": "He has very conservative views on social issues."
+    },
+    {
+      "word": "convert",
+      "translation": "bir hlatdan boshqa holatga o'tmoq",
+      "pronunciation": "/kənˈvɜːrt/",
+      "example": "They converted the old barn into a modern house."
+    },
+    {
+      "word": "decay",
+      "translation": "yiringlamoq",
+      "pronunciation": "/dɪˈkeɪ/",
+      "example": "The abandoned house slowly decayed over the years."
+    },
+    {
+      "word": "deteriorate",
+      "translation": "yomonlashmoq",
+      "pronunciation": "/dɪˈtɪərɪəreɪt/",
+      "example": "His health deteriorated rapidly after the accident."
+    },
+    {
+      "word": "distort",
+      "translation": "buzib ko'rsatmoq",
+      "pronunciation": "/dɪˈstɔːrt/",
+      "example": "The funhouse mirrors distorted their reflections."
+    },
+    {
+      "word": "dynamic",
+      "translation": "serharakat",
+      "pronunciation": "/daɪˈnæmɪk/",
+      "example": "The dynamic duo tackled the project with great energy."
+    },
+    {
+      "word": "endure",
+      "translation": "bardosh bermoq",
+      "pronunciation": "/ɪnˈdjʊər/",
+      "example": "She had to endure a long wait before seeing the doctor."
+    },
+    {
+      "word": "evolve",
+      "translation": "taraqqiy etmoq, rivojlantirmoq",
+      "pronunciation": "/ɪˈvɒlv/",
+      "example": "Birds evolved from dinosaurs millions of years ago."
+    },
+    {
+      "word": "influence",
+      "translation": "tasir etmoq",
+      "pronunciation": "/ˈɪnflʊəns/",
+      "example": "Her parents' values influenced her greatly."
+    },
+    {
+      "word": "innovation",
+      "translation": "yangilik",
+      "pronunciation": "/ˌɪnəˈveɪʃən/",
+      "example": "The company's latest innovation is a smartphone with a foldable screen."
+    },
+    {
+      "word": "innovative",
+      "translation": "yangi",
+      "pronunciation": "/ˈɪnəveɪtɪv/",
+      "example": "They came up with an innovative solution to the problem."
+    },
+    {
+      "word": "last",
+      "translation": "davom etmoq",
+      "pronunciation": "/læst/",
+      "example": "The meeting lasted for three hours."
+    },
+    {
+      "word": "maintain",
+      "translation": "saqlamoq, himoya qilmoq",
+      "pronunciation": "/meɪnˈteɪn/",
+      "example": "They maintained their commitment to sustainability."
+    },
+    {
+      "word": "mature",
+      "translation": "yetuk, yetilmoq",
+      "pronunciation": "/məˈtjʊər/",
+      "example": "He is very mature for his age."
+    },
+    {
+      "word": "modify",
+      "translation": "o'zgartirmoq",
+      "pronunciation": "/ˈmɒdɪfaɪ/",
+      "example": "The car was modified to improve its performance."
+    },
+    {
+      "word": "novel",
+      "translation": "yangi noma'lum",
+      "pronunciation": "/ˈnɒvəl/",
+      "example": "The scientist came up with a novel approach to the problem."
+    },
+    {
+      "word": "persist",
+      "translation": "qattiq turib olmoq",
+      "pronunciation": "/pəˈsɪst/",
+      "example": "If symptoms persist, consult a doctor."
+    },
+    {
+      "word": "potential",
+      "translation": "salohiyat, bo'lishi mumkin bo'lgan",
+      "pronunciation": "/pəˈtɛnʃəl/",
+      "example": "She has the potential to become a great leader."
+    },
+    {
+      "word": "progress",
+      "translation": "taraqqiy etmoq, yuksalish",
+      "pronunciation": "/ˈprɒɡrɛs/",
+      "example": "He made significant progress in his studies."
+    },
+    {
+      "word": "radical",
+      "translation": "tubdan, keskin",
+      "pronunciation": "/ˈrædɪkəl/",
+      "example": "The government proposed radical changes to the tax system."
+    },
+    {
+      "word": "refine",
+      "translation": "tozalamoq, qaytadan ishlamoq",
+      "pronunciation": "/rɪˈfaɪn/",
+      "example": "The process is refined to increase efficiency."
+    },
+    {
+      "word": "reform",
+      "translation": "islohot",
+      "pronunciation": "/rɪˈfɔːrm/",
+      "example": "The new government promised to implement reforms."
+    },
+    {
+      "word": "remain",
+      "translation": "qolmoq",
+      "pronunciation": "/rɪˈmeɪn/",
+      "example": "Only a few ruins remain of the ancient city."
+    },
+    {
+      "word": "revise",
+      "translation": "tuzatmoq, to'g'irlamoq",
+      "pronunciation": "/rɪˈvaɪz/",
+      "example": "She revised her essay before submitting it."
+    },
+    {
+      "word": "revolution",
+      "translation": "inqilob, aylanmoq",
+      "pronunciation": "/ˌrɛvəˈluːʃən/",
+      "example": "The Industrial Revolution changed society dramatically."
+    },
+    {
+      "word": "shift",
+      "translation": "o'zgarish, o'zgartirmoq",
+      "pronunciation": "/ʃɪft/",
+      "example": "There has been a shift in public opinion."
+    },
+    {
+      "word": "spoil",
+      "translation": "yomonlashtirmoq",
+      "pronunciation": "/spɔɪl/",
+      "example": "Don't let the rain spoil your picnic."
+    },
+    {
+      "word": "status quo",
+      "translation": "hozirgi vaziyat",
+      "pronunciation": "/ˈsteɪtəs kwoʊ/",
+      "example": "They are working to maintain the status quo."
+    },
+    {
+      "word": "steady",
+      "translation": "mustahkam",
+      "pronunciation": "/ˈstɛdi/",
+      "example": "He kept a steady pace throughout the race."
+    },
+    {
+      "word": "steady (v)",
+      "translation": "mahkam tutib turmoq",
+      "pronunciation": "/ˈstɛdi/",
+      "example": "He reached out to steady himself."
+    },
+    {
+      "word": "substitute",
+      "translation": "o'rnida ishlatmoq",
+      "pronunciation": "/ˈsʌbstɪtjuːt/",
+      "example": "You can substitute honey for sugar in this recipe."
+    },
+    {
+      "word": "sustain",
+      "translation": "tasdiqlamoq",
+      "pronunciation": "/səˈsteɪn/",
+      "example": "The company has sustained steady growth."
+    },
+    {
+      "word": "switch",
+      "translation": "o'zgartirmoq",
+      "pronunciation": "/swɪtʃ/",
+      "example": "She switched from an engineering major to biology."
+    },
+    {
+      "word": "transform",
+      "translation": "aylantirmoq",
+      "pronunciation": "/trænsˈfɔːrm/",
+      "example": "The city was transformed by the new development."
+    },
+    {
+      "word": "uniform",
+      "translation": "bir xil",
+      "pronunciation": "/ˈjuːnɪfɔːrm/",
+      "example": "The rules must be applied in a uniform manner."
+    },
+    {
+      "word": "breakthrough",
+      "translation": "kashfiyot",
+      "pronunciation": "/ˈbreɪkθruː/",
+      "example": "The scientists made a major breakthrough in cancer research."
+    },
+    {
+      "word": "broadband",
+      "translation": "keng polosali",
+      "pronunciation": "/ˈbrɔːdbænd/",
+      "example": "We need a broadband connection to stream the video."
+    },
+    {
+      "word": "click",
+      "translation": "kompyuterdagi tugmani bosib ishga tushirmoq",
+      "pronunciation": "/klɪk/",
+      "example": "Just click the button to start the program."
+    },
+    {
+      "word": "complex",
+      "translation": "murakkab",
+      "pronunciation": "/ˈkɒmplɛks/",
+      "example": "The problem is more complex than it seems."
+    },
+    {
+      "word": "consumer electronics",
+      "translation": "istemoldagi elektr jihozlar",
+      "pronunciation": "/kənˈsjuːmər ɪlɛkˈtrɒnɪks/",
+      "example": "Consumer electronics have become an essential part of our lives."
+    },
+    {
+      "word": "craft",
+      "translation": "hunarmandchilik, mahorat bilan yasamoq",
+      "pronunciation": "/krɑːft/",
+      "example": "She crafts beautiful handmade jewelry."
+    },
+    {
+      "word": "data",
+      "translation": "ma'lumot (kompyuterdagi)",
+      "pronunciation": "/ˈdeɪtə/",
+      "example": "The data was collected over a period of five years."
+    },
+    {
+      "word": "download",
+      "translation": "yuklab olmoq",
+      "pronunciation": "/ˌdaʊnˈləʊd/",
+      "example": "You can download the app for free."
+    },
+    {
+      "word": "file",
+      "translation": "fayl",
+      "pronunciation": "/faɪl/",
+      "example": "Save the document as a PDF file."
+    },
+    {
+      "word": "(game) console",
+      "translation": "video o'yin moslamasi",
+      "pronunciation": "/ˈɡeɪm ˈkɒnsoʊl/",
+      "example": "He bought a new game console for his birthday."
+    },
+    {
+      "word": "manual",
+      "translation": "qo'l bilan boshqariladigan, qo'llanma",
+      "pronunciation": "/ˈmænjuəl/",
+      "example": "You need to read the manual to understand how it works."
+    },
+    {
+      "word": "network",
+      "translation": "tarmoq",
+      "pronunciation": "/ˈnɛtwɜːrk/",
+      "example": "The computers are all connected to the same network."
+    },
+    {
+      "word": "nuclear",
+      "translation": "yadro",
+      "pronunciation": "/ˈnjuːklɪər/",
+      "example": "They discussed the potential of nuclear energy."
+    },
+    {
+      "word": "offline",
+      "translation": "internetdan ajratilgan",
+      "pronunciation": "/ˌɒfˈlaɪn/",
+      "example": "You can still play the game offline."
+    },
+    {
+      "word": "online",
+      "translation": "internetga qo'shilgan",
+      "pronunciation": "/ˈɒnlaɪn/",
+      "example": "She prefers to shop online."
+    },
+    {
+      "word": "primitive",
+      "translation": "qadimgi ibtidoiy",
+      "pronunciation": "/ˈprɪmɪtɪv/",
+      "example": "The tools they used were quite primitive."
+    },
+    {
+      "word": "programmer",
+      "translation": "dasturchi",
+      "pronunciation": "/ˈprəʊɡræmər/",
+      "example": "He works as a computer programmer."
+    },
+    {
+      "word": "resource",
+      "translation": "manba, zaxira",
+      "pronunciation": "/ˈriːsɔːrs/",
+      "example": "The library is an important resource for students."
+    },
+    {
+      "word": "technique",
+      "translation": "texnika, uslub",
+      "pronunciation": "/tɛkˈniːk/",
+      "example": "She is learning new techniques in painting."
+    },
+    {
+      "word": "upload",
+      "translation": "internetga joylamoq",
+      "pronunciation": "/ˌʌpˈləʊd/",
+      "example": "You can upload your photos to the cloud."
+    }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Unit 4",
+      "desc": "Education",
+      "words": [
+          {
+          "word": "accelerate",
+          "translation": "tezlashtirmoq",
+          "pronunciation": "/əkˈsɛləˌreɪt/",
+          "example": "The car accelerated as it entered the highway."
+        },
+        {
+          "word": "approach",
+          "translation": "yaqinlashmoq",
+          "pronunciation": "/əˈproʊtʃ/",
+          "example": "We could see the train approaching in the distance."
+        },
+        {
+          "word": "ascend",
+          "translation": "ko'tarilmoq",
+          "pronunciation": "/əˈsɛnd/",
+          "example": "The hikers began to ascend the mountain at dawn."
+        },
+        {
+          "word": "bounce",
+          "translation": "sakramoq",
+          "pronunciation": "/baʊns/",
+          "example": "The ball bounced off the wall and rolled across the floor."
+        },
+        {
+          "word": "clamber",
+          "translation": "o'rmalamoq",
+          "pronunciation": "/ˈklæmbər/",
+          "example": "He clambered over the rocks to reach the summit."
+        },
+        {
+          "word": "clench",
+          "translation": "siqmoq (tish, musht)",
+          "pronunciation": "/klɛntʃ/",
+          "example": "She clenched her fists in frustration."
+        },
+        {
+          "word": "clutch",
+          "translation": "siqmoq (biror narsani yoki kimni)",
+          "pronunciation": "/klʌtʃ/",
+          "example": "She clutched her purse tightly as she walked through the crowded street."
+        },
+        {
+          "word": "crawl",
+          "translation": "emaklamoq",
+          "pronunciation": "/krɔːl/",
+          "example": "The baby learned to crawl before she could walk."
+        },
+        {
+          "word": "creep",
+          "translation": "sudralmoq, sekin yurmoq",
+          "pronunciation": "/kriːp/",
+          "example": "The cat crept silently towards its prey."
+        },
+        {
+          "word": "dash",
+          "translation": "tez yurmoq",
+          "pronunciation": "/dæʃ/",
+          "example": "She dashed across the street to catch the bus."
+        },
+        {
+          "word": "descend",
+          "translation": "tushmoq (tog'dan, tepadan)",
+          "pronunciation": "/dɪˈsɛnd/",
+          "example": "The airplane began to descend as it approached the airport."
+        },
+        {
+          "word": "drift",
+          "translation": "Oqim bo'ylab suzmoq, biror fikr yo holatning biridan ikkinchisiga asta-sekin ozgarishi, aytmoqchi bo'lganining ma'nosi",
+          "pronunciation": "/drɪft/",
+          "example": "The conversation drifted from one topic to another."
+        },
+        {
+          "word": "emigrate",
+          "translation": "mamlakatdan chiqib ketmoq",
+          "pronunciation": "/ˈɛmɪˌɡreɪt/",
+          "example": "They emigrated from their home country to seek a better life."
+        },
+        {
+          "word": "float",
+          "translation": "suzmoq, yuzasida oqmoq",
+          "pronunciation": "/floʊt/",
+          "example": "The boat floated gently on the calm water."
+        },
+        {
+          "word": "flow",
+          "translation": "oqmoq",
+          "pronunciation": "/floʊ/",
+          "example": "The river flowed steadily towards the sea."
+        },
+        {
+          "word": "fumble",
+          "translation": "paypaslamoq",
+          "pronunciation": "/ˈfʌmbəl/",
+          "example": "She fumbled with the keys trying to unlock the door."
+        },
+        {
+          "word": "gesture",
+          "translation": "tana harakati, imo ishora",
+          "pronunciation": "/ˈdʒɛstʃər/",
+          "example": "He made a gesture of apology."
+        },
+        {
+          "word": "glide",
+          "translation": "sirpanmoq",
+          "pronunciation": "/ɡlaɪd/",
+          "example": "The eagle glided effortlessly through the sky."
+        },
+        {
+          "word": "grab",
+          "translation": "tortib yulib olmoq",
+          "pronunciation": "/ɡræb/",
+          "example": "He grabbed his coat and hurried out the door."
+        },
+        {
+          "word": "grasp",
+          "translation": "ushlamoq, tutmoq",
+          "pronunciation": "/ɡræsp/",
+          "example": "She grasped the concept quickly and easily."
+        },
+        {
+          "word": "hop",
+          "translation": "sakramoq",
+          "pronunciation": "/hɒp/",
+          "example": "The rabbit hopped across the field."
+        },
+        {
+          "word": "immigrant",
+          "translation": "immigrant",
+          "pronunciation": "/ˈɪmɪɡrənt/",
+          "example": "The country welcomed immigrants from all over the world."
+        },
+        {
+          "word": "jog",
+          "translation": "yugurmoq",
+          "pronunciation": "/dʒɒɡ/",
+          "example": "She goes jogging every morning before work."
+        },
+        {
+          "word": "leap",
+          "translation": "sakramoq biror narsa ustidan(uzoq, baland)",
+          "pronunciation": "/liːp/",
+          "example": "The frog leaped across the pond."
+        },
+        {
+          "word": "march",
+          "translation": "qadam tashlamoq",
+          "pronunciation": "/mɑːrtʃ/",
+          "example": "The soldiers marched in formation."
+        },
+        {
+          "word": "migrate",
+          "translation": "ko'chmoq",
+          "pronunciation": "/ˈmaɪɡreɪt/",
+          "example": "Birds migrate south for the winter."
+        },
+        {
+          "word": "point",
+          "translation": "barmoq bilan ko'rsatmoq",
+          "pronunciation": "/pɔɪnt/",
+          "example": "She pointed to the map to show us the way."
+        },
+        {
+          "word": "punch",
+          "translation": "musht bilan urmoq",
+          "pronunciation": "/pʌntʃ/",
+          "example": "He punched the bag as part of his boxing training."
+        },
+        {
+          "word": "refugee",
+          "translation": "qochoq",
+          "pronunciation": "/ˌrɛfjuˈdʒiː/",
+          "example": "The refugees fled their war-torn country in search of safety."
+        },
+        {
+          "word": "roam",
+          "translation": "olamni kezmoq, tentiramoq",
+          "pronunciation": "/roʊm/",
+          "example": "The cat liked to roam around the neighborhood at night."
+        },
+        {
+          "word": "roll",
+          "translation": "dumalamoq",
+          "pronunciation": "/roʊl/",
+          "example": "She rolled the dice and waited to see the outcome."
+        },
+        {
+          "word": "rotate",
+          "translation": "aylanmoq",
+          "pronunciation": "/ˈroʊˌteɪt/",
+          "example": "The Earth rotates on its axis once every 24 hours."
+        },
+        {
+          "word": "route",
+          "translation": "yo'nalish",
+          "pronunciation": "/ruːt/",
+          "example": "We took a scenic route through the countryside."
+        },
+        {
+          "word": "sink",
+          "translation": "cho'kmoq",
+          "pronunciation": "/sɪŋk/",
+          "example": "The ship began to sink after hitting an iceberg."
+        },
+        {
+          "word": "skid",
+          "translation": "transportning nazoratni yo'qotishi",
+          "pronunciation": "/skɪd/",
+          "example": "The car skidded on the icy road."
+        },
+        {
+          "word": "slide",
+          "translation": "toymoq, sirpanmoq",
+          "pronunciation": "/slaɪd/",
+          "example": "The children slid down the hill on their sleds."
+        },
+        {
+          "word": "slip",
+          "translation": "sirg'anmoq",
+          "pronunciation": "/slɪp/",
+          "example": "She slipped on the wet pavement and fell."
+        },
+        {
+          "word": "step",
+          "translation": "qadam(tashlamoq)",
+          "pronunciation": "/stɛp/",
+          "example": "He took a step forward and reached out his hand."
+        },
+        {
+          "word": "stride",
+          "translation": "shaxdam qadam(tashlamoq)",
+          "pronunciation": "/straɪd/",
+          "example": "He strode confidently into the meeting room."
+        },
+        {
+          "word": "trip",
+          "translation": "qoqilmoq",
+          "pronunciation": "/trɪp/",
+          "example": "She tripped over the uneven pavement and fell."
+        },
+        {
+          "word": "velocity",
+          "translation": "jadallik, tezlik, ildamlik",
+          "pronunciation": "/vəˈlɑːsəti/",
+          "example": "The velocity of the car increased as it went downhill."
+        },
+        {
+          "word": "wander",
+          "translation": "darbadar kezmoq",
+          "pronunciation": "/ˈwɑːndər/",
+          "example": "They wandered through the forest, enjoying the sights and sounds of nature."
+        },
+        {
+          "word": "wave",
+          "translation": "qo'l siltamoq(salomlashishga)",
+          "pronunciation": "/weɪv/",
+          "example": "She waved goodbye as the train pulled out of the station."
+        },
+        {
+          "word": "airline",
+          "translation": "samolyot kompaniyasi",
+          "pronunciation": "/ˈɛərˌlaɪn/",
+          "example": "She works for a major airline."
+        },
+        {
+          "word": "cargo",
+          "translation": "yuk",
+          "pronunciation": "/ˈkɑːrɡoʊ/",
+          "example": "The ship carried a cargo of fruit from the tropics."
+        },
+        {
+          "word": "carriage",
+          "translation": "vagon",
+          "pronunciation": "/ˈkærɪdʒ/",
+          "example": "They traveled in the first-class carriage."
+        },
+        {
+          "word": "charter",
+          "translation": "qayiq, samolyot, avtobusni ijaraga olmoq",
+          "pronunciation": "/ˈtʃɑːrtər/",
+          "example": "They chartered a boat for a day of fishing."
+        },
+        {
+          "word": "commute",
+          "translation": "muntazam ishga borib kelmoq",
+          "pronunciation": "/kəˈmjuːt/",
+          "example": "He commutes to work by train every day."
+        },
+        {
+          "word": "destination",
+          "translation": "manzil",
+          "pronunciation": "/ˌdɛstɪˈneɪʃən/",
+          "example": "Their destination was a remote island in the Pacific."
+        },
+        {
+          "word": "hiker",
+          "translation": "sayohatchi(piyoda, uzoqqa)",
+          "pronunciation": "/ˈhaɪkər/",
+          "example": "The hikers set out early in the morning to climb the mountain."
+        },
+        {
+          "word": "hitchhiker",
+          "translation": "Manziliga bir mashinaga minib ikkinchisidan tushib yetib oladigan sayohatchi",
+          "pronunciation": "/ˈhɪtʃˌhaɪkər/",
+          "example": "The hitchhiker stuck out his thumb and waited for a ride."
+        },
+        {
+          "word": "jet lag",
+          "translation": "sayohat paytida (uyqu)vaqtini adashtirib yuborish",
+          "pronunciation": "/ˈdʒɛt ˌlæɡ/",
+          "example": "She suffered from jet lag for days after her long flight."
+        },
+        {
+          "word": "legroom",
+          "translation": "oyoqni cho'zish uchun joy",
+          "pronunciation": "/ˈlɛɡˌrum/",
+          "example": "The first-class seats offer plenty of legroom for added comfort during the flight."
+        },
+        {
+          "word": "load",
+          "translation": "yuklamoq",
+          "pronunciation": "/loʊd/",
+          "example": "The workers loaded the truck with boxes of merchandise."
+        },
+        {
+          "word": "passerby",
+          "translation": "yo'lovchi",
+          "pronunciation": "/ˈpæsərˌbaɪ/",
+          "example": "The passerby stopped to ask for directions."
+        },
+        {
+          "word": "pedestrian",
+          "translation": "piyoda",
+          "pronunciation": "/pəˈdɛstriən/",
+          "example": "The pedestrian waited for the traffic light to change before crossing the street."
+        },
+        {
+          "word": "pier",
+          "translation": "pirs(qayiqqa tushib chiqish joyi)",
+          "pronunciation": "/pɪər/",
+          "example": "The fishermen gathered at the pier to unload their catch."
+        },
+        {
+          "word": "pilot",
+          "translation": "boshqarmoq(uchuvchi)",
+          "pronunciation": "/ˈpaɪlət/",
+          "example": "The pilot announced that they would be experiencing turbulence."
+        },
+        {
+          "word": "quay",
+          "translation": "kemalar bog'lab qo'yiladigan joy",
+          "pronunciation": "/kiː/",
+          "example": "The ship was moored at the quay while the passengers disembarked."
+        },
+        {
+          "word": "return fare",
+          "translation": "sayohat to'lovi",
+          "pronunciation": "/rɪˈtɜːrn fɛər/",
+          "example": "The return fare for the train journey was surprisingly cheap."
+        },
+        {
+          "word": "round trip",
+          "translation": "biron joyga borib yana boshlagan joyiga qaytib kelishi",
+          "pronunciation": "/raʊnd trɪp/",
+          "example": "They bought round trip tickets to visit their family for the holidays."
+        },
+        {
+          "word": "steer",
+          "translation": "yurgizmoq",
+          "pronunciation": "/stɪr/",
+          "example": "He had to steer the boat carefully through the narrow channel."
+        },
+        {
+          "word": "steward",
+          "translation": "styuardessa",
+          "pronunciation": "/ˈstuːərd/",
+          "example": "The steward served drinks to the passengers on the airplane."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Unit 5",
+      "desc": "Education",
+      "words": [
+          {
+          "word": "allege",
+          "translation": "tasdiqlamoq",
+          "pronunciation": "/əˈlɛdʒ/",
+          "example": "The witness alleged that he saw the suspect near the crime scene."
+        },
+        {
+          "word": "ambiguous",
+          "translation": "ikki ma'noli",
+          "pronunciation": "/æmˈbɪɡjuəs/",
+          "example": "The instructions were ambiguous, so I wasn't sure what to do."
+        },
+        {
+          "word": "assert",
+          "translation": "isbotlamoq, tasdiqlamoq",
+          "pronunciation": "/əˈsɜːrt/",
+          "example": "She asserted her authority by making it clear who was in charge."
+        },
+        {
+          "word": "blunt",
+          "translation": "damini qaytarmoq",
+          "pronunciation": "/blʌnt/",
+          "example": "He spoke in a blunt manner, not sugarcoating his opinions."
+        },
+        {
+          "word": "boast",
+          "translation": "maqatanmoq",
+          "pronunciation": "/boʊst/",
+          "example": "He liked to boast about his achievements to anyone who would listen."
+        },
+        {
+          "word": "clarification",
+          "translation": "aniqlashtirish",
+          "pronunciation": "/ˌklærɪfɪˈkeɪʃən/",
+          "example": "Could you provide some clarification on this matter?"
+        },
+        {
+          "word": "colloquial",
+          "translation": "so'zlashuvga oid",
+          "pronunciation": "/kəˈloʊkwiəl/",
+          "example": "The author used colloquial language to make the story more relatable."
+        },
+        {
+          "word": "comprehend",
+          "translation": "tushunmoq, anglamoq",
+          "pronunciation": "/kɑmprɪˈhɛnd/",
+          "example": "It took him a while to comprehend the complexity of the situation."
+        },
+        {
+          "word": "confide",
+          "translation": "ishonmoq",
+          "pronunciation": "/kənˈfaɪd/",
+          "example": "She confided in her best friend about her deepest fears."
+        },
+        {
+          "word": "confirm",
+          "translation": "tasdiqlamoq",
+          "pronunciation": "/kənˈfɜːrm/",
+          "example": "Please confirm your attendance by replying to this email."
+        },
+        {
+          "word": "context",
+          "translation": "vaziyat",
+          "pronunciation": "/ˈkɒntekst/",
+          "example": "It's important to understand the context in which the conversation took place."
+        },
+        {
+          "word": "contradict",
+          "translation": "qarshi chiqmoq, rad qilmoq",
+          "pronunciation": "/ˌkɒntrəˈdɪkt/",
+          "example": "His statement seemed to contradict the evidence presented in court."
+        },
+        {
+          "word": "convey",
+          "translation": "jo'natmoq, bayon etmoq",
+          "pronunciation": "/kənˈveɪ/",
+          "example": "Her smile conveyed more gratitude than words ever could."
+        },
+        {
+          "word": "declare",
+          "translation": "e'lon qilmoq",
+          "pronunciation": "/dɪˈklɛr/",
+          "example": "He declared his intentions to run for public office."
+        },
+        {
+          "word": "denounce",
+          "translation": "qoralamoq, fosh etmoq, ayblamoq",
+          "pronunciation": "/dɪˈnaʊns/",
+          "example": "The activists denounced the government's decision to increase taxes."
+        },
+        {
+          "word": "disclose",
+          "translation": "oshkor etmoq",
+          "pronunciation": "/dɪsˈkloʊz/",
+          "example": "He hesitated to disclose the full extent of his involvement."
+        },
+        {
+          "word": "exaggerate",
+          "translation": "bo'rttirmoq",
+          "pronunciation": "/ɪɡˈzædʒəˌreɪt/",
+          "example": "She tends to exaggerate the difficulties she faces."
+        },
+        {
+          "word": "flatter",
+          "translation": "xushomad qilmoq",
+          "pronunciation": "/ˈflætər/",
+          "example": "He flattered her with compliments to win her favor."
+        },
+        {
+          "word": "gist",
+          "translation": "asl ma'no, mohiyat",
+          "pronunciation": "/dʒɪst/",
+          "example": "I didn't catch all the details, but I got the gist of what he was saying."
+        },
+        {
+          "word": "hint",
+          "translation": "shama, ishora, imo-ishora qilmoq",
+          "pronunciation": "/hɪnt/",
+          "example": "She dropped several hints that she wanted to leave early."
+        },
+        {
+          "word": "illegible",
+          "translation": "o'qilishi qiyin",
+          "pronunciation": "/ɪˈlɛdʒəbəl/",
+          "example": "The handwriting was so illegible that I couldn't read it."
+        },
+        {
+          "word": "inkling",
+          "translation": "shubha gumon",
+          "pronunciation": "/ˈɪŋklɪŋ/",
+          "example": "I had an inkling that something wasn't quite right."
+        },
+        {
+          "word": "insist",
+          "translation": "qattiq turib olmoq",
+          "pronunciation": "/ɪnˈsɪst/",
+          "example": "He insists that he is innocent despite the evidence against him."
+        },
+        {
+          "word": "jargon",
+          "translation": "jargon",
+          "pronunciation": "/ˈdʒɑːrɡən/",
+          "example": "The doctor used medical jargon that was difficult for the patient to understand."
+        },
+        {
+      "word": "literal",
+      "translation": "so'zma so'z, harf bilan ifodalangan",
+      "pronunciation": "/ˈlɪtərəl/",
+      "example": "He took her statement literally, without considering any deeper meaning."
+        },
+        {
+          "word": "mumble",
+          "translation": "mingillamoq",
+          "pronunciation": "/ˈmʌmbəl/",
+          "example": "He tends to mumble when he's nervous and hard to understand."
+        },
+        {
+          "word": "murmur",
+          "translation": "pichirlamoq",
+          "pronunciation": "/ˈmɜːrmər/",
+          "example": "She murmured a few words of encouragement to her friend."
+        },
+        {
+          "word": "petition",
+          "translation": "arznoma",
+          "pronunciation": "/pəˈtɪʃ(ə)n/",
+          "example": "They started a petition to protest the new law."
+        },
+        {
+          "word": "placard",
+          "translation": "afisha",
+          "pronunciation": "/ˈplækɑːrd/",
+          "example": "Protesters carried placards with slogans demanding change."
+        },
+        {
+          "word": "quibble",
+          "translation": "so'zni aylantirmoq",
+          "pronunciation": "/ˈkwɪb(ə)l/",
+          "example": "He spent hours quibbling over minor details instead of focusing on the main issue."
+        },
+        {
+          "word": "rant",
+          "translation": "balandparvoz,shiloyatomuz gapirmoq",
+          "pronunciation": "/rænt/",
+          "example": "He went on a rant about the state of politics in the country."
+        },
+        {
+          "word": "rave",
+          "translation": "g'azablanmoq, qizishib ketmoq",
+          "pronunciation": "/reɪv/",
+          "example": "She raved about the concert, saying it was the best she had ever been to."
+        },
+        {
+          "word": "relevant",
+          "translation": "ishga aloqador bo'lgan",
+          "pronunciation": "/ˈrɛlɪv(ə)nt/",
+          "example": "Only include information that is relevant to the topic."
+        },
+        {
+          "word": "scribble",
+          "translation": "qing'ir qiyshiq yozmoq, aji buji yozuv",
+          "pronunciation": "/ˈskrɪbəl/",
+          "example": "She scribbled down a few notes during the lecture."
+        },
+        {
+          "word": "slang",
+          "translation": "sleng, sheva",
+          "pronunciation": "/slæŋ/",
+          "example": "Teenagers often use slang words that adults don't understand."
+        },
+        {
+          "word": "stumble",
+          "translation": "qoqilmoq, chalinmoq",
+          "pronunciation": "/ˈstʌmb(ə)l/",
+          "example": "She stumbled over her words when she tried to speak in front of the audience."
+        },
+        {
+          "word": "stutter",
+          "translation": "duduqlanib gapirmoq",
+          "pronunciation": "/ˈstʌtər/",
+          "example": "He stuttered nervously when he was asked a question."
+        },
+        {
+          "word": "tip",
+          "translation": "foydali taklif",
+          "pronunciation": "/tɪp/",
+          "example": "He gave her a tip on how to improve her cooking."
+        },
+        {
+          "word": "utter",
+          "translation": "ovoz chiqarmoq, so'z aytmoq",
+          "pronunciation": "/ˈʌtər/",
+          "example": "He was too shocked to utter a single word."
+        },
+        {
+          "word": "vague",
+          "translation": "tushunarsiz, mujmal",
+          "pronunciation": "/veɪɡ/",
+          "example": "His explanation was vague and didn't clarify anything."
+        },
+        {
+          "word": "anchor",
+          "translation": "yangilik sharxlovchi",
+          "pronunciation": "/ˈæŋkər/",
+          "example": "She was the anchor for the evening news program."
+        },
+        {
+          "word": "broadcast",
+          "translation": "dastur, efirga uzatmoq",
+          "pronunciation": "/ˈbrɔːdkɑːst/",
+          "example": "The radio station broadcasts news updates every hour."
+        },
+        {
+          "word": "caption",
+          "translation": "rasmni ishlash uchun ustiga ostiga yozilgan so'zlar",
+          "pronunciation": "/ˈkæpʃ(ə)n/",
+          "example": "The caption beneath the photo explained what was happening."
+        },
+        {
+          "word": "columnist",
+          "translation": "biror gazeta yoki jurnal uchun maqola yozib boradigan jurnalist",
+          "pronunciation": "/ˈkɒləmnɪst/",
+          "example": "The columnist shared her opinions on current events in her weekly column."
+        },
+        {
+          "word": "correspondent",
+          "translation": "muxbir",
+          "pronunciation": "/ˌkɒrɪˈspɒndənt/",
+          "example": "The correspondent reported live from the scene of the protest."
+        },
+        {
+          "word": "critic",
+          "translation": "tanqidchi",
+          "pronunciation": "/ˈkrɪtɪk/",
+          "example": "The film received mixed reviews from critics."
+        },
+        {
+          "word": "footnote",
+          "translation": "sahifa pastidagi izoh",
+          "pronunciation": "/ˈfʊtnəʊt/",
+          "example": "The footnote provided additional information about the topic."
+        },
+        {
+          "word": "ghostwriter",
+          "translation": "maqola qahramoni nomidan yozuvchi asli boshqa shaxs",
+          "pronunciation": "/ˈɡoʊstraɪtər/",
+          "example": "Many celebrities use ghostwriters to write their autobiographies."
+        },
+        {
+          "word": "handbook",
+          "translation": "qo'llanma",
+          "pronunciation": "/ˈhændbʊk/",
+          "example": "The employee handbook contains all the company policies."
+        },
+        {
+          "word": "manifest",
+          "translation": "murojaat",
+          "pronunciation": "/ˈmænɪˌfɛst/",
+          "example": "The manifesto outlined the group's goals and principles."
+        },
+        {
+          "word": "novelist",
+          "translation": "romannavis",
+          "pronunciation": "/ˈnɒv.əl.ɪst/",
+          "example": "The novelist's latest book quickly became a bestseller."
+        },
+        {
+          "word": "pamphlet",
+          "translation": "broshura",
+          "pronunciation": "/ˈpæmflɪt/",
+          "example": "She picked up a pamphlet about local attractions from the tourist information center."
+        },
+        {
+          "word": "prerecorded",
+          "translation": "jonli efir emas, yozib olingan",
+          "pronunciation": "/ˌpriːrɪˈkɔːrdɪd/",
+          "example": "The announcement was prerecorded and played during the live broadcast."
+        },
+        {
+          "word": "reviewer",
+          "translation": "pyesa, asar san'at asariga atab maqola yozuvchi, sharxlovchi",
+          "pronunciation": "/rɪˈvjuːər/",
+          "example": "The movie reviewer gave the film a glowing review."
+        },
+        {
+          "word": "spine",
+          "translation": "kitobni tikilgan tomoni",
+          "pronunciation": "/spaɪn/",
+          "example": "The title of the book was printed on the spine."
+        },
+        {
+          "word": "subtitles",
+          "translation": "subtitr",
+          "pronunciation": "/ˈsʌbˌtaɪt(ə)lz/",
+          "example": "The movie had subtitles in multiple languages."
+        },
+        {
+          "word": "supplement",
+          "translation": "ilova",
+          "pronunciation": "/ˈsʌplɪm(ə)nt/",
+          "example": "The newspaper included a supplement with recipes and gardening tips."
+        },
+        {
+          "word": "tabloid",
+          "translation": "sariq matbuot",
+          "pronunciation": "/ˈtæblɔɪd/",
+          "example": "Tabloids are known for sensationalizing stories to attract readers."
+        },
+        {
+          "word": "trailer",
+          "translation": "anons,kinoafisha",
+          "pronunciation": "/ˈtreɪlər/",
+          "example": "The trailer for the new movie was released online."
+        }
+            
+      ]
+      },
+      {
+        "id": 6,
+        "title": "Unit 6",
+        "desc": "Education",
+        "words": [
+          {
+            "word": "approximate",
+            "translation": "taxminiy hisoblamoq",
+            "pronunciation": "/əˈprɒk.sɪ.mət/",
+            "example": "Can you approximate the cost of the project?"
+          },
+          {
+            "word": "ascribe",
+            "translation": "deb hisoblamoq",
+            "pronunciation": "/əˈskraɪb/",
+            "example": "They ascribed the success of the campaign to effective marketing."
+          },
+          {
+            "word": "assign",
+            "translation": "nisbat bermoq, ishga jo'natmoq",
+            "pronunciation": "/əˈsaɪn/",
+            "example": "The teacher assigned homework to the students."
+          },
+          {
+            "word": "attribute",
+            "translation": "...ning natijasi deb ishonmoq",
+            "pronunciation": "/əˈtrɪb.juːt/",
+            "example": "She attributed her success to hard work and determination."
+          },
+          {
+            "word": "blow",
+            "translation": "zarba",
+            "pronunciation": "/bləʊ/",
+            "example": "The strong wind blew the leaves off the trees."
+          },
+          {
+            "word": "cause",
+            "translation": "sabab bo'lmoq, sabab",
+            "pronunciation": "/kɔːz/",
+            "example": "The accident was caused by reckless driving."
+          },
+          {
+            "word": "coincidence",
+            "translation": "bir biriga to'g'ri kelmoq",
+            "pronunciation": "/kəʊˈɪn.sɪ.dəns/",
+            "example": "It was just a coincidence that they met at the airport."
+          },
+          {
+            "word": "curse",
+            "translation": "la'natlamoq, qarg'amoq",
+            "pronunciation": "/kɜːs/",
+            "example": "Some people believe that uttering a curse can bring bad luck."
+          },
+          {
+            "word": "determine",
+            "translation": "aniqlamoq",
+            "pronunciation": "/dɪˈtɜː.mɪn/",
+            "example": "It's difficult to determine the exact cause of the problem."
+          },
+          {
+            "word": "fate",
+            "translation": "taqdir",
+            "pronunciation": "/feɪt/",
+            "example": "She believes in fate and destiny."
+          },
+          {
+            "word": "fluctuate",
+            "translation": "tebranmoq",
+            "pronunciation": "/ˈflʌk.tʃu.eɪt/",
+            "example": "Prices tend to fluctuate during times of economic uncertainty."
+          },
+          {
+            "word": "foresee",
+            "translation": "oldindan ko'rmoq",
+            "pronunciation": "/fɔːˈsiː/",
+            "example": "He didn't foresee the difficulties that would arise."
+          },
+          {
+            "word": "freak",
+            "translation": "g'ayritabiy kishi, g'aroyibot",
+            "pronunciation": "/friːk/",
+            "example": "The strange lights in the sky were a freak occurrence."
+          },
+          {
+            "word": "gamble",
+            "translation": "qimor o'ynamoq",
+            "pronunciation": "/ˈɡæm.bəl/",
+            "example": "He liked to gamble on horse races."
+          },
+          {
+            "word": "haphazard",
+            "translation": "tartibsiz, rejasiz",
+            "pronunciation": "/ˌhæpˈhæz.əd/",
+            "example": "The books were arranged in a haphazard manner on the shelf."
+          },
+           {
+            "word": "hazard",
+            "translation": "xavf xatar",
+            "pronunciation": "/ˈhæzərd/",
+            "example": "Working with chemicals poses a serious hazard to your health."
+          },
+          {
+            "word": "inadvertent",
+            "translation": "parishonxotir, beparvo",
+            "pronunciation": "/ˌɪn.ədˈvɜːrt.ənt/",
+            "example": "His inadvertent mistake led to serious consequences."
+          },
+          {
+            "word": "instrumental",
+            "translation": "ta'sirli",
+            "pronunciation": "/ˌɪn.strəˈmen.təl/",
+            "example": "Education plays an instrumental role in shaping a person's future."
+          },
+          {
+            "word": "jinxed",
+            "translation": "balo keltiruvchi",
+            "pronunciation": "/dʒɪŋkst/",
+            "example": "Every time he wore that shirt, something bad happened. He started to think it was jinxed."
+          },
+          {
+            "word": "likelihood",
+            "translation": "ehtimollik",
+            "pronunciation": "/ˈlaɪklihʊd/",
+            "example": "There's a high likelihood of rain tomorrow."
+          },
+          {
+            "word": "lucky charm",
+            "translation": "omad tumori",
+            "pronunciation": "/ˈlʌki tʃɑːm/",
+            "example": "He always carries his lucky charm with him when he goes to exams."
+          },
+          {
+            "word": "meander",
+            "translation": "daydib yurmoq",
+            "pronunciation": "/miˈændər/",
+            "example": "The river meanders through the countryside."
+          },
+          {
+            "word": "mishap",
+            "translation": "muvoffaqiyatsizlik",
+            "pronunciation": "/ˈmɪsˌhæp/",
+            "example": "We had a little mishap on the way, but we arrived safely in the end."
+          },
+          {
+            "word": "mutate",
+            "translation": "mutatsiya",
+            "pronunciation": "/ˈmjuː.teɪt/",
+            "example": "The virus mutated into a more dangerous form."
+          },
+          {
+            "word": "odds",
+            "translation": "imkoniyatlar",
+            "pronunciation": "/ɑːdz/",
+            "example": "The odds of winning the lottery are very low."
+          },
+          {
+            "word": "pick",
+            "translation": "tanlamoq, tanlov",
+            "pronunciation": "/pɪk/",
+            "example": "She had to pick the best candidate for the job."
+          },
+          {
+            "word": "pot luck",
+            "translation": "yaxshilik",
+            "pronunciation": "/ˌpɒt ˈlʌk/",
+            "example": "We're having a pot luck dinner tonight, so bring whatever you want to share."
+          },
+          {
+            "word": "random",
+            "translation": "tasodifiy",
+            "pronunciation": "/ˈrændəm/",
+            "example": "He picked a random number between one and ten."
+          },
+          {
+            "word": "sign",
+            "translation": "belgi",
+            "pronunciation": "/saɪn/",
+            "example": "There were no signs of life in the abandoned village."
+          },
+          {
+            "word": "spontaneous",
+            "translation": "o'z o'zidan sodir bo'ladigan, g'ayriixtiyoriy",
+            "pronunciation": "/spɑːnˈteɪ.ni.əs/",
+            "example": "Their decision to go on a road trip was spontaneous."
+          },
+          {
+            "word": "startle",
+            "translation": "qo'rqitmoq",
+            "pronunciation": "/ˈstɑːrtl/",
+            "example": "The sudden noise startled the cat."
+          },
+          {
+            "word": "statistics",
+            "translation": "statistika",
+            "pronunciation": "/stəˈtɪs.tɪks/",
+            "example": "According to the latest statistics, crime rates have decreased."
+          },
+          {
+            "word": "stray",
+            "translation": "adashib qolmoq, adashgan",
+            "pronunciation": "/streɪ/",
+            "example": "A stray dog wandered into our yard last night."
+          },
+          {
+            "word": "superstition",
+            "translation": "irm sirim",
+            "pronunciation": "/ˌsuːpərˈstɪʃən/",
+            "example": "Many superstitions are based on cultural beliefs."
+          },
+          {
+            "word": "superstitious",
+            "translation": "irimchi",
+            "pronunciation": "/ˌsuːpərˈstɪʃəs/",
+            "example": "He's so superstitious, he won't even walk under a ladder."
+          },
+          {
+            "word": "transpire",
+            "translation": "sodir bo'lmoq",
+            "pronunciation": "/trænˈspaɪər/",
+            "example": "It's still unclear what transpired during the meeting."
+          },
+          {
+            "word": "uncertainty",
+            "translation": "ishonchsizlik",
+            "pronunciation": "/ʌnˈsɜːrtnti/",
+            "example": "There's a lot of uncertainty surrounding the project."
+          },
+          {
+            "word": "wobble",
+            "translation": "tebratish",
+            "pronunciation": "/ˈwɒb.əl/",
+            "example": "The table wobbled whenever someone bumped into it."
+          },
+          {
+            "word": "agriculture",
+            "translation": "qishloq xo'jaligi",
+            "pronunciation": "/ˈæɡrɪˌkʌltʃər/",
+            "example": "Agriculture is the backbone of many economies."
+          },
+          {
+            "word": "appreciate",
+            "translation": "yuqori baholamoq, minnatdor bo'lmoq",
+            "pronunciation": "/əˈpriːʃieɪt/",
+            "example": "I really appreciate all the hard work you've put into this project."
+          },
+          {
+            "word": "catastrophe",
+            "translation": "falokat",
+            "pronunciation": "/kəˈtæstrəfi/",
+            "example": "The earthquake was a catastrophe that caused widespread destruction."
+          },
+          {
+            "word": "crop",
+            "translation": "hosil",
+            "pronunciation": "/krɒp/",
+            "example": "Farmers planted a new crop of corn this year."
+          },
+          {
+            "word": "drought",
+            "translation": "qurg'oqchilik",
+            "pronunciation": "/draʊt/",
+            "example": "The drought resulted in severe water shortages."
+          },
+          {
+            "word": "evacuate",
+            "translation": "evakuatsiya",
+            "pronunciation": "/ɪˈvæk.ju.eɪt/",
+            "example": "Residents were evacuated from the area due to the approaching hurricane."
+          },
+          {
+            "word": "exploit",
+            "translation": "foydalanish, mehnatidan foydalanmoq",
+            "pronunciation": "/ɪkˈsplɔɪt/",
+            "example": "Some companies exploit cheap labor in developing countries."
+          },
+          {
+            "word": "famine",
+            "translation": "ochlik, tabiy ofat",
+            "pronunciation": "/ˈfæm.ɪn/",
+            "example": "The famine in the region led to widespread hunger and suffering."
+          },
+          {
+            "word": "flood",
+            "translation": "suv toshqini",
+            "pronunciation": "/flʌd/",
+            "example": "Heavy rains caused the river to flood."
+          },
+          {
+            "word": "fossil fuels",
+            "translation": "qattiq yoqilg'i",
+            "pronunciation": "/ˈfɒs.ɪl ˈfjuː.əls/",
+            "example": "Burning fossil fuels contributes to air pollution and climate change."
+          },
+          {
+            "word": "global warming",
+            "translation": "global isish",
+            "pronunciation": "/ˈɡləʊ.bəl ˈwɔː.mɪŋ/",
+            "example": "The consequences of global warming are becoming increasingly evident."
+          },
+          {
+            "word": "greenery",
+            "translation": "issiqxona",
+            "pronunciation": "/ˈɡriːnəri/",
+            "example": "The garden was filled with lush greenery."
+          },
+          {
+            "word": "habitat",
+            "translation": "tabiy muhit, turar joy",
+            "pronunciation": "/ˈhæbɪtæt/",
+            "example": "The rainforest is the natural habitat of many exotic animals."
+          },
+          {
+            "word": "harvest",
+            "translation": "xirmon yig'moq",
+            "pronunciation": "/ˈhɑː.vɪst/",
+            "example": "Farmers worked hard to harvest the crops before the onset of winter."
+          },
+          {
+            "word": "hurricane",
+            "translation": "dovul",
+            "pronunciation": "/ˈhʌr.ɪ.kən/",
+            "example": "The hurricane caused widespread damage along the coast."
+          },
+          {
+            "word": "instinct",
+            "translation": "instinkt",
+            "pronunciation": "/ˈɪn.stɪŋkt/",
+            "example": "It's amazing how animals rely on instinct to survive in the wild."
+          },
+          {
+            "word": "natural disaster",
+            "translation": "tabiy ofat",
+            "pronunciation": "/ˈnætʃrəl dɪˈzæs.tər/",
+            "example": "Earthquakes, floods, and hurricanes are examples of natural disasters."
+          },
+          {
+            "word": "scarce",
+            "translation": "siyrak, noyob",
+            "pronunciation": "/skeəs/",
+            "example": "Fresh water is becoming scarce in many parts of the world."
+          },
+          {
+            "word": "species",
+            "translation": "tur",
+            "pronunciation": "/ˈspiːʃiːz/",
+            "example": "There are thousands of different species of plants and animals."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Unit 7",
+        "desc": "Education",
+        "words": [
+          {
+            "word": "abundant",
+            "translation": "serob",
+            "pronunciation": "/əˈbʌndənt/",
+            "example": "The region is abundant in natural resources."
+          },
+          {
+            "word": "ample",
+            "translation": "yetarli, mo'l ko'l",
+            "pronunciation": "/ˈæmpl/",
+            "example": "She had ample time to finish her work."
+          },
+          {
+            "word": "area",
+            "translation": "maydon",
+            "pronunciation": "/ˈeəriə/",
+            "example": "The area of the park is about 50 acres."
+          },
+          {
+            "word": "average",
+            "translation": "o'rtacha",
+            "pronunciation": "/ˈævərɪdʒ/",
+            "example": "The average temperature in May is 20°C."
+          },
+          {
+            "word": "batch",
+            "translation": "bir guruh odam yoki narsa",
+            "pronunciation": "/bætʃ/",
+            "example": "The first batch of cookies is ready."
+          },
+          {
+            "word": "bulk",
+            "translation": "hajm, sig'im",
+            "pronunciation": "/bʌlk/",
+            "example": "The bulk of the work has been completed."
+          },
+          {
+            "word": "considerable",
+            "translation": "ulkan, yirik",
+            "pronunciation": "/kənˈsɪdərəbl/",
+            "example": "She made a considerable contribution to the project."
+          },
+          {
+            "word": "countless",
+            "translation": "hisobsiz, sanoqsiz",
+            "pronunciation": "/ˈkaʊntləs/",
+            "example": "There are countless stars in the sky."
+          },
+          {
+            "word": "dimension",
+            "translation": "uzunlik, balandlik, kenglik",
+            "pronunciation": "/dɪˈmenʃn/",
+            "example": "Please provide the dimensions of the room."
+          },
+          {
+            "word": "diminish",
+            "translation": "kamaytirmoq",
+            "pronunciation": "/dɪˈmɪnɪʃ/",
+            "example": "The pain will gradually diminish in a few days."
+          },
+          {
+            "word": "equation",
+            "translation": "tenglama",
+            "pronunciation": "/ɪˈkweɪʒn/",
+            "example": "Solve the equation to find the value of x."
+          },
+          {
+            "word": "equidistant",
+            "translation": "teng masofada joylashgan",
+            "pronunciation": "/ˌiːkwɪˈdɪstənt/",
+            "example": "The two cities are equidistant from the capital."
+          },
+          {
+            "word": "expand",
+            "translation": "kengaytirmoq, ko'paytirmoq",
+            "pronunciation": "/ɪkˈspænd/",
+            "example": "The company plans to expand its operations."
+          },
+          {
+            "word": "extent",
+            "translation": "uzaytirmoq, cho'zmoq",
+            "pronunciation": "/ɪkˈstent/",
+            "example": "She was surprised by the extent of the damage."
+          },
+          {
+            "word": "finite",
+            "translation": "cheklangan",
+            "pronunciation": "/ˈfaɪnaɪt/",
+            "example": "The earth's resources are finite."
+          },
+          {
+            "word": "force",
+            "translation": "kuch",
+            "pronunciation": "/fɔːrs/",
+            "example": "The force of the wind knocked down several trees."
+          },
+          {
+            "word": "fraction",
+            "translation": "kasr, bo'lak",
+            "pronunciation": "/ˈfrækʃn/",
+            "example": "He gave me a fraction of his earnings."
+          },
+          {
+            "word": "heap",
+            "translation": "uyum, uymoq",
+            "pronunciation": "/hiːp/",
+            "example": "There was a heap of clothes on the floor."
+          },
+          {
+            "word": "imbalance",
+            "translation": "mos emaslik",
+            "pronunciation": "/ɪmˈbæləns/",
+            "example": "The imbalance between supply and demand caused prices to rise."
+          },
+          {
+            "word": "immense",
+            "translation": "cheksiz",
+            "pronunciation": "/ɪˈmens/",
+            "example": "The ocean is immense and full of mysteries."
+          },
+          {
+            "word": "intensity",
+            "translation": "g'ayrat, kuchaytirish",
+            "pronunciation": "/ɪnˈtensəti/",
+            "example": "The intensity of the workout left her exhausted."
+          },
+          {
+            "word": "magnitude",
+            "translation": "ahamiyatlilik, muhimlik",
+            "pronunciation": "/ˈmæɡnɪtjuːd/",
+            "example": "The magnitude of the earthquake was 7.0 on the Richter scale."
+          },
+          {
+            "word": "major",
+            "translation": "asosiy, muhim",
+            "pronunciation": "/ˈmeɪdʒər/",
+            "example": "She played a major role in the negotiations."
+          },
+          {
+            "word": "mass",
+            "translation": "ko'p",
+            "pronunciation": "/mæs/",
+            "example": "A mass of people gathered to protest the decision."
+          },
+          {
+            "word": "meagre",
+            "translation": "foydasi kam, unumsiz",
+            "pronunciation": "/ˈmiːɡər/",
+            "example": "The charity's meagre resources were quickly exhausted."
+          },
+          {
+            "word": "minor",
+            "translation": "ozgina, biroz",
+            "pronunciation": "/ˈmaɪnər/",
+            "example": "There are minor differences between the two versions."
+          },
+          {
+            "word": "minute",
+            "translation": "juda kam",
+            "pronunciation": "/maɪˈnjuːt/",
+            "example": "She noticed a minute flaw in the gem."
+          },
+          {
+            "word": "multiple",
+            "translation": "ko'p sonli, ko'paytma",
+            "pronunciation": "/ˈmʌltɪpl/",
+            "example": "He has multiple responsibilities at work."
+          },
+          {
+            "word": "proportion",
+            "translation": "ulush, proportsiya",
+            "pronunciation": "/prəˈpɔːrʃn/",
+            "example": "The proportion of students to teachers is very high."
+          },
+          {
+            "word": "quantify",
+            "translation": "hisoblamoq",
+            "pronunciation": "/ˈkwɒntɪfaɪ/",
+            "example": "It's difficult to quantify the impact of the new policy."
+          },
+          {
+            "word": "rate",
+            "translation": "ko'rsatkichi, ko'rsatmoq",
+            "pronunciation": "/reɪt/",
+            "example": "The unemployment rate has decreased over the past year."
+          },
+          {
+            "word": "ratio",
+            "translation": "mutanosiblik, proportsiya",
+            "pronunciation": "/ˈreɪʃioʊ/",
+            "example": "The ratio of men to women in the class is 3:2."
+          },
+          {
+            "word": "nation",
+            "translation": "no'rma qo'ymoq",
+            "pronunciation": "/ˈneɪʃn/",
+            "example": "The nation celebrated its independence day."
+          },
+          {
+            "word": "shrink",
+            "translation": "kirishmoq",
+            "pronunciation": "/ʃrɪŋk/",
+            "example": "The clothes will shrink if washed in hot water."
+          },
+          {
+            "word": "sufficient",
+            "translation": "kifoya, yetarli",
+            "pronunciation": "/səˈfɪʃnt/",
+            "example": "There is sufficient evidence to support the claim."
+          },
+          {
+            "word": "sum",
+            "translation": "summa, miqdor",
+            "pronunciation": "/sʌm/",
+            "example": "He donated a large sum of money to charity."
+          },
+          {
+            "word": "uneven",
+            "translation": "notekis, toq",
+            "pronunciation": "/ʌnˈiːvn/",
+            "example": "The pavement was uneven and hard to walk on."
+          },
+          {
+            "word": "vast",
+            "translation": "bepayon",
+            "pronunciation": "/væst/",
+            "example": "The Sahara Desert is vast and inhospitable."
+          },
+          {
+            "word": "volume",
+            "translation": "ko'lam",
+            "pronunciation": "/ˈvɒljuːm/",
+            "example": "The volume of traffic has increased during rush hour."
+          },
+          {
+            "word": "widespread",
+            "translation": "tez tarqalmoq",
+            "pronunciation": "/ˈwaɪdspred/",
+            "example": "The news of the scandal was widespread."
+          },
+          {
+            "word": "benefit",
+            "translation": "foyda",
+            "pronunciation": "/ˈbenɪfɪt/",
+            "example": "Regular exercise has many health benefits."
+          },
+          {
+            "word": "compensation",
+            "translation": "kompensatsiya",
+            "pronunciation": "/ˌkɒmpenˈseɪʃn/",
+            "example": "He received compensation for the injury he suffered."
+          },
+          {
+            "word": "damages",
+            "translation": "zararni qoplaydigan pul",
+            "pronunciation": "/ˈdæmɪdʒɪz/",
+            "example": "The company paid damages for the breach of contract."
+          },
+          {
+            "word": "debt",
+            "translation": "qarz",
+            "pronunciation": "/det/",
+            "example": "He is struggling to pay off his debt."
+          },
+          {
+            "word": "deduct",
+            "translation": "ayirmoq",
+            "pronunciation": "/dɪˈdʌkt/",
+            "example": "The cost of the meal will be deducted from your salary."
+          },
+          {
+            "word": "deposit",
+            "translation": "vznos",
+            "pronunciation": "/dɪˈpɒzɪt/",
+            "example": "You need to make a deposit to secure the booking."
+          },
+          {
+            "word": "direct debit",
+            "translation": "bank hisobidagi pulni muntazam to'lov qilish orderi",
+            "pronunciation": "/dɪˈrɛkt ˈdɛbɪt/",
+            "example": "She set up a direct debit to pay her monthly bills automatically."
+          },
+          {
+            "word": "dividend",
+            "translation": "divident",
+            "pronunciation": "/ˈdɪvɪˌdɛnd/",
+            "example": "The company pays a dividend to its shareholders."
+          },
+          {
+            "word": "down payment",
+            "translation": "oldindan yarim to'lov",
+            "pronunciation": "/daʊn ˈpeɪmənt/",
+            "example": "He made a down payment on the house."
+          },
+          {
+            "word": "finance",
+            "translation": "moliya, ta'minlamoq",
+            "pronunciation": "/ˈfaɪnæns/",
+            "example": "She works in finance and manages the company's budget."
+          },
+          {
+            "word": "insurance",
+            "translation": "sug'urta",
+            "pronunciation": "/ɪnˈʃʊərəns/",
+            "example": "He has insurance to cover any damage to his car."
+          },
+          {
+            "word": "interest",
+            "translation": "foyda, manfaat, foiz",
+            "pronunciation": "/ˈɪntrəst/",
+            "example": "The bank pays interest on savings accounts."
+          },
+          {
+            "word": "investment",
+            "translation": "sarmoya",
+            "pronunciation": "/ɪnˈvɛstmənt/",
+            "example": "She made a wise investment in the stock market."
+          },
+          {
+            "word": "lump sum",
+            "translation": "to'liq to'lov",
+            "pronunciation": "/lʌmp sʌm/",
+            "example": "He received a lump sum payment for his retirement."
+          },
+          {
+            "word": "mortgage",
+            "translation": "ipoteka",
+            "pronunciation": "/ˈmɔːrɡɪdʒ/",
+            "example": "They took out a mortgage to buy their first home."
+          },
+          {
+            "word": "overdraft",
+            "translation": "mikroqarz(hisobida pul qolmaganda bankdan olingan)",
+            "pronunciation": "/ˈəʊvədrɑːft/",
+            "example": "She exceeded her overdraft limit and incurred fees."
+          },
+          {
+            "word": "pension",
+            "translation": "nafaqa",
+            "pronunciation": "/ˈpɛnʃən/",
+            "example": "He receives a pension from his former employer."
+          },
+          {
+            "word": "share",
+            "translation": "ulush, qism",
+            "pronunciation": "/ʃɛː/",
+            "example": "He owns shares in several technology companies."
+          },
+          {
+            "word": "speculate",
+            "translation": "olib sotarlik qilmoq, chayqovchilik qilmoq",
+            "pronunciation": "/ˈspɛkjʊleɪt/",
+            "example": "Investors speculate on the future price of commodities."
+          },
+          {
+            "word": "withdraw",
+            "translation": "pulni yechib olmoq",
+            "pronunciation": "/wɪðˈdrɔː/",
+            "example": "She went to the ATM to withdraw some cash."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Unit 8",
+        "desc": "Education",
+        "words": [
+          {
+            "word": "block",
+            "translation": "to'sib qo'ymoq, to'siq"
+          },
+          {
+            "word": "brittle",
+            "translation": "mo'rt"
+          },
+          {
+            "word": "chip",
+            "translation": "mayda tarasha, randalamoq"
+          },
+          {
+            "word": "compact",
+            "translation": "zichlamoq, zich"
+          },
+          {
+            "word": "concentrate",
+            "translation": "suv bilan mustahkamlamoq"
+          },
+          {
+            "word": "crack",
+            "translation": "darz ketmoq, yoriq"
+          },
+          {
+            "word": "crumb",
+            "translation": "ushoq(non)"
+          },
+          {
+            "word": "crush",
+            "translation": "ezib yubormoq, yo'q qilmoq"
+          },
+          {
+            "word": "dense",
+            "translation": "zich, qalin"
+          },
+          {
+            "word": "dilute",
+            "translation": "suyultirmoq, suyultirilgan"
+          },
+          {
+            "word": "dissolve",
+            "translation": "eritmoq"
+          },
+          {
+            "word": "fabrik",
+            "translation": "mato, gazlama"
+          },
+          {
+            "word": "firm",
+            "translation": "qattiq"
+          },
+          {
+            "word": "flake",
+            "translation": "mayda bo'lakda yuzadan ajralmoq, mayda yassi bo'lak"
+          },
+          {
+            "word": "fragile",
+            "translation": "mo'rt"
+          },
+          {
+            "word": "friction",
+            "translation": "ishqalanish, surkalish"
+          },
+          {
+            "word": "grain",
+            "translation": "tuz, shakar, qum zarrasi"
+          },
+          {
+            "word": "gravity",
+            "translation": "tortishish kuchi"
+          },
+          {
+            "word": "grind",
+            "translation": "un qilmoq"
+          },
+          {
+            "word": "hollow",
+            "translation": "puch, g'ovak"
+          },
+          {
+            "word": "liquid",
+            "translation": "suyuqlik"
+          },
+          {
+            "word": "lump",
+            "translation": "to'da, qattiq shaklsiz bo'lak"
+          },
+          {
+            "word": "mineral",
+            "translation": "ma'dan mineral"
+          },
+          {
+            "word": "mould",
+            "translation": "shakl bermoq, qolip"
+          },
+          {
+            "word": "opaque",
+            "translation": "xira, tiniq emas"
+          },
+          {
+            "word": "pat",
+            "translation": "shaloplatmoq"
+          },
+          {
+            "word": "pile",
+            "translation": "g'aram, uyum"
+          },
+          {
+            "word": "polish",
+            "translation": "surtmoq, sayqallamoq"
+          },
+          {
+            "word": "scratch",
+            "translation": "tirnalamoq, tirnalgan joy"
+          },
+          {
+            "word": "scrub",
+            "translation": "cho'tka bilan tozalamoq"
+          },
+          {
+            "word": "smash",
+            "translation": "qarsillatmoq"
+          },
+          {
+            "word": "solid",
+            "translation": "qattiq modda"
+          },
+          {
+            "word": "speck",
+            "translation": "dog'"
+          },
+          {
+            "word": "squash",
+            "translation": "ezmoq"
+          },
+          {
+            "word": "sqeeze",
+            "translation": "siqmoq"
+          },
+          {
+            "word": "stack",
+            "translation": "to'plamoq, g'aramlamoq"
+          },
+          {
+            "word": "stiff",
+            "translation": "bukilmaydigan, egilmaydigan"
+          },
+          {
+            "word": "stroke",
+            "translation": "silamoq"
+          },
+          {
+            "word": "stuff",
+            "translation": "narsalar, to'ldirmoq"
+          },
+          {
+            "word": "substance",
+            "translation": "modda"
+          },
+          {
+            "word": "sythetic",
+            "translation": "sintetik"
+          },
+          {
+            "word": "tear",
+            "translation": "yirtmoq, yirtiq"
+          },
+          {
+            "word": "texture",
+            "translation": "matoning sifat darajasi"
+          },
+          {
+            "word": "transparent",
+            "translation": "shaffof"
+          },
+          {
+            "word": "built up",
+            "translation": "binolar qurilgan"
+          },
+          {
+            "word": "bypass",
+            "translation": "aylanma yo'l"
+          },
+          {
+            "word": "construct",
+            "translation": "qurmoq"
+          },
+          {
+            "word": "demolish",
+            "translation": "buzmoq"
+          },
+          {
+            "word": "district",
+            "translation": "tuman"
+          },
+          {
+            "word": "dwell",
+            "translation": "yashamoq"
+          },
+          {
+            "word": "estate",
+            "translation": "joy, maydon"
+          },
+          {
+            "word": "evict",
+            "translation": "majburan ko'chirmoq"
+          },
+          {
+            "word": "high-rise",
+            "translation": "osmono'par"
+          },
+          {
+            "word": "housing",
+            "translation": "uy-joy"
+          },
+          {
+            "word": "infrastructure",
+            "translation": "infratuzilma"
+          },
+          {
+            "word": "inner city",
+            "translation": "shaxar atrofi"
+          },
+          {
+            "word": "occupy",
+            "translation": "ijaraga olmoq, egallamoq"
+          },
+          {
+            "word": "populated",
+            "translation": "odamlar yashaudigan hudud"
+          },
+          {
+            "word": "skyline",
+            "translation": "skaylayn"
+          },
+          {
+            "word": "scyscraper",
+            "translation": "osmono'par bino"
+          },
+          {
+            "word": "structure",
+            "translation": "imorat, bino, tuzilma"
+          },
+          {
+            "word": "suburban",
+            "translation": "shaxar atrofi"
+          },
+          {
+            "word": "surroundings",
+            "translation": "tevarak atrof"
+          },
+          {
+            "word": "urban",
+            "translation": "shaharga oid"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Unit 9",
+        "desc": "Education",
+        "words": [
+          {
+            "word": "acknowledge",
+            "translation": "anglamoq,fahmlamoq,o'z minnatdorchiligini izhoretmoq"
+          },
+          {
+            "word": "agonise",
+            "translation": "azob chekmoq"
+          },
+          {
+            "word": "apathy",
+            "translation": "loqaydlik"
+          },
+          {
+            "word": "avoid",
+            "translation": "qochmoq, o'zini chetga olmoq"
+          },
+          {
+            "word": "behaviour",
+            "translation": "o'zini tutmoq"
+          },
+          {
+            "word": "chuckle",
+            "translation": "qiqir-qiqir kulmoq"
+          },
+          {
+            "word": "comfort",
+            "translation": "qulaylik, yupatish"
+          },
+          {
+            "word": "conduct",
+            "translation": "xulq, boshqarmoq"
+          },
+          {
+            "word": "consequence",
+            "translation": "oqibat, natija"
+          },
+          {
+            "word": "contentment",
+            "translation": "mamnunlik, xursandchilik"
+          },
+          {
+            "word": "cross",
+            "translation": "xafa"
+          },
+          {
+            "word": "dignity",
+            "translation": "unvon, qadr qimmat"
+          },
+          {
+            "word": "disgust",
+            "translation": "jirkanch, g'azablantirish, nafratlanish"
+          },
+          {
+            "word": "disillusioned",
+            "translation": "ko'nglini qoldirmoq"
+          },
+          {
+            "word": "fed up",
+            "translation": "to'yib ketmoq"
+          },
+          {
+            "word": "giggle",
+            "translation": "g'azabli, ahmaqona kulgu"
+          },
+          {
+            "word": "glance",
+            "translation": "ko'z tashlamoq"
+          },
+          {
+            "word": "glimpse",
+            "translation": "bir ko'z tashlamoq"
+          },
+          {
+            "word": "gloat",
+            "translation": "baxillik qilmoq, ichi qoralik qilmoq"
+          },
+          {
+            "word": "glum",
+            "translation": "xo'mraygan"
+          },
+          {
+            "word": "grimace",
+            "translation": "aftini burishtirmoq"
+          },
+          {
+            "word": "grind",
+            "translation": "tirjaymoq, ishshaymoq"
+          },
+          {
+            "word": "handle",
+            "translation": "qo'lga kiritmoq"
+          },
+          {
+            "word": "impatient",
+            "translation": "sabrsiz"
+          },
+          {
+            "word": "insertia",
+            "translation": "sustlik, dangasalik"
+          },
+          {
+            "word": "manners",
+            "translation": "odat, odob"
+          },
+          {
+            "word": "manoeuvre",
+            "translation": "manyovr"
+          },
+          {
+            "word": "moan",
+            "translation": "nola, nola qilmoq"
+          },
+          {
+            "word": "mock",
+            "translation": "masharalamoq"
+          },
+          {
+            "word": "heglect",
+            "translation": "beparvolik, sovuqqonlik, mensimaslik, mensimay qaramoq"
+          },
+          {
+            "word": "peep",
+            "translation": "sirli ko'z tashlamoq"
+          },
+          {
+            "word": "peer",
+            "translation": "mo'ralab qaramoq"
+          },
+          {
+            "word": "prevent",
+            "translation": "oldini olmoq"
+          },
+          {
+            "word": "rejoice",
+            "translation": "xursand bo'lmoq"
+          },
+          {
+            "word": "resent",
+            "translation": "qattiq g'azablanmoq"
+          },
+          {
+            "word": "resolute",
+            "translation": "mustahkam, matonatli, dadil"
+          },
+          {
+            "word": "smirk",
+            "translation": "iljaymoq"
+          },
+          {
+            "word": "snap",
+            "translation": "jazavasi tutmoq, qopmoq"
+          },
+          {
+            "word": "tactic",
+            "translation": "ish uslubi"
+          },
+          {
+            "word": "terror",
+            "translation": "qo'rquv, qo'rqinch"
+          },
+          {
+            "word": "administer",
+            "translation": "dori bermoq(yubormoq)"
+          },
+          {
+            "word": "admit",
+            "translation": "qabul qilmoq"
+          },
+          {
+            "word": "agony",
+            "translation": "eng kuchli og'riq"
+          },
+          {
+            "word": "antidote",
+            "translation": "zaharga qarshi dori"
+          },
+          {
+            "word": "consultant",
+            "translation": "maslahat beruvchi katta doktor"
+          },
+          {
+            "word": "diagnosis",
+            "translation": "diagnoz"
+          },
+          {
+            "word": "inoculate",
+            "translation": "emlamoq"
+          },
+          {
+            "word": "irritation",
+            "translation": "qo'zg'atish, bezovta qilish"
+          },
+          {
+            "word": "numb",
+            "translation": "karaht"
+          },
+          {
+            "word": "nursing home",
+            "translation": "qariyalar uyi"
+          },
+          {
+            "word": "paralysis",
+            "translation": "paralech"
+          },
+          {
+            "word": "plaster",
+            "translation": "plaster, gipslangan"
+          },
+          {
+            "word": "prescribe",
+            "translation": "retsept yozmoq"
+          },
+          {
+            "word": "preventative medicine",
+            "translation": "tibbiy ko'rik, muolaja, maslahat"
+          },
+          {
+            "word": "prognosis",
+            "translation": "prognoz(kasallik rivojlanishi haqida)"
+          },
+          {
+            "word": "sickleave",
+            "translation": "bullitin"
+          },
+          {
+            "word": "side effect",
+            "translation": "qo'shimcha ta'siri"
+          },
+          {
+            "word": "syringe",
+            "translation": "shprits"
+          },
+          {
+            "word": "vaccina",
+            "translation": "vaksina"
+          },
+          {
+            "word": "ward",
+            "translation": "palata"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Unit 10",
+        "desc": "Education",
+        "words": [
+          {
+            "word": "agression",
+            "translation": "tajavvuz"
+          },
+          {
+            "word": "authority",
+            "translation": "hokimiyat"
+          },
+          {
+            "word": "benign",
+            "translation": "yaxshi, rahmdil"
+          },
+          {
+            "word": "bully",
+            "translation": "urmoq, qo'rqitmoq, bezori"
+          },
+          {
+            "word": "command",
+            "translation": "buyruq bemoq, buyruq"
+          },
+          {
+            "word": "conquer",
+            "translation": "zabt etmoq, yengmoq"
+          },
+          {
+            "word": "consent",
+            "translation": "ruxsat, ijozat"
+          },
+          {
+            "word": "controversy",
+            "translation": "baxs, munozara, tortishuv"
+          },
+          {
+            "word": "dictator",
+            "translation": "diktator"
+          },
+          {
+            "word": "dominate",
+            "translation": "hukmronlik qilmoq"
+          },
+          {
+            "word": "eliminate",
+            "translation": "yo'q qilmoq, bartaraf qilmoq"
+          },
+          {
+            "word": "enforce",
+            "translation": "hayotga tatbiq etmoq"
+          },
+          {
+            "word": "entitled",
+            "translation": "huquqiga ega"
+          },
+          {
+            "word": "exempt",
+            "translation": "ozod qilmoq, bo'shatilgan"
+          },
+          {
+            "word": "former",
+            "translation": "sobiq, oldingi"
+          },
+          {
+            "word": "impose",
+            "translation": "majburan qabul qilmoq"
+          },
+          {
+            "word": "inferior",
+            "translation": "sifatiga ko'ra past"
+          },
+          {
+            "word": "intimidate",
+            "translation": "qo'rqitmoq(atay)"
+          },
+          {
+            "word": "label",
+            "translation": "yorliq, etiketga yopishtirmoq"
+          },
+          {
+            "word": "liberate",
+            "translation": "ozod qilmoq, bo'erkinlik bermoq"
+          },
+          {
+            "word": "mainstream",
+            "translation": "oddiy, odatiy"
+          },
+          {
+            "word": "master",
+            "translation": "xo'jayin, egalik qilmoq"
+          },
+          {
+            "word": "minister",
+            "translation": "vazir"
+          },
+          {
+            "word": "monarch",
+            "translation": "monarx"
+          },
+          {
+            "word": "prohibit",
+            "translation": "man etmoq"
+          },
+          {
+            "word": "reign",
+            "translation": "hukmronlik qilmoq, hukmronlik davri"
+          },
+          {
+            "word": "reinforce",
+            "translation": "mustahkamlamoq"
+          },
+          {
+            "word": "reluctant",
+            "translation": "hohlamagan, istab istamay qilish"
+          },
+          {
+            "word": "resist",
+            "translation": "qarshilik ko'rsatmoq, qarshilik qilmoq"
+          },
+          {
+            "word": "restrict",
+            "translation": "cheklamoq"
+          },
+          {
+            "word": "society",
+            "translation": "jamiyat"
+          },
+          {
+            "word": "subject",
+            "translation": "lozim bo'lmoq, mavzu g'oya"
+          },
+          {
+            "word": "subjective",
+            "translation": "subyektiv"
+          },
+          {
+            "word": "submit",
+            "translation": "bo'ysinmoq"
+          },
+          {
+            "word": "summon",
+            "translation": "chaqirmoq(rasman)"
+          },
+          {
+            "word": "superior",
+            "translation": "oliy"
+          },
+          {
+            "word": "undermine",
+            "translation": "vayron qilmoq"
+          },
+          {
+            "word": "unrest",
+            "translation": "notinchlik, xavotirlik"
+          },
+          {
+            "word": "victimise",
+            "translation": "chalg'itmoq, firib bermoq, yo'lg'on gapirmoq"
+          },
+          {
+            "word": "vulnerable",
+            "translation": "zaif, kuchsiz"
+          },
+          {
+            "word": "abolish",
+            "translation": "bekor qilmoq"
+          },
+          {
+            "word": "advocate",
+            "translation": "himoya qilmoq, tarafdor bo'lmoq"
+          },
+          {
+            "word": "alleviate",
+            "translation": "yangillashtirmoq"
+          },
+          {
+            "word": "bureaucracy",
+            "translation": "rasmiyatchilik"
+          },
+          {
+            "word": "charity",
+            "translation": "xayriya"
+          },
+          {
+            "word": "class",
+            "translation": "sinf"
+          },
+          {
+            "word": "community",
+            "translation": "jamoa"
+          },
+          {
+            "word": "convict",
+            "translation": "fosh qilmoq(jinoyatni), aybni isbotlamoq, jazoga hukm etilgan"
+          },
+          {
+            "word": "corruption",
+            "translation": "korruptsiya"
+          },
+          {
+            "word": "deterrent",
+            "translation": "qo'rqitish vositasi"
+          },
+          {
+            "word": "heritage",
+            "translation": "me'ros"
+          },
+          {
+            "word": "immgiration",
+            "translation": "mamlakatga kirib kelish"
+          },
+          {
+            "word": "industrial action",
+            "translation": "norozilik harakati"
+          },
+          {
+            "word": "institution",
+            "translation": "muassasa"
+          },
+          {
+            "word": "legislation",
+            "translation": "qonun"
+          },
+          {
+            "word": "prejudice",
+            "translation": "noto'g'ri tushuncha, oldindan paydo bo'lgan fikr"
+          },
+          {
+            "word": "prison reform",
+            "translation": "qamqo islohati"
+          },
+          {
+            "word": "privileged",
+            "translation": "imtiyozli, yengillikga ega bo'lgan"
+          },
+          {
+            "word": "prosecute",
+            "translation": "qonun yo'li bilan ta'qib etmoq"
+          },
+          {
+            "word": "state",
+            "translation": "davlat"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Unit 11",
+        "desc": "Education",
+        "words": [
+          {
+            "word": "aggravate",
+            "translation": "yomonlashtirmoq"
+          },
+          {
+            "word": "better",
+            "translation": "yaxshilanmoq, yaxshilamoq"
+          },
+          {
+            "word": "blemish",
+            "translation": "dog', xarob qilmoq"
+          },
+          {
+            "word": "chaos",
+            "translation": "o'ta tartibsizlik"
+          },
+          {
+            "word": "cheapen",
+            "translation": "arzonlashmoq"
+          },
+          {
+            "word": "contaminate",
+            "translation": "iflos qilmoq"
+          },
+          {
+            "word": "decline",
+            "translation": "pasaymoq, tushmoq"
+          },
+          {
+            "word": "defective",
+            "translation": "nuqsonli"
+          },
+          {
+            "word": "detrimental",
+            "translation": "zararli, zarar yetkazadigan"
+          },
+          {
+            "word": "devastate",
+            "translation": "xarob qilmoq"
+          },
+          {
+            "word": "enhance",
+            "translation": "oshirmoq, kuchaytirmoq"
+          },
+          {
+            "word": "evaluate",
+            "translation": "baholamoq, narx qo'ymoq"
+          },
+          {
+            "word": "exacerbate",
+            "translation": "kuchaytirmoq(kasalni, muammoni)"
+          },
+          {
+            "word": "exquisite",
+            "translation": "juda chiroyli"
+          },
+          {
+            "word": "frist rate",
+            "translation": "birinchi darajali"
+          },
+          {
+            "word": "flaw",
+            "translation": "kamchilik"
+          },
+          {
+            "word": "ideal",
+            "translation": "bekamu ko'st"
+          },
+          {
+            "word": "indaqeuate",
+            "translation": "talabga javob bermaydigan"
+          },
+          {
+            "word": "invaluable",
+            "translation": "qimmatbaho, bebaho"
+          },
+          {
+            "word": "optimum",
+            "translation": "juda yaxshi sharoit"
+          },
+          {
+            "word": "outclass",
+            "translation": "ancha yaxshi bo'lmoq"
+          },
+          {
+            "word": "prime",
+            "translation": "bosh, muhim, asosiy"
+          },
+          {
+            "word": "redeeming feature",
+            "translation": "ijobiy sifat(xislat)"
+          },
+          {
+            "word": "refurbish",
+            "translation": "yangilamoq"
+          },
+          {
+            "word": "renovate",
+            "translation": "ta'mirlamoq"
+          },
+          {
+            "word": "rotten",
+            "translation": "chiqigan"
+          },
+          {
+            "word": "rusty",
+            "translation": "zanglagan"
+          },
+          {
+            "word": "satisfactory",
+            "translation": "qoniqarli"
+          },
+          {
+            "word": "shambles",
+            "translation": "tartibsizlik, xaroba, vayrona"
+          },
+          {
+            "word": "shoddy",
+            "translation": "soxta, yasama, qalbaki"
+          },
+          {
+            "word": "sound",
+            "translation": "to'la samarali"
+          },
+          {
+            "word": "stale",
+            "translation": "eskirgan, aynigan"
+          },
+          {
+            "word": "streamline",
+            "translation": "yaxshilamoq"
+          },
+          {
+            "word": "strengthen",
+            "translation": "mustahkamlamoq, kuchaytirmoq"
+          },
+          {
+            "word": "surpass",
+            "translation": "oshib ketmoq, ustun kelmoq"
+          },
+          {
+            "word": "ultimate",
+            "translation": "oxirgi, maksimal"
+          },
+          {
+            "word": "worsen",
+            "translation": "yomonlashmoq"
+          },
+          {
+            "word": "wreck",
+            "translation": "barbod bo'lmoq, halokatga uchramoq"
+          },
+          {
+            "word": "abstract",
+            "translation": "mavhum, aniq bo'lmagan"
+          },
+          {
+            "word": "auction",
+            "translation": "auktsion"
+          },
+          {
+            "word": "audition",
+            "translation": "kastingdagi ijro"
+          },
+          {
+            "word": "bestseller",
+            "translation": "bestseller"
+          },
+          {
+            "word": "collector's item",
+            "translation": "kolleksiya buyumi"
+          },
+          {
+            "word": "curator",
+            "translation": "muzey xodimi"
+          },
+          {
+            "word": "fine art",
+            "translation": "amaliy san'at"
+          },
+          {
+            "word": "installation",
+            "translation": "san'at asari jamlanmasi"
+          },
+          {
+            "word": "lines",
+            "translation": "aktyor so'zi"
+          },
+          {
+            "word": "lyrics",
+            "translation": "lirika"
+          },
+          {
+            "word": "masterpiece",
+            "translation": "shox asar"
+          },
+          {
+            "word": "paperback",
+            "translation": "qog'oz muqovali kitob"
+          },
+          {
+            "word": "period",
+            "translation": "davr"
+          },
+          {
+            "word": "priceless",
+            "translation": "bebaho"
+          },
+          {
+            "word": "recital",
+            "translation": "ifoda etish, aytib berish"
+          },
+          {
+            "word": "retrospective",
+            "translation": "o'tmishka qaratilgan"
+          },
+          {
+            "word": "score",
+            "translation": "soundtrek"
+          },
+          {
+            "word": "sketch",
+            "translation": "eskiz, eskiz chizmoq, skech"
+          },
+          {
+            "word": "work of art",
+            "translation": "san'at asari"
+          },
+          {
+            "word": "worthless",
+            "translation": "qiymatsiz"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Unit 12",
+        "desc": "Education",
+        "words": [
+          {
+            "word": "adjacent",
+            "translation": "tutash, yonma yon"
+          },
+          {
+            "word": "attach",
+            "translation": "biriktirmoq, yopishtirmoq"
+          },
+          {
+            "word": "bond",
+            "translation": "aloqa, birlashtirmoq, birikmoq"
+          },
+          {
+            "word": "coexist",
+            "translation": "birga yashamoq, birga mavjud bo'lmoq"
+          },
+          {
+            "word": "coherent",
+            "translation": "asosli va aqlli bog'langan"
+          },
+          {
+            "word": "compatible",
+            "translation": "mos keluvchan"
+          },
+          {
+            "word": "comprise",
+            "translation": "ichiga olmoq"
+          },
+          {
+            "word": "compromise",
+            "translation": "murosaga kelmoq"
+          },
+          {
+            "word": "conflict",
+            "translation": "nizo, qarshi chiqmoq"
+          },
+          {
+            "word": "confront",
+            "translation": "yuzma yuz kelmoq, dadil bormoq"
+          },
+          {
+            "word": "consistent",
+            "translation": "to'g'ir keladigan, izchil"
+          },
+          {
+            "word": "contrasting",
+            "translation": "o'zgacha, farqli"
+          },
+          {
+            "word": "coorporate",
+            "translation": "birga ish olib bormoq"
+          },
+          {
+            "word": "correspond",
+            "translation": "mos kelmoq, muvofiq bo'lmoq"
+          },
+          {
+            "word": "dispute",
+            "translation": "tortishmoq, tortishuv"
+          },
+          {
+            "word": "distinguish",
+            "translation": "farqlamoq"
+          },
+          {
+            "word": "diverse",
+            "translation": "turli"
+          },
+          {
+            "word": "divorce",
+            "translation": "ajralish"
+          },
+          {
+            "word": "equivalent",
+            "translation": "teng qiymatli"
+          },
+          {
+            "word": "exclude",
+            "translation": "haydamoq, chiqarmoq"
+          },
+          {
+            "word": "external",
+            "translation": "tashqi, xorijiy"
+          },
+          {
+            "word": "identify(with)",
+            "translation": "tanimoq, aniqlamoq"
+          },
+          {
+            "word": "integral",
+            "translation": "ajralmas, muhim, ahamiyatli"
+          },
+          {
+            "word": "integrate",
+            "translation": "bir jamiyatga qo'shilmoq"
+          },
+          {
+            "word": "interfere",
+            "translation": "aralashmoq, xalaqit bermoq"
+          },
+          {
+            "word": "intermediate",
+            "translation": "vositachi"
+          },
+          {
+            "word": "internal",
+            "translation": "ichki"
+          },
+          {
+            "word": "intervene",
+            "translation": "aralashmoq, xalaqit bermoq"
+          },
+          {
+            "word": "intimate",
+            "translation": "yaqin, jinsiy, sirdosh"
+          },
+          {
+            "word": "involve",
+            "translation": "o'z ichiga olmoq"
+          },
+          {
+            "word": "joint",
+            "translation": "qo'shma, birlashgan"
+          },
+          {
+            "word": "liken",
+            "translation": "qiyoslamoq, taqqoslamoq"
+          },
+          {
+            "word": "link",
+            "translation": "aloqa bog'lamoq, ulamoq, aloqa, zanjir"
+          },
+          {
+            "word": "merge",
+            "translation": "qo'shilmoq, birlashmoq"
+          },
+          {
+            "word": "mutual",
+            "translation": "ikki tomonlama"
+          },
+          {
+            "word": "negotiate",
+            "translation": "kelishmoq, muzokara olib bormoq"
+          },
+          {
+            "word": "related",
+            "translation": "aloqador, bog'liq"
+          },
+          {
+            "word": "relative",
+            "translation": "nisbiy, qiyosiy, qarindosh"
+          },
+          {
+            "word": "resemblance",
+            "translation": "o'xshashlik"
+          },
+          {
+            "word": "aquaintance",
+            "translation": "tanish bilish"
+          },
+          {
+            "word": "adopt",
+            "translation": "qabul qilish, o'g'il qilib asramoq"
+          },
+          {
+            "word": "ancestor",
+            "translation": "ajdod"
+          },
+          {
+            "word": "citizen",
+            "translation": "fuqaro"
+          },
+          {
+            "word": "companion",
+            "translation": "hamroh"
+          },
+          {
+            "word": "dependant",
+            "translation": "qaram, tobe"
+          },
+          {
+            "word": "descendant",
+            "translation": "avlod, zurriyot"
+          },
+          {
+            "word": "empathise",
+            "translation": "ifodalamoq, ta'qidlamoq"
+          },
+          {
+            "word": "extrovert",
+            "translation": "faqat o'z manfaatini ko'zlaydigan kishi, faqat tashqi muhit bilan qiziqadigan"
+          },
+          {
+            "word": "foster",
+            "translation": "tarbiyalamoq"
+          },
+          {
+            "word": "guardian",
+            "translation": "vasiy, pospon"
+          },
+          {
+            "word": "introvert",
+            "translation": "hissiyotlarga beriladigan ayol"
+          },
+          {
+            "word": "partner",
+            "translation": "sherik"
+          },
+          {
+            "word": "peer",
+            "translation": "tengdosh"
+          },
+          {
+            "word": "predecessor",
+            "translation": "ajdod, ota bobo"
+          },
+          {
+            "word": "sibling",
+            "translation": "aka uka"
+          },
+          {
+            "word": "spouse",
+            "translation": "turmush o'rtog'i"
+          },
+          {
+            "word": "stepmother",
+            "translation": "o'gay ona"
+          },
+          {
+            "word": "successor",
+            "translation": "voris, davomchi"
+          },
+          {
+            "word": "sympathise",
+            "translation": "achinmoq, rahmi kelmoq"
+          }
+  
+        ]
+      }
+  ]
