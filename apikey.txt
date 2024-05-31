@@ -3,3 +3,5 @@ const ApiKey = 'trnsl.1.1.20240328T172133Z.800fbf38653eb71f.274911e5561765645d30
 const gptApiKey = "sk-proj-G6lWv8gAxQ3ZN0UqT4rrT3BlbkFJkx990Q2tEj9owqpeEadx"
 
 const youtubeapiKey = 'AIzaSyDIzE0cMuXhCnskyQ-hTHQTxBC4ZEgIOzY'
+
+const botToken = "7234196367:AAGuOb1cksz1UygfYmm7ds2RkGgJud_C8YI"
